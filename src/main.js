@@ -1,7 +1,7 @@
 
 // Constants
 const Constants = {
-    TOTAL_GIFS: 29,
+    TOTAL_GIFS: 113,
     GIF_KEYBORD_SWITCH: 'g',
     PLAY_PAUSE_KEYBORD_SWITCH: ' ',
     PREV_KEYBORD_SWITCH: 'arrowleft',
@@ -115,9 +115,9 @@ function stopVideo() {
 }
 
 /**
- * randomly selects and sets as background cover image for the 
+ * randomly selects and sets as background cover image for the
  * main container div in the home UI
- * @returns 
+ * @returns
  */
 async function randomizeGifWall() {
     const containerDiv = window.document.querySelector("#mainContainer");
@@ -132,7 +132,7 @@ async function randomizeGifWall() {
 
 /**
  * Event handler for keyboard press
- * @param {KeyboardEvent} event 
+ * @param {KeyboardEvent} event
  */
 async function handleKeyPress(event) {
     // Configure the randomize GIF walls
