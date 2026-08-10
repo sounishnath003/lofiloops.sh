@@ -1,11 +1,10 @@
 // Lofi Stations Song Data
 // query:
 // 2008-2016 hit bollywood
-// trending bollywood soft lofi + 90s
-// trending bollywoord soft lofi songs
+// trending bollywood 2000s to 2016
 const BollywoodLofiSongsSuggestions = {
     "kind": "youtube#searchListResponse",
-    "etag": "ARYAPOSrpK81VkYqtd42N_ntbfk",
+    "etag": "c3Guz5p3U0zPmoZ-rxl-TcGaXi0",
     "nextPageToken": "CDIQAA",
     "regionCode": "IN",
     "pageInfo": {
@@ -13,6 +12,1706 @@ const BollywoodLofiSongsSuggestions = {
         "resultsPerPage": 50
     },
     "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dYtpFEolvBmskgW5xcAGDyIVtg8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-1CwZ-U7UEs"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-30T04:36:30Z",
+                "channelId": "UCyXAU6RAAXl0vJ_Vt0_ErWQ",
+                "title": "1 Hour Of Pure Lofi | Metro Version | Arijit Singh lofi To Travel/Study/Drive/Chill/Relaxing/Peace",
+                "description": "1 Hour of Pure Peace | Metro Version | Rain lofi edit to Travel/Chill/Study/Relax/Arijit Singh Aapka 1 SUB hamare liye SAB KUCH ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-1CwZ-U7UEs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-1CwZ-U7UEs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-1CwZ-U7UEs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "One lofi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-30T04:36:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZquTw7qQteXEcOXeitqtOhX86zM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zoFLbJ_09aM"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-19T09:08:26Z",
+                "channelId": "UChB_iZuSPdfgbBcfbFLYUEw",
+                "title": "Mind Relax Lofi Mashup | Mind Relaxing Songs | Mind Relax Lofi Song | Slowed And Reverb | Lofi Songs",
+                "description": "Mind Relax Lofi Mashup | Mind Relaxing Songs | Mind Relax Lofi Song | Slowed And Reverb | Lofi Songs तुरंत 100 ₹ का ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zoFLbJ_09aM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zoFLbJ_09aM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zoFLbJ_09aM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ɴɪᴛɪɴ_ᴛᴏᴍᴜ_ᴘᴀʏᴀʟ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-19T09:08:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T74oGgSQYE_2XfTQbErKu3UtZGQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "t8yVk0bm684"
+            },
+            "snippet": {
+                "publishedAt": "2024-08-26T21:33:28Z",
+                "channelId": "UCZ6hBDVD-MjBbKOX68u1pEQ",
+                "title": "1 Hour of Night Hindi Lofi Songs To \\Chill \\Relax \\Refreshing",
+                "description": "Assalamualaikum! To everyone this is me Vicky bhai Don't forget to subscribe !!! Thanks for watching !!! Follow me on Instagram ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t8yVk0bm684/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t8yVk0bm684/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t8yVk0bm684/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "viral vicky vlogs ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-08-26T21:33:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vuKuIOVmDXFJqv-n7Dy5_93i5zE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZdFIOTWP4Og"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-05T17:26:22Z",
+                "channelId": "UCyU-o_EiodynYNHs0qsRxvQ",
+                "title": "Main Kabhi Bhoolunga Na Tujhe || Saudebaazi ft. Aakrosh [Lofi + Slowed + Reverb ] Aini Lofi",
+                "description": "Main Kabhi Bhoolunga Na Tujhe || Saudebaazi ft. Aakrosh [Lofi + Slowed + Reverb ] Aini Lo-Fi Lyrics: sidhe saade saara saula ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZdFIOTWP4Og/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZdFIOTWP4Og/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZdFIOTWP4Og/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Aini Lofi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-05T17:26:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zL7slhd6uw208_AQ3jqtlqRhzXo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rmTkVzFMGDI"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-08T14:32:30Z",
+                "channelId": "UCh7aocZezr9gnY0uh0uONVA",
+                "title": "LO-FI 2307&#39;s NON STOP INSTAGRAM TRENDING LOVE MASHUP - Part 22 | #instatrendingsongs",
+                "description": "Falling in love with these melodies again & again ❤️   Save this for your special moments ✨ This isn't just a mashup… it's a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rmTkVzFMGDI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rmTkVzFMGDI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rmTkVzFMGDI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lo-fi 2307",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-08T14:32:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xmGUAPcgbWGPvXKO4tVGUNlh_Ig",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "43y5rT7YjQY"
+            },
+            "snippet": {
+                "publishedAt": "2026-06-01T05:59:31Z",
+                "channelId": "UCIDodw56OlbUMglSxZDskHA",
+                "title": "Mind relaxing lofi song Arijit Singh | Soft songs | Arijit Singh songs | best lofi song",
+                "description": "Best Of Arijit Singh / Old Hits Song / Top 10 All time Hits song / Arijit Singh old song /arijit singh old songs, #VibesofLoveMashup ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/43y5rT7YjQY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/43y5rT7YjQY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/43y5rT7YjQY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Y Music 2",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-06-01T05:59:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cDA2dXsdtyod1rOllrwJlBNW1rU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SNx32obvuEk"
+            },
+            "snippet": {
+                "publishedAt": "2026-05-16T02:30:15Z",
+                "channelId": "UCbY4gigcnydHeOc9MJ2_crA",
+                "title": "Viral Chill Songs Playlist 2026🔥I MidnightVibes | Non-Stop Trending Lofi + Bollywood Mix l [Part-1]",
+                "description": "Non-Stop Chill & Trending Songs Playlist (Part 1) Featuring Lofi, Pop, Bollywood, and Soulful Hits – perfect for studying, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SNx32obvuEk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SNx32obvuEk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SNx32obvuEk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Viralics ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-05-16T02:30:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "d9zUbjBQTnMAb2Kr1H2fUxVZ1iw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "meVTfMpy0xU"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-27T10:21:57Z",
+                "channelId": "UCJrOdrKeRHmagNnpapuVUwQ",
+                "title": "🔥𝐀 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓 𝐅𝐎𝐑 𝐖𝐇𝐄𝐍 𝐘𝐎𝐔’𝐑𝐄 𝐀𝐋𝐎𝐍𝐄 𝐖𝐈𝐓𝐇 𝐘𝐎𝐔𝐑 𝐓𝐇𝐎𝐔𝐆𝐇𝐓𝐒 :)#fyp #trending #viral #video #songs #playlist",
+                "description": "HASHTAGS :- #playlist #hindisongs #lofi #aesthetic #sadplaylist #latenightvibes #emotionalplaylist #heartbreaksongs #arijitsingh ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/meVTfMpy0xU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/meVTfMpy0xU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/meVTfMpy0xU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "𝙏𝙖𝙣𝙭 𝙀𝙙𝙞𝙩𝙯 🌷",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-27T10:21:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yj5uAlbTx45u5yBE1HPDWIPpSAk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1sRaLqtHXQU"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-22T07:56:11Z",
+                "channelId": "UCFAeAlzbYVwtk7dGaVeBOZg",
+                "title": "Ek Din Aap Yun [ Slowed + Reverb ] | 90&#39;s songs",
+                "description": "Ek Din Aap Yun [ Slowed + Reverb ] | 90's songs #lyrics #hindisong #90shindisongs orginal video song ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1sRaLqtHXQU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1sRaLqtHXQU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1sRaLqtHXQU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sanju ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-22T07:56:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tOOj8F9jAEm3R7DXbBdZyZeayKA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "09GdTgGahQs"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-26T05:15:01Z",
+                "channelId": "UCU5sSVmBhwuGsZs0YzrBgAA",
+                "title": "Bairan (Slowed + Reverb) | Banjaare | Gurie, Roni | SSR Lofi",
+                "description": "Bairan (Slowed + Reverb) | Banjaare | Gurie, Roni | SSR Lofi Use Headphone For Better Experience   Song Credit: Song Title: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/09GdTgGahQs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/09GdTgGahQs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/09GdTgGahQs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SSR Lofi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-26T05:15:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-8zSaQwS4VMsXeUWIz3uABMH93M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yQmPk0e7Q1w"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-06T05:30:06Z",
+                "channelId": "UC8Y3votUz8aBhod7TIuSxLw",
+                "title": "Viral Chill Songs Playlist 2025 💿 | Non-Stop Trending Lofi + Bollywood Mix| Part 7 | LATE NIGHT VIBE",
+                "description": "Non-Stop Chill & Trending Songs Playlist (Part 7) Featuring Lofi, Pop, Bollywood, and Soulful Hits – perfect for studying, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yQmPk0e7Q1w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yQmPk0e7Q1w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yQmPk0e7Q1w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "𝐿𝒾𝓍 ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-06T05:30:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "M9fvcOHQB7AZVgZfX1k5BzI2lNc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GrKvW6Dcrco"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-29T08:30:11Z",
+                "channelId": "UCsyItmQrqFSTRKqIQgPQO_Q",
+                "title": "2026 Ultimate Mind Relax Beautiful Mashup 🥰 | Study, Sleep &amp; Chill Lofi #lofimusic #trendingsong ",
+                "description": "2026 Ultimate Mind Relaxing Beautiful Lofi Songs | Study, Sleep & Chill Welcome to the world of soothing lofi music, where stress ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GrKvW6Dcrco/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GrKvW6Dcrco/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GrKvW6Dcrco/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Music JUHI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-29T08:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5mZs9fuaisDqas4n6587YsV6nNE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HBHHV_NxBVk"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-04T15:30:07Z",
+                "channelId": "UCuVr87LLzC2tiLnWHsfYWOQ",
+                "title": "Sahiba &amp; Sundari 🕊️ (Slowed+Reverb) | Peaceful Night Mood",
+                "description": "Lose yourself in the soothing vibes of this Slowed + Reverb Mix featuring Sahiba, Sundari, Jana Mera, Sawalon Ka Manzar Tu, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HBHHV_NxBVk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HBHHV_NxBVk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HBHHV_NxBVk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lofi Waves",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-04T15:30:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UUeJ8hyX8EOq2XT2yw97HehXe6A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "n61ULEU7CO0"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-31T16:30:13Z",
+                "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
+                "title": "Best of lofi hip hop 2021 ✨ [beats to relax/study to]",
+                "description": "Listen on Spotify, Apple music and more → https://fanlink.tv/BestofLofi2021 The new Lofi Girl compilation “Best of 2021” is out now ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n61ULEU7CO0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n61ULEU7CO0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n61ULEU7CO0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lofi Girl",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-31T16:30:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uV2QBtnSoBx4HpoXvpkoSoq3bOw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zFYg6jz-EWY"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-28T06:30:37Z",
+                "channelId": "UCNd10J3leMSRbaLXaWUzsSg",
+                "title": "Viral Chill Songs Playlist 2025 💿 |Midnight Vibes| Non-Stop Trending Lofi + Bollywood Mix|[Part-3]| ",
+                "description": "Non-Stop Chill & Trending Songs Playlist (Part 3) Featuring Lofi, Pop, Bollywood, and Soulful Hits – perfect for studying, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zFYg6jz-EWY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zFYg6jz-EWY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zFYg6jz-EWY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hix",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-28T06:30:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-agiBBS4Rr5sVj-UBFHVC_oJgyM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C7WoqglcHDo"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-10T12:00:11Z",
+                "channelId": "UCQS62fthGCvtyLfdG-MFS-Q",
+                "title": "Lofi remix songs - Best Lofi English Songs ( Lofi Remix )",
+                "description": "Lofi remix songs - Best Lofi English Songs ( Lofi Remix ) https://www.youtube.com/watch?v=cpYjtN6nG1o&t=874s Lofi english ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C7WoqglcHDo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C7WoqglcHDo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C7WoqglcHDo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Acoustic Lofi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-10T12:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KJaRzIMLXxsCzN2yuubDAkZx6-A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8YB-zGeNfD4"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-10T12:56:21Z",
+                "channelId": "UC9LzSOHcYX36-MSjngGCG1A",
+                "title": "Old Hindi Songs 😌Unplugged 🥰[Unplugged Covers] Song || core music || Old Hindi mashup 💞|| Relax/Chil",
+                "description": "Old Hindi Songs Unplugged [Unplugged Covers] Song || core music || Old Hindi mashup || Relax/Study/Chill/Refresh/Sleep ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8YB-zGeNfD4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8YB-zGeNfD4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8YB-zGeNfD4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Editsmith ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-10T12:56:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5B5WqpGdQOc5osd7wL5t-CWJ9bc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "c2nHrLWOpZs"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-22T03:05:53Z",
+                "channelId": "UCRKMH_yVSypSnSlkWISZ2-g",
+                "title": "Teri Ankhiyan Teri Sakhiyan [ Kamal Song ] #lyricsvideo #aestheticshorts #music #lofi #song #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c2nHrLWOpZs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c2nHrLWOpZs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c2nHrLWOpZs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "𝐒𝐰𝐫𝐞𝐝𝐗",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-22T03:05:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4Z08qX_fQXdPjNGbLL-K9bcGoaY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vOxZJ0wKaGc"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-11T05:30:08Z",
+                "channelId": "UCsfPht2eCM_IHta3OItPFfQ",
+                "title": "Lofi mashup || non stop + love songs || use headphones And feel Songs || @musicclub_143",
+                "description": "Lofi Mashup || Non Stop + Love Songs || Use Hedphones And feel Songs || ( @musicclub_143 ) FOR BEST EXPERIENCE ,USE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vOxZJ0wKaGc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vOxZJ0wKaGc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vOxZJ0wKaGc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "music club",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-11T05:30:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LsZFlph-m1c1HIOftg6zAQzFHWg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vakdDdP8hvw"
+            },
+            "snippet": {
+                "publishedAt": "2025-02-01T15:30:30Z",
+                "channelId": "UCeo1PjVjuOTdOVO3345qlqw",
+                "title": "MERA YAARA : Wo noor ka jharna h Me Pyas Purani | Full Song Lofi | BS LO-FI 💝⚡😊",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vakdDdP8hvw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vakdDdP8hvw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vakdDdP8hvw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BS Lofi 🤍",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-02-01T15:30:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aSGIZQ8xPhnQTVOze08TP1OvYqQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oBwrlePfchs"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-15T07:34:46Z",
+                "channelId": "UCIEd5t_uEWaFBye5bYIceow",
+                "title": "Alone Night -24  Mash-up l Lofi pupil | Bollywood spongs  | Chillout Lo-fi Mix #KaranK2official",
+                "description": "drivemashup #lofiboy #bollywoodsongs #Painfullofi #Lovemashup #lofi-mix #karank2official Use Headphone For Better ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oBwrlePfchs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oBwrlePfchs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oBwrlePfchs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "#KaranK2 official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-15T07:34:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "O4XFAqOyDuOMrj2nlNBaC18jbCU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "609jQM0sA1E"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-29T16:00:18Z",
+                "channelId": "UCZy_1WNgqZXMqrYeKoX-n1A",
+                "title": "Top 5 Best LoFi Versions Of Hindi Songs 😊 | Maand , Mann Mera | #shorts #trendingnow",
+                "description": "Top 5 Best LoFi Songs Jinko Sunkar Alag Hi Sukoon Milta Hai | Maand , Mann Mera | #shorts #lofi Top 5 Best LoFi Versions Of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/609jQM0sA1E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/609jQM0sA1E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/609jQM0sA1E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "We R Cinephiles",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-29T16:00:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ymkMfScPUWWJuHAn5J8qhT3SVp0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xyL4vZnw5xs"
+            },
+            "snippet": {
+                "publishedAt": "2026-05-11T13:31:13Z",
+                "channelId": "UChJZRJYTIHipazB6aYLzHyQ",
+                "title": "Tum Jo Aaye ✨ || Kitab Song || Bairan ( Slowed X Reverb ) Mix Songs❣️",
+                "description": "Thanks for watching my Song Songs included: Tum Jo Aaye Ye Tune Kya Kiya Hamara Haal Na Puchho Kitab ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xyL4vZnw5xs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xyL4vZnw5xs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xyL4vZnw5xs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lofi Mix-up",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-05-11T13:31:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "j446rD4Xy7K-w_Kz7CpxnPDBXPM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zYvNU_pnqYI"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-28T06:50:58Z",
+                "channelId": "UCOiGO8p4mUWeXoOLQoM_q3w",
+                "title": "1 Hour Hindi Lofi 🌙 Midnight Sukoon | Relax, Study, Sleep | Rain &amp; Love Vibes | Indian Chill Beats",
+                "description": "chillmusic #stressrelief #meditationmusic #softmusic #backgroundmusic #focusmusic #newlovesong #breaksong #hindisongs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zYvNU_pnqYI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zYvNU_pnqYI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zYvNU_pnqYI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Love Vibes India",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-28T06:50:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8Y_LNx7eKlpFcnfLTtd2XDGpowY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nr5VcDPzYCg"
+            },
+            "snippet": {
+                "publishedAt": "2026-08-07T03:00:03Z",
+                "channelId": "UCpResDUW8JPFppq6dNqTiVg",
+                "title": "Trending Romantic Songs ❤️ 2026 Beautiful Mashup | Best Hindi Love Song #romanticsong #trendingsong",
+                "description": "Trending Romantic Songs ❤️ 2026 Beautiful Mashup | New Trending Love Song ❤️ Best Hindi Love Song | Latest Romantic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nr5VcDPzYCg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nr5VcDPzYCg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nr5VcDPzYCg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Grow Music ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-08-07T03:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "G0ypuVvIzs7BCg3TFxYalJ0ebdc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AeMfBXyQLgE"
+            },
+            "snippet": {
+                "publishedAt": "2024-09-29T12:00:23Z",
+                "channelId": "UCSX-M9pOWhiZGaKZFEC2boQ",
+                "title": "Beautiful of Love Jukebox 2024 | Swaraj Komejwar | Non-Stop Romantic Mashup | LoFi Chillout",
+                "description": "Presenting - Beautiful of Love Jukebox 2024 | Swaraj Komejwar | Non-Stop Romantic Mashup | LoFi Chillout Mashup : Swaraj ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AeMfBXyQLgE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AeMfBXyQLgE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AeMfBXyQLgE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Swaraj Komejwar",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-09-29T12:00:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jR4m5oEEiVKNNMRZ-gLhwhUfbg0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h3sv2ag4HNQ"
+            },
+            "snippet": {
+                "publishedAt": "2026-05-28T08:21:16Z",
+                "channelId": "UCf4p8JKEqKUO1MvzfYG-5qQ",
+                "title": "Midnight vibes #trendingsong #astheticsong #song#lofisong #mashup",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h3sv2ag4HNQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h3sv2ag4HNQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h3sv2ag4HNQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "A3's Asthetic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-05-28T08:21:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5ifLo_YsKWOtYE1J1oCQl97-g-E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9iFokGHJY6Q"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-09T03:30:02Z",
+                "channelId": "UCmK3CN3i0kbXSjP3fJVGVCQ",
+                "title": "Deewana Kar Raha Hai - Javed Ali [Slowed+Reverb] | Night Chills | Perfectly slowed Lo-fi Song.",
+                "description": "Support the channel ❤️ https://linktr.ee/NightChills Visit my store via the Linktree and grab something you like! Official video: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9iFokGHJY6Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9iFokGHJY6Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9iFokGHJY6Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Night Chills",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-09T03:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9Lpp0qEkE_WyAXaODT3OUyGlMus",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3_Y885eZ4Es"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-24T01:54:47Z",
+                "channelId": "UCeSEnReAU9Wkrj3vr8LJBvw",
+                "title": "Sitaare [Slowed+Reverb] - Arijit Singh | Amitabh Bhattacharya",
+                "description": "Arijit Singh's Sitaare (bas tumsey milne ki der thi) \"from movie Ikkis\" #arijitsingh #slowedandreverb #sitaare #amitabhbhattacharya ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3_Y885eZ4Es/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3_Y885eZ4Es/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3_Y885eZ4Es/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Manan mp3",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-24T01:54:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SxZtyyRdgP6Fobw6lVkTIZz-xrk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "84u41t5v4j4"
+            },
+            "snippet": {
+                "publishedAt": "2025-01-30T11:57:39Z",
+                "channelId": "UCgJa4HP0mSM4SkaPh2UACUA",
+                "title": "LOFI COVERS of popular songs 🌙 2025 | chill lofi for focus",
+                "description": "LOFI COVERS of Popular Songs 2025 | Chill Lofi for Focus & Relaxation Unwind with the best lo-fi versions & remixes of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/84u41t5v4j4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/84u41t5v4j4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/84u41t5v4j4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "cutie blue",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-01-30T11:57:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0zJQWNopFdkCEFz-ier3rfcuHPM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "11rbWfSMev0"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-02T05:00:06Z",
+                "channelId": "UCnVf3uOeWKhmPEwDrrkttYA",
+                "title": "20 minutes of Tamil Lofi | Tamil Lofi Compilation | ReTuned | Tamil Lofi Vol.4 | eternaL",
+                "description": "Tamil Lofi Songs Time Stamps 00:00 Munbe Vaa X Oorum Blood 02:53 Sundari kannal oru Sethi 06:47 Rasaathi Unna 11:11 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/11rbWfSMev0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/11rbWfSMev0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/11rbWfSMev0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "eternaL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-02T05:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZI8qC7rSOh_3cH9RrtHVyZLKyHQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lgG6EGb0gIo"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-21T15:00:39Z",
+                "channelId": "UCA52eHr3kyeAyKkCVjx9fHQ",
+                "title": "Best of Arijit Singh| sad/study chill/Relaxing | SH Lofi",
+                "description": "Presenting best songs of arijit Singh I hope you will enjoy. Hay if you like this Please Like and Comment. Best of arijit sing ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lgG6EGb0gIo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lgG6EGb0gIo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lgG6EGb0gIo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SH Lofi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-21T15:00:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "by9ThQlxwN9GVHTY0DD-YOvqhd4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "k_xzPBp14rw"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-29T18:00:41Z",
+                "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
+                "title": "girl i just graduado 🎓",
+                "description": "Artwork by → @anya__anim @Saliseburi @determinedartfreak on IG | Listen on Spotify, Apple music and more ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k_xzPBp14rw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k_xzPBp14rw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k_xzPBp14rw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lofi Girl",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-29T18:00:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Nfhc6lVay3zIeqCb_EXlu1iFi3k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CmHfWSxt0UQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-09T03:16:06Z",
+                "channelId": "UCA52eHr3kyeAyKkCVjx9fHQ",
+                "title": "30 minutes English x Hindi lofi  | Study chill | Ep 2 Of Relaxing Mashups",
+                "description": "Presenting lots of relaxing English x Hindi mashups Are you looking for Relaxing lofi mashups?. This English x hindi Lofi mashup ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CmHfWSxt0UQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CmHfWSxt0UQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CmHfWSxt0UQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SH Lofi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-09T03:16:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "H1aN4svoTOpCyZOTfUo0CGycZ8Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eW4qmvv4y5U"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-27T04:09:49Z",
+                "channelId": "UCbE4LL7yex0FAOkWvnrZdjA",
+                "title": "TUM SE HI : jab we met | Mohit Chauhan | slowed-reverb | LO-FI VERSION | Sleepy head #trending",
+                "description": "trending #lofi #slowedandreverb #lofibeats #lofimusic #slowed #lofihiphop #slowedreverb Above Video is not published for any ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eW4qmvv4y5U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eW4qmvv4y5U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eW4qmvv4y5U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sleepy head",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-27T04:09:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UejoIdOctr0_2x40VKQLOrE7YHk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mpsE3D8Z4CM"
+            },
+            "snippet": {
+                "publishedAt": "2026-08-05T03:00:30Z",
+                "channelId": "UCpResDUW8JPFppq6dNqTiVg",
+                "title": "Trending Songs 2026 ❤️ Best Romantic Songs | Latest Bollywood Songs 2026 | New hindi Love Song",
+                "description": "Trending Songs 2026 ❤️ Best Romantic Songs | Latest Bollywood Songs 2026 | New Hindi Love Song | New Songs 2026 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mpsE3D8Z4CM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mpsE3D8Z4CM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mpsE3D8Z4CM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Grow Music ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-08-05T03:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ew7PbO6WN9-e6IqwtmM76HkM_ms",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r9HT2npCMu4"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-16T07:45:37Z",
+                "channelId": "UC0qlylYP4lEfKY_AwhJq3uA",
+                "title": "Best of KK | Lofi Song  chill beats",
+                "description": "Best of KK | Lofi Song chill beats backgroundmusic Viral #kk #songs #Lofi Copyright policy in my account views are freeze so ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r9HT2npCMu4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r9HT2npCMu4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r9HT2npCMu4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gaming Prakhar ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-16T07:45:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xkpbIxQl95Q-u_QMIO1F2dmv98M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BWvBV8rYP98"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-05T03:29:30Z",
+                "channelId": "UCnUXOfO-dY_m3ATzmienbvA",
+                "title": "MAKHMALI (मखमली ) lofi | By - Sonu Nigam, Shreya Ghoshal | Slowed and reverb | @Pixels_beat",
+                "description": "Use headphones to lost in vibes. ⭐ If you like the Musical Vibes \"Subscribe \" and turn on the \"Notifications \" for more ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BWvBV8rYP98/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BWvBV8rYP98/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BWvBV8rYP98/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pixel's Beat ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-05T03:29:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YVWIkYtuVwdfADigPnJh3f2mcao",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Kui31sfEQn4"
+            },
+            "snippet": {
+                "publishedAt": "2025-12-02T16:38:57Z",
+                "channelId": "UC9yh7BcGs9pvTEgPZa1rFXw",
+                "title": "Playlist to create fake scenarios in your mind... (♡´･ᴗ･`♡) #fypviralシ#aestheic#aestheticlovergirl",
+                "description": "fypviralシ#aestheticlovergirl#aestheic#love#fakescenarios#aestheic Timecodes 00:00 Pal pal dil ke paas 01:20 Fakira 02:13 Teri ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kui31sfEQn4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kui31sfEQn4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kui31sfEQn4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Aesthetic lover Girl",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-12-02T16:38:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DG9U8OMG_il-gRqANq8rMymlLYc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_apQm_FGejM"
+            },
+            "snippet": {
+                "publishedAt": "2026-07-21T10:42:05Z",
+                "channelId": "UCdhdiChIMx8mekYorcHK04A",
+                "title": "Monsoon Mind Relaxing Songs | Best Of Arijit Singh Songs | Piu Lofi Music | Love Mashup 2026",
+                "description": "Monsoon Mind Relaxing Songs | Best Of Arijit Singh Songs | Piu Lofi Music | Love Mashup 2026 Welcome to Piu Lofi Music Enjoy ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_apQm_FGejM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_apQm_FGejM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_apQm_FGejM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Piu Lofi Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-07-21T10:42:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZdABI98IiHcUlM5Dw3SDr77skCY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tGr6lo3DPN0"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T05:30:12Z",
+                "channelId": "UCG0qIDDt9pspDsEhsqbQIyg",
+                "title": "Marathi X Hindi X English (TRIO MASHUP) LOFI || TJ 18 Beatz",
+                "description": "Prod By - TJ 18 Beatz √For Any Queries Email : tpawar854@gmail.com Instagram ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tGr6lo3DPN0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tGr6lo3DPN0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tGr6lo3DPN0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TJ 18 Beatz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T05:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gRgLBMj8MoBtnc2aNt-S4jcdxls",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aEu4neydFfs"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-19T14:53:14Z",
+                "channelId": "UCCxvwd3BdDelahfzF9WkHOA",
+                "title": "NIGHT VIBES Mashup | Night Vibes Songs | Hindi Lofi Songs To \\Chill \\Relax \\Refreshing",
+                "description": "NIGHT VIBES Mashup | Night Vibes Songs | Hindi Lofi Songs To \\Chill \\Relax \\Refreshing Best Of Emraan Hashmi | 2025 Feeling ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aEu4neydFfs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aEu4neydFfs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aEu4neydFfs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sudo music ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-19T14:53:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "M57AH8oVnaV5NANLNLppohs4V1U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BrnDlRmW5hs"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-18T20:25:39Z",
+                "channelId": "UCaziV_mlABegRYAK1RGNfEQ",
+                "title": "old songs but it&#39;s lofi remix",
+                "description": "Follow us on Spotify: https://sptfy.com/9tWx Follow us on Apple Music: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BrnDlRmW5hs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BrnDlRmW5hs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BrnDlRmW5hs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lo-fi Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-18T20:25:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "71WWOAp1MKRJEdlAcoK1A7dsWyc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qYlLtwEDz3A"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-18T12:30:02Z",
+                "channelId": "UCq20V45TMYeAh_v-cajuluQ",
+                "title": "One Sided Love Mashup 2026 | Ldscenes LO-FI | Bairan | Raanjhan | Arijit Singh | Sad Love Songs 2026",
+                "description": "One Sided Love Mashup 2026 | Ldscenes LO-FI | Bairan | Suniyan Suniyan | Raanjhan | Arijit Singh | Sad Love Songs 2026 | New ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qYlLtwEDz3A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qYlLtwEDz3A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qYlLtwEDz3A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ldscenes LOFI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-18T12:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JIwQNYDlbB1ZywoHIXCdFCRoeTY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "P-XnYn3FUq4"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-01T16:21:53Z",
+                "channelId": "UCOVQ9bWjKpS_1DSieC3LIUQ",
+                "title": "Christian Lofi Playlist - To relax, chill, study, or pray to. 📚",
+                "description": "Your mental clarity and ability to focus is too critical for you to not be intentional!! This 3-hour mix of soothing LoFi is designed to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P-XnYn3FUq4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P-XnYn3FUq4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P-XnYn3FUq4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "REDEFINED TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-01T16:21:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VWOXMF32u-kVyaERGIkdlMCjABM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UbuhuRVoieA"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-23T16:30:04Z",
+                "channelId": "UCmXFP-4hMiVYl-3ZjgP_tpg",
+                "title": "Emraan Hashmi Mashup | Jukebox | Amtee | Bollywood Lofi",
+                "description": "emraanhashmimashup #emraanhashmi #amteemashup #lofimashup Emraan Hashmi Mashup | Jukebox | Amtee | Bollywood Lofi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UbuhuRVoieA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UbuhuRVoieA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UbuhuRVoieA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AMTEE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-23T16:30:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "O7f__eATmbtFzgyW3MiS11nDcD0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uyXnTFjYM0A"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-29T11:01:38Z",
+                "channelId": "UCAXUzV_RwSfT_EUNEorZOzQ",
+                "title": "“Desi songs that you will love” 🐚🎀 ||Part. 1||#musi#song#video#edit#xthetic",
+                "description": "Song credits goes to it's real owner and all editing credit goes to @Xthetic_Divine7 {me}  ✨ I hope you will love the video.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uyXnTFjYM0A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uyXnTFjYM0A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uyXnTFjYM0A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "𝐗𝐭𝐡𝐞𝐭𝐢𝐜 𝐃𝐢𝐯𝐢𝐧𝐞ᯓᡣ𐭩",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-29T11:01:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sL0b3Pc6o8rKvijGOLsBOQnTPcs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "klX1lKyEO9U"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-18T13:30:28Z",
+                "channelId": "UC_3mGyIuAsgfP9TG9MIob9Q",
+                "title": "Best Instagram Trending Lofi Songs | Slowed+Reverb | Lofi Mashup | slow waves 🎶",
+                "description": "Best Instagram Trending Lofi Songs | Slowed+Reverb | Lofi Mashup | slow waves. FOR BEST EXPERIENCE USE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/klX1lKyEO9U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/klX1lKyEO9U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/klX1lKyEO9U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Slow Waves",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-18T13:30:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jSLlGUU-kMKL3CNnWE30uvZLP_s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0cDiQb3oIxw"
+            },
+            "snippet": {
+                "publishedAt": "2026-05-12T13:12:06Z",
+                "channelId": "UC5om9nH7lpN7e8DNX1LTU4Q",
+                "title": "Michael Jackson Lofi Vol.3✨ Nostalgic Chill Mix for Study, Relax &amp; Sleep",
+                "description": "Step into a world of nostalgia with this relaxing Michael Jackson Lofi Mix ✨ A calming collection of smooth beats, soft melodies, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0cDiQb3oIxw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0cDiQb3oIxw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0cDiQb3oIxw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": " VisuaLore",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-05-12T13:12:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2dH6Vz4lpWLg84rwo2IstlneiaA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_6VXacdEbcY"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-26T15:00:20Z",
+                "channelId": "UCA52eHr3kyeAyKkCVjx9fHQ",
+                "title": "Instagram Relaxing Lofi | Relaxing Lofi Songs | Slowed + Reverbed| Study chill/Sleep | SH Lofi",
+                "description": "Welcome To New Relaxing Lofi Songs. Presanting instagram relaxig lofi songs . Get Relaxed in 30 minutes. I hope you will enjoy.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_6VXacdEbcY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_6VXacdEbcY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_6VXacdEbcY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SH Lofi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-26T15:00:20Z"
+            }
+        },
         {
             "kind": "youtube#searchResult",
             "etag": "LGigZaeHtTZw4gqH0KSVUBuU3Mc",
@@ -83,143 +1782,7 @@ const BollywoodLofiSongsSuggestions = {
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "mqM7Q11BTyJ48mNdnkmM4SrwhvA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "aDa_tqgmEAg"
-            },
-            "snippet": {
-                "publishedAt": "2025-07-11T03:30:00Z",
-                "channelId": "UCbrM4gIz9lvtXPUg4fseIEg",
-                "title": "9XM Wali Subah Mashup | Sid Guldekar | Best of 2000&#39;s &amp; 2010&#39;s Bollywood Songs | Nonstop Jukebox",
-                "description": "POV : It's 9XM time before going to school 9XM Wali Subah Mashup | Sid Guldekar | Best of 2000's & 2010's Bollywood Songs ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/aDa_tqgmEAg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/aDa_tqgmEAg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/aDa_tqgmEAg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Sid Guldekar",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-07-11T03:30:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "F_ILDeRgppp9NK2Tq_APgMruNg4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "7N74i_rAfFE"
-            },
-            "snippet": {
-                "publishedAt": "2013-11-14T07:00:00Z",
-                "channelId": "UC3MLnJtqc_phABBriLRhtgQ",
-                "title": "Bahara Full Video - I Hate Luv Storys | Sonam Kapoor, Imran | Shreya Ghoshal, Sona Mohapatra",
-                "description": "Listen to the song \"Bahara\" by Shreya Ghoshal from the movie \"I Hate Luv Storys\" starring Sonam Kapoor and Imran Khan.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/7N74i_rAfFE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/7N74i_rAfFE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/7N74i_rAfFE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "SonyMusicIndiaVEVO",
-                "liveBroadcastContent": "none",
-                "publishTime": "2013-11-14T07:00:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ys9DxpeSnVj3cozK0ohqu835vKE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "NuwSE9Qh7rw"
-            },
-            "snippet": {
-                "publishedAt": "2025-06-30T12:30:28Z",
-                "channelId": "UCN_0Rn_q039H-y2i3s7fV6g",
-                "title": "POV: It&#39;s a 9XM Morning || You&#39;re Vibing to 2010s Bollywood Hits",
-                "description": "POV: It's a 9XM Morning and you're Vibing to 2010s Bollywood Hits. Step into the ultimate nostalgia trip with the most iconic ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/NuwSE9Qh7rw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/NuwSE9Qh7rw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/NuwSE9Qh7rw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Harmony Highway",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-06-30T12:30:28Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "YeFdMU0MEQqOZqHAdbHawdy8tCk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "cE4IHw50Rpk"
-            },
-            "snippet": {
-                "publishedAt": "2025-01-30T11:30:06Z",
-                "channelId": "UCjeD2I8jwXg2l_nvXb_6Hzw",
-                "title": "Greatest 2010s Hits | Audio Jukebox | 2010-2019 Songs | Bollywood Hit Songs | Top Hindi Songs",
-                "description": "Feel the nostalgia, groove to the beats, and vibe to the anthems from 2010s that still make us move! ▻ YRF New Releases: ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/cE4IHw50Rpk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/cE4IHw50Rpk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/cE4IHw50Rpk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "YRF Music",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-01-30T11:30:06Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ANaLVnoWtDvT-3ydFD5ush-AJfg",
+            "etag": "ayBEjj83JsPywJXOSe4gn_XIz7c",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "Mmu-tj-psuk"
@@ -253,274 +1816,36 @@ const BollywoodLofiSongsSuggestions = {
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "NeUNFgaVhJjndQ0GsCkAK2iBDZI",
+            "etag": "iZshRDt-0VHH_at2VTbP6X9Rq6s",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "tRQRskVyS5I"
+                "videoId": "1Wvb8VDsFIE"
             },
             "snippet": {
-                "publishedAt": "2025-01-15T17:00:06Z",
-                "channelId": "UC5fzo8Ne2F1HboTejcFDWqQ",
-                "title": "Top 10 bollywood movies of 2016",
-                "description": "",
+                "publishedAt": "2025-01-10T05:00:00Z",
+                "channelId": "UCe7ioo17r_nYgTJSHB5Jb3w",
+                "title": "Top 50 Highest GROSSING Indian Movies Of 2008 | Top 50 Bollywood Movies Of 2008 | Hit or Flop 2008.",
+                "description": "Top 50 Highest GROSSING Indian Movies Of 2008 | Top 50 Bollywood Movies Of 2008 | With Budget and Box Office Collection ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/tRQRskVyS5I/default.jpg",
+                        "url": "https://i.ytimg.com/vi/1Wvb8VDsFIE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/tRQRskVyS5I/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1Wvb8VDsFIE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/tRQRskVyS5I/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1Wvb8VDsFIE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Iron Man Fan ",
+                "channelTitle": "Mehsaan Stardust",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-01-15T17:00:06Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "vh6G8t1fc6AUfQeXjpC8lPZBTXY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "7HBA20Y5dT8"
-            },
-            "snippet": {
-                "publishedAt": "2014-02-07T11:21:53Z",
-                "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                "title": "&quot;Most Romantic Songs&quot; Of Bollywood 2013 (Hindi) Valentine Jukebox | Top Romantic Tracks",
-                "description": "Click to share it on Facebook - http://bit.ly/RomanceSpecialJukebox Tum Hi Ho - 00:12 Yu Hi Re - 04:29 Kabhi Jo Badal - 09:18 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/7HBA20Y5dT8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/7HBA20Y5dT8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/7HBA20Y5dT8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "T-Series",
-                "liveBroadcastContent": "none",
-                "publishTime": "2014-02-07T11:21:53Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "6FV3JbQ4FStKocyxTzM37IcaEwg",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "cYatYLzx9hA"
-            },
-            "snippet": {
-                "publishedAt": "2025-05-22T11:06:19Z",
-                "channelId": "UCjeD2I8jwXg2l_nvXb_6Hzw",
-                "title": "Top Favourites on YouTube - Volume 1 | Audio Jukebox | Popular Bollywood Songs",
-                "description": "Welcome to the Audio Jukebox featuring the biggest hits and viral sensations that have taken YouTube by storm. Sit back, relax ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/cYatYLzx9hA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/cYatYLzx9hA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/cYatYLzx9hA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "YRF Music",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-05-22T11:06:19Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "5YuVE-aSNlkQqO_XiquhsCIV75w",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "H41cmlmmTwU"
-            },
-            "snippet": {
-                "publishedAt": "2024-04-17T12:30:18Z",
-                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
-                "title": "2000s Hits Hindi Songs | Bollywood Romantic Songs Video Jukebox | Romantic Music For Love",
-                "description": "Take a nostalgic trip down memory lane with this ultimate collection of 2000s Hits Hindi Songs. From timeless Bollywood ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/H41cmlmmTwU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/H41cmlmmTwU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/H41cmlmmTwU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Tips Official",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-04-17T12:30:18Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "sEvLPqiDinfxdEpo9F0g3As--9o",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "GRq-BM9EAj4"
-            },
-            "snippet": {
-                "publishedAt": "2024-05-28T08:44:12Z",
-                "channelId": "UCFFbwnve3yF62-tVXkTyHqg",
-                "title": "Best of 2010s - Full Album | 3+ Hours Non-Stop | Kala Chashma, Pal Pal Dil Ke Paas, Ve Maahi &amp; More",
-                "description": "SUBSCRIBE to Zee Music Company - https://bit.ly/2yPcBkS To Stream & Download Full Song: Spotify - https://spoti.fi/3VjMiuK ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/GRq-BM9EAj4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/GRq-BM9EAj4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/GRq-BM9EAj4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Zee Music Company",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-05-28T08:44:12Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "c4BiBJ42-nwvZqg8NHjvjP7V9G0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "3N3n23loy24"
-            },
-            "snippet": {
-                "publishedAt": "2011-09-19T07:58:59Z",
-                "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                "title": "&quot;Te Amo&quot; Dum Maaro Dum (full song) | Bipasha Basu, Rana Dagubati",
-                "description": "Here is the song \"Te Amo\" from the Bollywood movie Dum Maaro Dum, featuring Bipasha Basu and Rana Daggubati. 'Te Amo' is ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/3N3n23loy24/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/3N3n23loy24/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/3N3n23loy24/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "T-Series",
-                "liveBroadcastContent": "none",
-                "publishTime": "2011-09-19T07:58:59Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "UF_oDhAMxxFqtIGaBcKUls1FtcI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "EMzBQ6yqsE0"
-            },
-            "snippet": {
-                "publishedAt": "2025-07-02T12:30:19Z",
-                "channelId": "UCN_0Rn_q039H-y2i3s7fV6g",
-                "title": "POV: It&#39;s a 9XM Morning || You&#39;re Vibing to 2010s Bollywood Hits",
-                "description": "POV: It's a 9XM Morning and you're Vibing to 2010s Bollywood Hits. Step into the ultimate nostalgia trip with the most iconic ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/EMzBQ6yqsE0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/EMzBQ6yqsE0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/EMzBQ6yqsE0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Harmony Highway",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-07-02T12:30:19Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "OHOtO12Xs9aCTuoS9H-xJvAKSbM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "8_uNrBN3f2Q"
-            },
-            "snippet": {
-                "publishedAt": "2024-08-12T09:57:39Z",
-                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
-                "title": "Best of Emraan Hashmi | Tu Hi Haqeeqat | Zara Sa | Mere Bina | Maahi | Soniyo | Top 15 Love Songs",
-                "description": "Step into the world of Emraan Hashmi's most romantic and memorable tracks with this curated collection of his top 15 songs!",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/8_uNrBN3f2Q/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/8_uNrBN3f2Q/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/8_uNrBN3f2Q/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Sony Music India",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-08-12T09:57:39Z"
+                "publishTime": "2025-01-10T05:00:00Z"
             }
         },
         {
@@ -559,274 +1884,70 @@ const BollywoodLofiSongsSuggestions = {
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "8W_1PqHFXkB_E-1USJmEipT4bJQ",
+            "etag": "sEvLPqiDinfxdEpo9F0g3As--9o",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Jm5vLlcS7zY"
+                "videoId": "GRq-BM9EAj4"
             },
             "snippet": {
-                "publishedAt": "2025-04-18T13:00:38Z",
-                "channelId": "UCCKl-Yvqbd9QPoC9BpPCaww",
-                "title": "Romantic bollywood songs from 9xm era ✨",
-                "description": "Song List: 00:00 Aankhen Bandh Karke 05:33 O Mere Dholna 10:19 Chaaya Hai Jo Dil Pe 14:49 Hai Dil 19:10 Dil Ka Rishta ...",
+                "publishedAt": "2024-05-28T08:44:12Z",
+                "channelId": "UCFFbwnve3yF62-tVXkTyHqg",
+                "title": "Best of 2010s - Full Album | 3+ Hours Non-Stop | Kala Chashma, Pal Pal Dil Ke Paas, Ve Maahi &amp; More",
+                "description": "SUBSCRIBE to Zee Music Company - https://bit.ly/2yPcBkS To Stream & Download Full Song: Spotify - https://spoti.fi/3VjMiuK ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Jm5vLlcS7zY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/GRq-BM9EAj4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Jm5vLlcS7zY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/GRq-BM9EAj4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Jm5vLlcS7zY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/GRq-BM9EAj4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Trending Now India",
+                "channelTitle": "Zee Music Company",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-04-18T13:00:38Z"
+                "publishTime": "2024-05-28T08:44:12Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "KT_NZ-fEBA0tnoXN82Nv0z8Dwfo",
+            "etag": "mqM7Q11BTyJ48mNdnkmM4SrwhvA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "EQ8qW_HStXQ"
+                "videoId": "aDa_tqgmEAg"
             },
             "snippet": {
-                "publishedAt": "2025-06-30T05:34:00Z",
-                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
-                "title": "TOP 20 ICONIC Bollywood Songs | 2 Hours NonStop | Best Hindi Love Songs | Romantic Hindi Hits",
-                "description": "Get ready for a non-stop 2-hour playlist of the TOP 20 ICONIC Bollywood songs! From romantic hits to love songs, this collection ...",
+                "publishedAt": "2025-07-11T03:30:00Z",
+                "channelId": "UCbrM4gIz9lvtXPUg4fseIEg",
+                "title": "9XM Wali Subah Mashup | Sid Guldekar | Best of 2000&#39;s &amp; 2010&#39;s Bollywood Songs | Nonstop Jukebox",
+                "description": "POV : It's 9XM time before going to school 9XM Wali Subah Mashup | Sid Guldekar | Best of 2000's & 2010's Bollywood Songs ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/EQ8qW_HStXQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/aDa_tqgmEAg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/EQ8qW_HStXQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aDa_tqgmEAg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/EQ8qW_HStXQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aDa_tqgmEAg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Sony Music India",
+                "channelTitle": "Sid Guldekar",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-06-30T05:34:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "CSCv_b91UJpGY8C1Weeq-8UUwJA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "8_Fk_56mKTQ"
-            },
-            "snippet": {
-                "publishedAt": "2023-02-03T07:00:04Z",
-                "channelId": "UC_SwEw5k0scWl9Q8oXTPqjw",
-                "title": "🤩 Top 10 Best Bollywood Movies of the 2000s 🤩 #shorts #movies #bollywood #best #films #actress",
-                "description": "Top 10 Best Bollywood Movies of the 2000s #shorts #movies #bollywood #best #films #actress #viral #2000 #viralshorts ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/8_Fk_56mKTQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/8_Fk_56mKTQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/8_Fk_56mKTQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Topper Things",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-02-03T07:00:04Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "kGwrpP6DNjh_Q6WILkTrg2TLwew",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ME0EndWz_28"
-            },
-            "snippet": {
-                "publishedAt": "2023-10-25T05:53:54Z",
-                "channelId": "UCmxJfnm3qJNMOS4g02XCFcw",
-                "title": "Best of Imran Hasmi 🎶 || Golden Era 2008-2016 II Bollywood Top 10 Romantic Songs II",
-                "description": "Emraan Hashmi romantic songs |Hindi bollywood romantic songs | Best of Emraan Hashmi Top 10 hits.... #bollywoodsongs ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ME0EndWz_28/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ME0EndWz_28/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ME0EndWz_28/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Melodious_Life",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-10-25T05:53:54Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ySkunVbYnow6HxnBNRmfXibJlwo",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "tTqaMRea9GM"
-            },
-            "snippet": {
-                "publishedAt": "2016-08-12T07:00:02Z",
-                "channelId": "UC3MLnJtqc_phABBriLRhtgQ",
-                "title": "Khabar Nahi Lyric Video - Dostana|John,Abhishek,Priyanka|Shreya Ghoshal|Amanat Ali",
-                "description": "Falling in love gets people confused - is the sky up or the ground upside down? Sing along to the love song that explains it best ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/tTqaMRea9GM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/tTqaMRea9GM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/tTqaMRea9GM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "SonyMusicIndiaVEVO",
-                "liveBroadcastContent": "none",
-                "publishTime": "2016-08-12T07:00:02Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "J9BEZ3f1OXlr8b7VZvtOpYLQZso",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "l2dL5SN5jO4"
-            },
-            "snippet": {
-                "publishedAt": "2025-03-06T10:30:08Z",
-                "channelId": "UCjeD2I8jwXg2l_nvXb_6Hzw",
-                "title": "Road Trip Hits | Audio Jukebox | Traveling Songs | Bollywood Road Trip Playlist | Long Drive Songs",
-                "description": "Windows down, volume up, and a long road ahead... this jukebox is all you need! Hit play and let the good vibes roll. ▻ YRF ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/l2dL5SN5jO4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/l2dL5SN5jO4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/l2dL5SN5jO4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "YRF Music",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-03-06T10:30:08Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "XZUyV4aeQxD_WcTPYNpcxA9XD1Q",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "R5ehFfxWL3E"
-            },
-            "snippet": {
-                "publishedAt": "2016-12-29T12:00:06Z",
-                "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                "title": "Party Till You Drop - Top 10 Bollywood Dance Songs 2016 | Best Bollywood Party Dance Songs 2016 |",
-                "description": "It's New Year …Parties and Parties everywhere. But what do we do without songs in a party? People these days plan a party ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/R5ehFfxWL3E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/R5ehFfxWL3E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/R5ehFfxWL3E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "T-Series",
-                "liveBroadcastContent": "none",
-                "publishTime": "2016-12-29T12:00:06Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ggSNnxuHgLjETO7A9JyGaFocfvo",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "6ZsW2G7w4f4"
-            },
-            "snippet": {
-                "publishedAt": "2025-10-14T09:38:57Z",
-                "channelId": "UCFO7oRzk5Tna-_65CbwwGpQ",
-                "title": "Relive Your Childhood | Classic Bollywood Songs from 9xm Era",
-                "description": "Relive the golden era of Bollywood! This video brings back the timeless magic of the 9xm Era — full of evergreen romantic, soulful ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/6ZsW2G7w4f4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/6ZsW2G7w4f4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/6ZsW2G7w4f4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "9xmEra",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-10-14T09:38:57Z"
+                "publishTime": "2025-07-11T03:30:00Z"
             }
         },
         {
@@ -865,36 +1986,138 @@ const BollywoodLofiSongsSuggestions = {
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "BErNOAD8fkDrFVhogq0OMApylGo",
+            "etag": "YeFdMU0MEQqOZqHAdbHawdy8tCk",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "G8Y7rX9qBLU"
+                "videoId": "cE4IHw50Rpk"
             },
             "snippet": {
-                "publishedAt": "2025-08-06T12:11:11Z",
-                "channelId": "UCmwQ8pwiXkwaPimRCWpTTAQ",
-                "title": "2007 Best Bollywood Nostalgic Songs ❤️",
-                "description": "AdvCreations #2007 2007 hindi song, 2007 hindi songs hits collection, 2007 hindi song mp3, 2007 hindi songs mashup, 2007 ...",
+                "publishedAt": "2025-01-30T11:30:06Z",
+                "channelId": "UCjeD2I8jwXg2l_nvXb_6Hzw",
+                "title": "Greatest 2010s Hits | Audio Jukebox | 2010-2019 Songs | Bollywood Hit Songs | Top Hindi Songs",
+                "description": "Feel the nostalgia, groove to the beats, and vibe to the anthems from 2010s that still make us move! ▻ YRF New Releases: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/G8Y7rX9qBLU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/cE4IHw50Rpk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/G8Y7rX9qBLU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cE4IHw50Rpk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/G8Y7rX9qBLU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cE4IHw50Rpk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "ADV Creations",
+                "channelTitle": "YRF Music",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-08-06T12:11:11Z"
+                "publishTime": "2025-01-30T11:30:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vh6G8t1fc6AUfQeXjpC8lPZBTXY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7HBA20Y5dT8"
+            },
+            "snippet": {
+                "publishedAt": "2014-02-07T11:21:53Z",
+                "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
+                "title": "&quot;Most Romantic Songs&quot; Of Bollywood 2013 (Hindi) Valentine Jukebox | Top Romantic Tracks",
+                "description": "Click to share it on Facebook - http://bit.ly/RomanceSpecialJukebox Tum Hi Ho - 00:12 Yu Hi Re - 04:29 Kabhi Jo Badal - 09:18 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7HBA20Y5dT8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7HBA20Y5dT8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7HBA20Y5dT8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T-Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-02-07T11:21:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uB61uGmZGA0fMYdG-f7-kcP5vQg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7N74i_rAfFE"
+            },
+            "snippet": {
+                "publishedAt": "2013-11-14T07:00:00Z",
+                "channelId": "UC3MLnJtqc_phABBriLRhtgQ",
+                "title": "Bahara Full Video - I Hate Luv Storys | Sonam Kapoor, Imran | Shreya Ghoshal, Sona Mohapatra",
+                "description": "Listen to the song \"Bahara\" by Shreya Ghoshal from the movie \"I Hate Luv Storys\" starring Sonam Kapoor and Imran Khan.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7N74i_rAfFE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7N74i_rAfFE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7N74i_rAfFE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SonyMusicIndiaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-11-14T07:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8lpW-_Uzkao066zAl5pfeGAQ3Ms",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lfz4Lefac1Y"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-12T06:30:06Z",
+                "channelId": "UCcOXMFj-H8IUezqIVMb-f2A",
+                "title": "Bakhuda Tumhi Ho | Atif Aslam | Alka Yagnik | Kismat Konnection | 2009",
+                "description": "Bakhuda Tumhi Ho | Atif Aslam | Alka Yagnik | Kismat Konnection | 2009 Watch Shahid Kapoor & Vidya Balan in the song ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lfz4Lefac1Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lfz4Lefac1Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lfz4Lefac1Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bollywood Classic Hits",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-12T06:30:06Z"
             }
         },
         {
@@ -933,6 +2156,584 @@ const BollywoodLofiSongsSuggestions = {
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "H3bUmYT-NI3hfgxDMM8bvNZ9zdc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DzO05c2Z_E8"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-05T03:30:15Z",
+                "channelId": "UCz0iMkwrDvGX9WHEY3fL46w",
+                "title": "Top 20 Bollywood Movies Of 2008 | With Budget and Box Office Collection | Hit Or flop | 2008 movie",
+                "description": "Top 20 Bollywood Movies Of 2008 | With Budget and Box Office Collection | Hit Or flop | 2008 movie Top 20 Bollywood Movies Of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DzO05c2Z_E8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DzO05c2Z_E8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DzO05c2Z_E8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crick Bolly",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-05T03:30:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ggSNnxuHgLjETO7A9JyGaFocfvo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6ZsW2G7w4f4"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-14T09:38:57Z",
+                "channelId": "UCFO7oRzk5Tna-_65CbwwGpQ",
+                "title": "Relive Your Childhood | Classic Bollywood Songs from 9xm Era",
+                "description": "Relive the golden era of Bollywood! This video brings back the timeless magic of the 9xm Era — full of evergreen romantic, soulful ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6ZsW2G7w4f4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6ZsW2G7w4f4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6ZsW2G7w4f4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "9xmEra",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-14T09:38:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "88kL4t5LHExLP0HzPb41ucoG4PI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tTqaMRea9GM"
+            },
+            "snippet": {
+                "publishedAt": "2016-08-12T07:00:02Z",
+                "channelId": "UC3MLnJtqc_phABBriLRhtgQ",
+                "title": "Khabar Nahi Lyric Video - Dostana|John,Abhishek,Priyanka|Shreya Ghoshal|Amanat Ali",
+                "description": "Falling in love gets people confused - is the sky up or the ground upside down? Sing along to the love song that explains it best ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tTqaMRea9GM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tTqaMRea9GM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tTqaMRea9GM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SonyMusicIndiaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-08-12T07:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IR-2uPYQ1wFxvzHUDuLs0O32FOw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Kg66vNiu41E"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-20T12:15:10Z",
+                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+                "title": "2016 Bollywood Blockbusters | Nostalgic Hindi Songs | Iconic Hits | Best of 2016 Bollywood Songs",
+                "description": "Take a trip back to 2016 — the year of unforgettable Bollywood music Relive the magic with this collection of iconic Hindi songs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kg66vNiu41E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kg66vNiu41E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kg66vNiu41E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sony Music India",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-20T12:15:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y_mN4viR_IxcIbtexELV2V6UarM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "swcCuuQKGJ4"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-14T23:52:23Z",
+                "channelId": "UCCTN01plFzn4npREHKT2_9Q",
+                "title": "Pehli Nazar Mein",
+                "description": "Provided to YouTube by TIPS INDUSTRIES LTD Pehli Nazar Mein · Pritam · Atif Aslam Race ℗ 2008 Tips Industries Ltd. Released ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/swcCuuQKGJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/swcCuuQKGJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/swcCuuQKGJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pritam - Topic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-12-14T23:52:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_ymZXLnq8OrRQ8soJ63fE0aAdSA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tRQRskVyS5I"
+            },
+            "snippet": {
+                "publishedAt": "2025-01-15T17:00:06Z",
+                "channelId": "UC5fzo8Ne2F1HboTejcFDWqQ",
+                "title": "Top 10 bollywood movies of 2016",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tRQRskVyS5I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tRQRskVyS5I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tRQRskVyS5I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Iron Man Fan ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-01-15T17:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0OGpNVmI-_bp25LQnzAgg3Qtu2g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cK9h5PVzRpk"
+            },
+            "snippet": {
+                "publishedAt": "2015-01-28T09:43:03Z",
+                "channelId": "UCyZRiSFMKQW5gM-Eq1EzJGA",
+                "title": "GUZARISH",
+                "description": "Provided to YouTube by Tseries Music GUZARISH · JAVED ALI · A.R. RAHMAN · PRASOON JOSHI GHAJINI ℗ T-SERIES ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cK9h5PVzRpk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cK9h5PVzRpk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cK9h5PVzRpk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Javed Ali - Topic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-01-28T09:43:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Jp0PT9BJ2Q3bphtobe2gkveV4xY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mWla09qDBjA"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-26T08:26:33Z",
+                "channelId": "UCcvNYxWXR_5TjVK7cSCdW-g",
+                "title": "T-Series Top 10 Punjabi Songs of 2015 | Staff Pick: Non Stop Mix",
+                "description": "T-Series present to you TOP 10 BEST PUNJABI SONGS OF THE YEAR 2015 . We have curated top 10 engaged and liked videos ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mWla09qDBjA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mWla09qDBjA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mWla09qDBjA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T-Series Apna Punjab",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-12-26T08:26:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kGwrpP6DNjh_Q6WILkTrg2TLwew",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ME0EndWz_28"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-25T05:53:54Z",
+                "channelId": "UCmxJfnm3qJNMOS4g02XCFcw",
+                "title": "Best of Imran Hasmi 🎶 || Golden Era 2008-2016 II Bollywood Top 10 Romantic Songs II",
+                "description": "Emraan Hashmi romantic songs |Hindi bollywood romantic songs | Best of Emraan Hashmi Top 10 hits.... #bollywoodsongs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ME0EndWz_28/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ME0EndWz_28/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ME0EndWz_28/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Melodious_Life",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-25T05:53:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ovQqEeGDpy49a1MoxxuCobW1Kt0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "R5ehFfxWL3E"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-29T12:00:06Z",
+                "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
+                "title": "Party Till You Drop - Top 10 Bollywood Dance Songs 2016 | Best Bollywood Party Dance Songs 2016 |",
+                "description": "It's New Year …Parties and Parties everywhere. But what do we do without songs in a party? People these days plan a party ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R5ehFfxWL3E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R5ehFfxWL3E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R5ehFfxWL3E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T-Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-12-29T12:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5YuVE-aSNlkQqO_XiquhsCIV75w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H41cmlmmTwU"
+            },
+            "snippet": {
+                "publishedAt": "2024-04-17T12:30:18Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "2000s Hits Hindi Songs | Bollywood Romantic Songs Video Jukebox | Romantic Music For Love",
+                "description": "Take a nostalgic trip down memory lane with this ultimate collection of 2000s Hits Hindi Songs. From timeless Bollywood ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H41cmlmmTwU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H41cmlmmTwU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H41cmlmmTwU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tips Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-04-17T12:30:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wle9NK0vHuw16mTegV64z1WJUgs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3N3n23loy24"
+            },
+            "snippet": {
+                "publishedAt": "2011-09-19T07:58:59Z",
+                "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
+                "title": "&quot;Te Amo&quot; Dum Maaro Dum (full song) | Bipasha Basu, Rana Dagubati",
+                "description": "Here is the song \"Te Amo\" from the Bollywood movie Dum Maaro Dum, featuring Bipasha Basu and Rana Daggubati. 'Te Amo' is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3N3n23loy24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3N3n23loy24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3N3n23loy24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T-Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2011-09-19T07:58:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WwMzTLuOZziheJUnkA17qxvnfI8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EQ8qW_HStXQ"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-30T05:34:00Z",
+                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+                "title": "TOP 20 ICONIC Bollywood Songs | 2 Hours NonStop | Best Hindi Love Songs | Romantic Hindi Hits",
+                "description": "Get ready for a non-stop 2-hour playlist of the TOP 20 ICONIC Bollywood songs! From romantic hits to love songs, this collection ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EQ8qW_HStXQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EQ8qW_HStXQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EQ8qW_HStXQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sony Music India",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-30T05:34:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "P7jxlQyB8pAtUkiyyqoFpv-gLPQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2sp_ODCEPio"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-03T10:00:11Z",
+                "channelId": "UCSzyeaoZczKOhrA46MSZIwg",
+                "title": "INDIA&#39;S 2008 U-19 WORLD CUP SQUAD #shorts #ytshorts #viratkohli #indvsaus",
+                "description": "rkhindicricket.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2sp_ODCEPio/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2sp_ODCEPio/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2sp_ODCEPio/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rk हिन्दी Cricket ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-03T10:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nTbfDbXqhboyZG52bu88s9H58XI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h2UQ5T5k6Y8"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-04T04:55:59Z",
+                "channelId": "UCDx8hwqw_Zq7IvSpy6FWIjg",
+                "title": "2008 से 2025 तक आईपीएल विजेता और उपविजेताओं की लिस्ट #ipl #ipl2025 #rcbvspbks #gk #iplfinal",
+                "description": "2008 से 2025 तक आईपीएल विजेता और उपविजेताओं की लिस्ट #ipl #ipl2025 #rcbvspbks #gk ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h2UQ5T5k6Y8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h2UQ5T5k6Y8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h2UQ5T5k6Y8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JituCrixon",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-04T04:55:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CDC-eOLoy-8MzSbkrXcxUuNuJgs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5b6U-JAzzAk"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-16T07:30:02Z",
+                "channelId": "UCA4RY7Evn6NVzsftdQJ2gWQ",
+                "title": "The Biggest Indian Song Every Year (2006–2015) 🎶🔥 | MusicTally | #musictally #shorts #bestsongs",
+                "description": "These songs ruled India every year and became unforgettable hits Here are the Biggest Indian Songs from 2006 to 2015.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5b6U-JAzzAk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5b6U-JAzzAk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5b6U-JAzzAk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MusicTally",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-16T07:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vEZ4WQfgVN9Tgs5GOlmZKlNHebY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8BORUyiCcec"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-19T13:50:57Z",
+                "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+                "title": "2008 Se Padal Bani Picha || पूरा भइल ना इच्छा || Man Hoke Ta Boli || Bhojpuri Hit Songs new",
+                "description": "Bhojpuri_Song #Video_Song #Bhojpuri_Video अगर आप Bhojpuri Video को पसंद करते हैं तो Plz चैनल को ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8BORUyiCcec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8BORUyiCcec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8BORUyiCcec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Wave Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-05-19T13:50:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "gr2UXgv2IRqCWBRKuLrH0Pr4ybs",
             "id": {
                 "kind": "youtube#video",
@@ -967,70 +2768,36 @@ const BollywoodLofiSongsSuggestions = {
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "KsWsOHntZc0RmaOnqPPjcg8sHio",
+            "etag": "CSCv_b91UJpGY8C1Weeq-8UUwJA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "nJCgCizK6i4"
+                "videoId": "8_Fk_56mKTQ"
             },
             "snippet": {
-                "publishedAt": "2024-06-16T05:51:11Z",
-                "channelId": "UCxE0LxJgtxDoQWieTVx1HFw",
-                "title": "nostalgia 🌈🎶#nostalgia #songs #oldsongs #memories #olddays #childhood #teenage  #2014 #technology",
-                "description": "",
+                "publishedAt": "2023-02-03T07:00:04Z",
+                "channelId": "UC_SwEw5k0scWl9Q8oXTPqjw",
+                "title": "🤩 Top 10 Best Bollywood Movies of the 2000s 🤩 #shorts #movies #bollywood #best #films #actress",
+                "description": "Top 10 Best Bollywood Movies of the 2000s #shorts #movies #bollywood #best #films #actress #viral #2000 #viralshorts ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/nJCgCizK6i4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/8_Fk_56mKTQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/nJCgCizK6i4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8_Fk_56mKTQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/nJCgCizK6i4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8_Fk_56mKTQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Shreya Acharjee",
+                "channelTitle": "Topper Things",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-06-16T05:51:11Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "zpZaqGeKUZbFY7fmUqIu6WAX7DU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "8q_Em_5v6o8"
-            },
-            "snippet": {
-                "publishedAt": "2025-07-11T13:04:27Z",
-                "channelId": "UCmwQ8pwiXkwaPimRCWpTTAQ",
-                "title": "2010-2019 Bollywood Party Hits - Evolution Of 2010s Era Party Songs",
-                "description": "advcreations #bollywoodpartysongs #partysongs bollywood party song, bollywood party songs, bollywood party songs 2024, ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/8q_Em_5v6o8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/8q_Em_5v6o8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/8q_Em_5v6o8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "ADV Creations",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-07-11T13:04:27Z"
+                "publishTime": "2023-02-03T07:00:04Z"
             }
         },
         {
@@ -1069,512 +2836,104 @@ const BollywoodLofiSongsSuggestions = {
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "1lKIvF7VtrMkw1ZhAfm0hVxkliM",
+            "etag": "3lb1VM4ybBS7k6aW9Ho5I4rKw3U",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "PzX56VmsmT8"
+                "videoId": "qNKdeH9flDs"
             },
             "snippet": {
-                "publishedAt": "2024-07-13T06:54:13Z",
-                "channelId": "UCn-d20hqgEh1-sH1hHC3EXQ",
-                "title": "Bollywood peaked on rom-coms #love #romcoms #bollywood #underrated",
-                "description": "movierecommendations #bollywood #underrated #romance #romcoms #romanticmovies #lovestory #top5.",
+                "publishedAt": "2024-11-07T12:30:49Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "Bollywood Love Songs | Bollywood Romantic Songs | 2000s Hindi Hits | 90s Hindi Songs Video Jukebox",
+                "description": "Indulge in the magic of the 2000s with these iconic Bollywood romantic songs that have touched millions of hearts! This Hindi ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/PzX56VmsmT8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/qNKdeH9flDs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/PzX56VmsmT8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qNKdeH9flDs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/PzX56VmsmT8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qNKdeH9flDs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Little of Everything",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-13T06:54:13Z"
+                "publishTime": "2024-11-07T12:30:49Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "dPEks16LYyKumMKCn9g7_9teArc",
+            "etag": "0mgEP05O_DjQ1-m3E8W0BhLduG0",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "s7B8Re-fuzE"
+                "videoId": "Jm5vLlcS7zY"
             },
             "snippet": {
-                "publishedAt": "2024-10-26T16:01:35Z",
-                "channelId": "UCwX7KItD8bF9zl3wNryr-GQ",
-                "title": "Top 10 Aishwarya Rai Movies #aishwaryaraibachchan #bollywood #kollywood #malayalam #abhishekbachchan",
-                "description": "Dive into the enchanting world of Aishwarya Rai with a countdown of her top 10 iconic movies. From captivating performances to ...",
+                "publishedAt": "2025-04-18T13:00:38Z",
+                "channelId": "UCCKl-Yvqbd9QPoC9BpPCaww",
+                "title": "Romantic bollywood songs from 9xm era ✨",
+                "description": "Song List: 00:00 Aankhen Bandh Karke 05:33 O Mere Dholna 10:19 Chaaya Hai Jo Dil Pe 14:49 Hai Dil 19:10 Dil Ka Rishta ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/s7B8Re-fuzE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Jm5vLlcS7zY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/s7B8Re-fuzE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Jm5vLlcS7zY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/s7B8Re-fuzE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Jm5vLlcS7zY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "udakappola",
+                "channelTitle": "Trending Now India",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-10-26T16:01:35Z"
+                "publishTime": "2025-04-18T13:00:38Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "5Pc93dj0Ywb-a652f3f5cJPUbdo",
+            "etag": "zYsO5TT2D32dV1H2PuwFKgz3iOI",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "swcCuuQKGJ4"
+                "videoId": "zKwO4-yQXak"
             },
             "snippet": {
-                "publishedAt": "2018-12-14T23:52:23Z",
-                "channelId": "UCCTN01plFzn4npREHKT2_9Q",
-                "title": "Pehli Nazar Mein",
-                "description": "Provided to YouTube by TIPS INDUSTRIES LTD Pehli Nazar Mein · Pritam · Atif Aslam Race ℗ 2008 Tips Industries Ltd. Released ...",
+                "publishedAt": "2024-09-10T01:30:36Z",
+                "channelId": "UClydrMowk_L2wzP3Mcgc9dg",
+                "title": "Top 5 Bollywood Movies of 2008 #bollywood #movie #shorts #viralshorts",
+                "description": "Top 5 Bollywood Movies of 2008 #bollywood #movie #shorts #viralshorts.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/swcCuuQKGJ4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/zKwO4-yQXak/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/swcCuuQKGJ4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/zKwO4-yQXak/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/swcCuuQKGJ4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/zKwO4-yQXak/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Pritam - Topic",
+                "channelTitle": "Filmy Spinner",
                 "liveBroadcastContent": "none",
-                "publishTime": "2018-12-14T23:52:23Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "MCfzjz0-Uvpxz-14GJMZYW0C-zQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "bIzJCCrH7Gs"
-            },
-            "snippet": {
-                "publishedAt": "2025-03-22T22:27:32Z",
-                "channelId": "UC_V3doS4Ex1-TgPYObN86sw",
-                "title": "ipl 2008 to 2024 ipl final winners team #ipl2025 #csk #mi #kkr #rr #srh #gt #trending #shorts",
-                "description": "ipl 2008 to 2024 ipl final winners team #ipl2025 #csk #mi #kkr #rr #srh #gt #trending #shorts.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/bIzJCCrH7Gs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/bIzJCCrH7Gs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/bIzJCCrH7Gs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Cricket lover 07 ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-03-22T22:27:32Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "5VOGEUA2uJEz6HUlnvmW-Hf1JwM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "1teE1QhwQJM"
-            },
-            "snippet": {
-                "publishedAt": "2024-11-01T05:45:00Z",
-                "channelId": "UCA9KSP-vyBgArU46fqvO31w",
-                "title": "Vintage Virat 2016 🔥👑 || Rcb 2016 #shorts",
-                "description": "Vintage Virat 2016 || Rcb 2016 #shorts #viratkohli #rcb #2016 #viralshort #trendingshorts #ytshorts #viratkohlifanpage ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/1teE1QhwQJM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/1teE1QhwQJM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/1teE1QhwQJM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Troxx Edit",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-11-01T05:45:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "yEvOALfDTr1_QBno0X0PpzTm690",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "lRvUNYY4erE"
-            },
-            "snippet": {
-                "publishedAt": "2016-09-09T06:31:14Z",
-                "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                "title": "AKSHAY KUMAR Party Hits | Birthday Special | VIDEO JUKEBOX |  Top Party Songs 2016",
-                "description": "T-Series Wishes Akshay Kumar A Very Happy Birthday, On The Occasion Of His Birthday, We Present To You The Very Best ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/lRvUNYY4erE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/lRvUNYY4erE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/lRvUNYY4erE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "T-Series",
-                "liveBroadcastContent": "none",
-                "publishTime": "2016-09-09T06:31:14Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ztH5g6wZPJPmkYAETCPh2B2PFV0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "tKfETe5sG8s"
-            },
-            "snippet": {
-                "publishedAt": "2024-11-30T17:55:39Z",
-                "channelId": "UCfoF-OD-EGvAawYvwpkBheA",
-                "title": "Evolution of Justin Bieber 😎 #celebrities #evolution #justinbieber",
-                "description": "Evolution of Justin Bieber #celebrities #celebritydata #justinbieber.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/tKfETe5sG8s/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/tKfETe5sG8s/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/tKfETe5sG8s/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Life Tricks TV",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-11-30T17:55:39Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "i8PcZRB326ig2zD-x8i6O7k6UdM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "U4X25o3larw"
-            },
-            "snippet": {
-                "publishedAt": "2025-10-11T13:30:29Z",
-                "channelId": "UCfmDf4wyFbmzO8bhxhvx1qA",
-                "title": "Top 5 Iconic Songs of 2015🎶 |Teri Meri Kahani,Hasi,Afghan Jalebi, Gerua | #shorts #trendingnow",
-                "description": "Enjoy the top 5 unforgettable songs from 2015 that still sound fresh today. A pure dose of nostalgia! Top 5 Most Famous Songs ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/U4X25o3larw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/U4X25o3larw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/U4X25o3larw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Tune Takes",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-10-11T13:30:29Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "KiugwugL8QNb8zN9OHOi-2l80OY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "mEZg3oGYbtQ"
-            },
-            "snippet": {
-                "publishedAt": "2022-06-30T10:06:18Z",
-                "channelId": "UCEn4Fn87IQjGQmBRTbyzTsw",
-                "title": "RCB 2016 vs MI 2020 #cricketshorts #cricket #viratkohli #comparison",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/mEZg3oGYbtQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/mEZg3oGYbtQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/mEZg3oGYbtQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "ZAID CRICKET POINT",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-06-30T10:06:18Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Yb28MazAotD9F-btceE0ElChooc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "-GItcFwHG00"
-            },
-            "snippet": {
-                "publishedAt": "2025-04-27T06:36:21Z",
-                "channelId": "UCg2PVVTJTqZc64a0032tuHA",
-                "title": "Zee Tv Top 10 Serials All Time #zeetv #zeetvserial #zeetvserials #zeetvoldserials #zeetvshow",
-                "description": "Zee TV Top 10 Serials Disclaimer: Copyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance is mad for FAIR ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/-GItcFwHG00/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/-GItcFwHG00/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/-GItcFwHG00/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Hindi Serial Gossips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-04-27T06:36:21Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "gcl7c9U5yoZtJgqwOcGxd_Sn2wU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ZakAqzpeHxo"
-            },
-            "snippet": {
-                "publishedAt": "2025-04-19T14:35:16Z",
-                "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                "title": "Broken Heart (Mix) Non Stop Bollywood Songs | Arijit Singh, Jubin Nautiyal, Vishal Mishra | T-Series",
-                "description": "Presenting \"Broken Heart (Mix) Non Stop Bollywood Songs\", containing all the top hits at one place! Track List   00:00 Lambiyaan ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ZakAqzpeHxo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ZakAqzpeHxo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ZakAqzpeHxo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "T-Series",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-04-19T14:35:16Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "3TUVWWk78jgHKfKKAUvS5G9zuGM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "cYPzS1I_tGQ"
-            },
-            "snippet": {
-                "publishedAt": "2021-06-26T12:30:07Z",
-                "channelId": "UCm8z-RBRh_9Vlyq0B4PlrBg",
-                "title": "Joker Evolution #Shorts #Evolution #Joker",
-                "description": "Evolution of Joker in Films.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/cYPzS1I_tGQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/cYPzS1I_tGQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/cYPzS1I_tGQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "FilmStillGo",
-                "liveBroadcastContent": "none",
-                "publishTime": "2021-06-26T12:30:07Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "zK3E2eXz8BnQqbER547UVPgb_YQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "BGFPn5ONI4w"
-            },
-            "snippet": {
-                "publishedAt": "2025-05-29T13:34:33Z",
-                "channelId": "UCERBpVGWw7UXEhxttlK8XAw",
-                "title": "Iconic IPL Memories on May 29 ✨🏆 2016 SRH crowned champion vs RCB Warner vs Kohli in a classic final",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/BGFPn5ONI4w/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/BGFPn5ONI4w/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/BGFPn5ONI4w/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "ritilsports99",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-05-29T13:34:33Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "iLC4cpLiURx5mToK5Xwgm_JiDw0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "oiIvPGeEhZM"
-            },
-            "snippet": {
-                "publishedAt": "2023-01-30T13:58:09Z",
-                "channelId": "UCQd2bts9KbrEsMdSGgmJ0xQ",
-                "title": "Ronaldo at 2008 🥶😱☠️ | #shorts #football #viral #fyp",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/oiIvPGeEhZM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/oiIvPGeEhZM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/oiIvPGeEhZM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Terminator Rono",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-01-30T13:58:09Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "zi2zNGdk4hcgOAryQrZ5E-Svf30",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "kIZSBvq7UD8"
-            },
-            "snippet": {
-                "publishedAt": "2025-04-12T13:22:55Z",
-                "channelId": "UClWGF1By-zwcQCPlaHQycHw",
-                "title": "Bollywood Songs (2000-2009)",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/kIZSBvq7UD8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/kIZSBvq7UD8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/kIZSBvq7UD8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Sanam Verse ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-04-12T13:22:55Z"
+                "publishTime": "2024-09-10T01:30:36Z"
             }
         },
         {
@@ -1613,5205 +2972,2144 @@ const BollywoodLofiSongsSuggestions = {
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "FdG-YAuFScvlbY76ETlDr3E9rVA",
+            "etag": "bRN9qT4hj9jRFgQVJX4uTbya02s",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "MzcfIetWD88"
+                "videoId": "6z2gfdmyFcE"
             },
             "snippet": {
-                "publishedAt": "2023-05-03T12:31:13Z",
-                "channelId": "UCWkG5it1rFVOisDQJOE46-Q",
-                "title": "TOP 10 RCB records that may never be broken #rcb #viratkohli #ipl",
+                "publishedAt": "2015-02-13T16:30:00Z",
+                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+                "title": "Love Mashup 2015 - DJ Chetas | Best Bollywood Mashup | Valentines Special",
+                "description": "''Where there is love, there is life'' – This Season of love groove to the most romantic songs and relive the moments of love.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6z2gfdmyFcE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6z2gfdmyFcE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6z2gfdmyFcE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sony Music India",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-02-13T16:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5VzsVMinAtJSyihPYKcuw0PYbP4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZakAqzpeHxo"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-19T14:35:16Z",
+                "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
+                "title": "Broken Heart (Mix) Non Stop Bollywood Songs | Arijit Singh, Jubin Nautiyal, Vishal Mishra | T-Series",
+                "description": "Presenting \"Broken Heart (Mix) Non Stop Bollywood Songs\", containing all the top hits at one place! Track List   00:00 Lambiyaan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZakAqzpeHxo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZakAqzpeHxo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZakAqzpeHxo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T-Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-19T14:35:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "M0ikzDq3h8DlN-M7UNmrj70B--E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9XAXt2QnnpM"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-17T05:30:00Z",
+                "channelId": "UCWi_65E_L8tQZ34C6wVAlpQ",
+                "title": "Best Heart Touching Sad Songs |Top Heart Broken Hindi Sad Songs | Hindi Evergreen Sad Songs| Jukebox",
+                "description": "Best Heart Touching Sad Songs |Top Heart Broken Hindi Sad Songs | Hindi Evergreen Sad Songs| Jukebox #bollywoodsadsongs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9XAXt2QnnpM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9XAXt2QnnpM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9XAXt2QnnpM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ishtar Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-17T05:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dPEks16LYyKumMKCn9g7_9teArc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s7B8Re-fuzE"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-26T16:01:35Z",
+                "channelId": "UCwX7KItD8bF9zl3wNryr-GQ",
+                "title": "Top 10 Aishwarya Rai Movies #aishwaryaraibachchan #bollywood #kollywood #malayalam #abhishekbachchan",
+                "description": "Dive into the enchanting world of Aishwarya Rai with a countdown of her top 10 iconic movies. From captivating performances to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s7B8Re-fuzE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s7B8Re-fuzE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s7B8Re-fuzE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "udakappola",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-26T16:01:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OwTD13JNRxKwa7EvKNCfFitSKDM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tKfETe5sG8s"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-30T17:55:39Z",
+                "channelId": "UCfoF-OD-EGvAawYvwpkBheA",
+                "title": "Evolution of Justin Bieber 😎 #celebrities #evolution #justinbieber",
+                "description": "Evolution of Justin Bieber #celebrities #celebritydata #justinbieber.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tKfETe5sG8s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tKfETe5sG8s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tKfETe5sG8s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Life Tricks DIY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-30T17:55:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pTqxnAnAbQN9O4U50J5bnZcOVZQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3dN8EexqHfw"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-22T11:42:41Z",
+                "channelId": "UChpIt88C1SUtr-pczt-Gk3g",
+                "title": "Virat Kohli In 2016 IPL 🥶 #shorts #viratkohli #ipl",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/MzcfIetWD88/default.jpg",
+                        "url": "https://i.ytimg.com/vi/3dN8EexqHfw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/MzcfIetWD88/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3dN8EexqHfw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/MzcfIetWD88/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3dN8EexqHfw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "SHRAVAN RAJPUT",
+                "channelTitle": "Jod Editz",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-03T12:31:13Z"
+                "publishTime": "2023-03-22T11:42:41Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "H3bUmYT-NI3hfgxDMM8bvNZ9zdc",
+            "etag": "aJHS_c_Z2nK0729DWqPJr8KKSd8",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "DzO05c2Z_E8"
+                "videoId": "NjxURVl1PtQ"
             },
             "snippet": {
-                "publishedAt": "2020-10-05T03:30:15Z",
-                "channelId": "UCz0iMkwrDvGX9WHEY3fL46w",
-                "title": "Top 20 Bollywood Movies Of 2008 | With Budget and Box Office Collection | Hit Or flop | 2008 movie",
-                "description": "Top 20 Bollywood Movies Of 2008 | With Budget and Box Office Collection | Hit Or flop | 2008 movie Top 20 Bollywood Movies Of ...",
+                "publishedAt": "2016-12-31T08:00:02Z",
+                "channelId": "UCcvNYxWXR_5TjVK7cSCdW-g",
+                "title": "&quot;Best Punjabi Videos&quot; of 2016 | T-Series Top 10 Punjabi Songs | Punjabi Video Jukebox",
+                "description": "T-Series presents the best punjabi songs of 2016 from our catalogue with accordance to number of views, likes and share.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/DzO05c2Z_E8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/NjxURVl1PtQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/DzO05c2Z_E8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NjxURVl1PtQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/DzO05c2Z_E8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NjxURVl1PtQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Crick Bolly",
+                "channelTitle": "T-Series Apna Punjab",
                 "liveBroadcastContent": "none",
-                "publishTime": "2020-10-05T03:30:15Z"
+                "publishTime": "2016-12-31T08:00:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "FQfu31EnKnkr2hvWTEqOqAzP9JE",
+            "etag": "iLC4cpLiURx5mToK5Xwgm_JiDw0",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "h-dyRQR3Lgg"
+                "videoId": "oiIvPGeEhZM"
             },
             "snippet": {
-                "publishedAt": "2024-07-01T06:13:27Z",
-                "channelId": "UCUuyABHoFakRE7Zv0YHlkeg",
-                "title": "Which one is your favourite? #2008 #bollywoodsongs #bollywoodstyle #shortsviral #shortsfeed #shorts",
+                "publishedAt": "2023-01-30T13:58:09Z",
+                "channelId": "UCQd2bts9KbrEsMdSGgmJ0xQ",
+                "title": "Ronaldo at 2008 🥶😱☠️ | #shorts #football #viral #fyp",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/h-dyRQR3Lgg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/oiIvPGeEhZM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/h-dyRQR3Lgg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/oiIvPGeEhZM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/h-dyRQR3Lgg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/oiIvPGeEhZM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Shahrukh Reviews",
+                "channelTitle": "Terminator Rono",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-01T06:13:27Z"
+                "publishTime": "2023-01-30T13:58:09Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "wWUfeJ_6zrcW9PajEX-v097p3cc",
+            "etag": "tN6w1loYLohhuv9fteoKQO4ay6I",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "S5KswMI_ya0"
+                "videoId": "dYlxAA0J-Cs"
             },
             "snippet": {
-                "publishedAt": "2021-11-23T19:38:49Z",
-                "channelId": "UCKV6TyUKVGwr6Iv9ZWsoWfQ",
-                "title": "30 Minutes Full Relax With Old Hindi Lofi Songs To Study  Chill  Refreshing  Arijit Singh Lofi",
-                "description": "published on ©️ All copyrights belong to respective owners. No copyright infringement intended. For Promotional Use Only.",
+                "publishedAt": "2026-01-09T14:01:12Z",
+                "channelId": "UCuWi5SRn41KNlVf5Bl7W7og",
+                "title": "Top 50 Colors TV Serials (2008-2026): Ranked by TRP &amp; Popularity | Full History Analysis 🔥",
+                "description": "A definitive ranking of the top 50 Colors TV serials from the last 18 years. In this video, we analyze the channel's history from 2008 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/S5KswMI_ya0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/dYlxAA0J-Cs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/S5KswMI_ya0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dYlxAA0J-Cs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/S5KswMI_ya0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dYlxAA0J-Cs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Motion Graphics Trend",
+                "channelTitle": "Viral Pulse",
                 "liveBroadcastContent": "none",
-                "publishTime": "2021-11-23T19:38:49Z"
+                "publishTime": "2026-01-09T14:01:12Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "BwwMgzyTowiG0zUw9PBaXONqZY0",
+            "etag": "8wvcfT3y66pkQ2DChGq6KsdFn-g",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "8YB-zGeNfD4"
+                "videoId": "ZV3TrTOMFc8"
             },
             "snippet": {
-                "publishedAt": "2023-06-10T12:56:21Z",
-                "channelId": "UC9LzSOHcYX36-MSjngGCG1A",
-                "title": "Old Hindi Songs 😌Unplugged 🥰[Unplugged Covers] Song || core music || Old Hindi mashup 💞|| Relax/Chil",
-                "description": "Old Hindi Songs Unplugged [Unplugged Covers] Song || core music || Old Hindi mashup || Relax/Study/Chill/Refresh/Sleep ...",
+                "publishedAt": "2024-07-28T05:42:16Z",
+                "channelId": "UCtuLlpKI1SVEvPsSODJcHfQ",
+                "title": "SRH 2016 vs RCB 2016 🥺🥺🥺",
+                "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/8YB-zGeNfD4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ZV3TrTOMFc8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/8YB-zGeNfD4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ZV3TrTOMFc8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/8YB-zGeNfD4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ZV3TrTOMFc8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "The Editsmith ",
+                "channelTitle": "Cricket Faculty ",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-10T12:56:21Z"
+                "publishTime": "2024-07-28T05:42:16Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "1-jc31yyuMAkkgim-nE9fppa_9E",
+            "etag": "1bHBLtd24_L54GbRrymKxBrPTes",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Ou1zSCGnbOQ"
+                "videoId": "7ZNo2yGUp0U"
             },
             "snippet": {
-                "publishedAt": "2025-12-30T05:55:40Z",
-                "channelId": "UCAsr2H_wmTyhkdAwRgR3BwQ",
-                "title": "90s Bollywood Nonstop Love Jukebox MixTape || Relaxing Lo- FI  Song || Bollywood Nonstop Lo-Fi Songs",
-                "description": "90s Hindi Old Nonstop Lo-Fi Song | Bollywood LoFi Song | Old Hindi Bollywood LoFi Song | Nonstop Lofi Audio Jukebox 2026 ...",
+                "publishedAt": "2024-02-23T05:08:19Z",
+                "channelId": "UCKPh4z7XD10sa5paTkku2uw",
+                "title": "Ronaldo In 2008🥶😱 #shorts #ronaldo #messi #shortsvideo",
+                "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Ou1zSCGnbOQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/7ZNo2yGUp0U/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Ou1zSCGnbOQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7ZNo2yGUp0U/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Ou1zSCGnbOQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7ZNo2yGUp0U/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Bollywood Lofi Vibes",
+                "channelTitle": "@xa07_Editx",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-12-30T05:55:40Z"
+                "publishTime": "2024-02-23T05:08:19Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "yj5uAlbTx45u5yBE1HPDWIPpSAk",
+            "etag": "yeAHdqSs7wT1AKLYd2ixunboDHE",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "1sRaLqtHXQU"
+                "videoId": "J8zidNxsojk"
             },
             "snippet": {
-                "publishedAt": "2023-05-22T07:56:11Z",
-                "channelId": "UCFAeAlzbYVwtk7dGaVeBOZg",
-                "title": "Ek Din Aap Yun [ Slowed + Reverb ] | 90&#39;s songs",
-                "description": "Ek Din Aap Yun [ Slowed + Reverb ] | 90's songs #lyrics #hindisong #90shindisongs orginal video song ...",
+                "publishedAt": "2016-05-02T09:34:34Z",
+                "channelId": "UCcvNYxWXR_5TjVK7cSCdW-g",
+                "title": "HARJOT : CHANN WARGA Video Song | DESI ROUTZ | Latest Punjabi Song 2016",
+                "description": "Presenting a Chann Warga video song, Sung by Harjot composed by Desi Routz and penned by Harjot. Enjoy and stay ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/1sRaLqtHXQU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/J8zidNxsojk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/1sRaLqtHXQU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/J8zidNxsojk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/1sRaLqtHXQU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/J8zidNxsojk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Sanju ",
+                "channelTitle": "T-Series Apna Punjab",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-22T07:56:11Z"
+                "publishTime": "2016-05-02T09:34:34Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "FZV04Zo1re3lJP6tmbj0xC1IyeA",
+            "etag": "1lKIvF7VtrMkw1ZhAfm0hVxkliM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "htqPgViqagY"
+                "videoId": "PzX56VmsmT8"
             },
             "snippet": {
-                "publishedAt": "2026-04-09T13:04:59Z",
-                "channelId": "UCWYsbMbUCQ3FHyIYlKm04Fw",
-                "title": "90s Nostalgic Love Mashup | LOFIHUB | 90s Love Songs | Shah Rukh Khan | 90s Hits Hindi Songs",
-                "description": "90s Nostalgic Love Mashup | LOFIHUB | 90s Love Songs | Shah Rukh Khan | 90s Hits Hindi Songs Enjoy the ultimate 90s ...",
+                "publishedAt": "2024-07-13T06:54:13Z",
+                "channelId": "UCn-d20hqgEh1-sH1hHC3EXQ",
+                "title": "Bollywood peaked on rom-coms #love #romcoms #bollywood #underrated",
+                "description": "movierecommendations #bollywood #underrated #romance #romcoms #romanticmovies #lovestory #top5.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/htqPgViqagY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/PzX56VmsmT8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/htqPgViqagY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/PzX56VmsmT8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/htqPgViqagY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/PzX56VmsmT8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "LOFI HUB",
+                "channelTitle": "Little of Everything",
                 "liveBroadcastContent": "none",
-                "publishTime": "2026-04-09T13:04:59Z"
+                "publishTime": "2024-07-13T06:54:13Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "pXFfUdUggfgEc8pNPv0Tw62i4OQ",
+            "etag": "IR-2uPYQ1wFxvzHUDuLs0O32FOw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "oRSUx5Eh-QU"
+                "videoId": "Kg66vNiu41E"
             },
             "snippet": {
-                "publishedAt": "2025-10-04T13:30:58Z",
+                "publishedAt": "2026-01-20T12:15:10Z",
+                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+                "title": "2016 Bollywood Blockbusters | Nostalgic Hindi Songs | Iconic Hits | Best of 2016 Bollywood Songs",
+                "description": "Take a trip back to 2016 — the year of unforgettable Bollywood music Relive the magic with this collection of iconic Hindi songs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kg66vNiu41E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kg66vNiu41E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kg66vNiu41E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sony Music India",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-20T12:15:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "k6vfsVd6qFYhEGZ4JBObPkxxp7Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nltNdj7bJo8"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-17T04:30:11Z",
+                "channelId": "UCgvxj5WJEl1DRJonKNXIcHw",
+                "title": "2000&#39;S Bollywood Party Mashup | DJ Bhav London | Sunix Thakor | Bollywood Dance Mashup",
+                "description": "Get ready to dance the night away with this electrifying 2000's Bollywood Party Mashup! DJ Bhav London and Sunix Thakor ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nltNdj7bJo8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nltNdj7bJo8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nltNdj7bJo8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sunix Thakor",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-17T04:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5YuVE-aSNlkQqO_XiquhsCIV75w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H41cmlmmTwU"
+            },
+            "snippet": {
+                "publishedAt": "2024-04-17T12:30:18Z",
                 "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
-                "title": "1 hour Non-Stop Bollywood Lofi Mix|  Chill Mix Playlist | Drive, Relax | Study, Sleep | Hindi Song",
-                "description": "1 Hour Non-Stop Bollywood Lofi Mix – unwind, relax, and vibe to the soothing sounds of your favorite Hindi melodies, reimagined ...",
+                "title": "2000s Hits Hindi Songs | Bollywood Romantic Songs Video Jukebox | Romantic Music For Love",
+                "description": "Take a nostalgic trip down memory lane with this ultimate collection of 2000s Hits Hindi Songs. From timeless Bollywood ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/oRSUx5Eh-QU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/H41cmlmmTwU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/oRSUx5Eh-QU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/H41cmlmmTwU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/oRSUx5Eh-QU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/H41cmlmmTwU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
                 "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-10-04T13:30:58Z"
+                "publishTime": "2024-04-17T12:30:18Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "47p310LrEJQvdQHVKWQ2PfhgUF8",
+            "etag": "mqM7Q11BTyJ48mNdnkmM4SrwhvA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "t8yVk0bm684"
+                "videoId": "aDa_tqgmEAg"
             },
             "snippet": {
-                "publishedAt": "2024-08-26T21:33:28Z",
-                "channelId": "UCZ6hBDVD-MjBbKOX68u1pEQ",
-                "title": "1 Hour of Night Hindi Lofi Songs To \\Chill \\Relax \\Refreshing",
-                "description": "Assalamualaikum! To everyone this is me Vicky bhai Don't forget to subscribe !!! Thanks for watching !!! Follow me on Instagram ...",
+                "publishedAt": "2025-07-11T03:30:00Z",
+                "channelId": "UCbrM4gIz9lvtXPUg4fseIEg",
+                "title": "9XM Wali Subah Mashup | Sid Guldekar | Best of 2000&#39;s &amp; 2010&#39;s Bollywood Songs | Nonstop Jukebox",
+                "description": "POV : It's 9XM time before going to school 9XM Wali Subah Mashup | Sid Guldekar | Best of 2000's & 2010's Bollywood Songs ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/t8yVk0bm684/default.jpg",
+                        "url": "https://i.ytimg.com/vi/aDa_tqgmEAg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/t8yVk0bm684/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aDa_tqgmEAg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/t8yVk0bm684/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aDa_tqgmEAg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "viral vicky vlogs ",
+                "channelTitle": "Sid Guldekar",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-08-26T21:33:28Z"
+                "publishTime": "2025-07-11T03:30:00Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "xU67J50FT3FNQ2NPUDddjlC948Y",
+            "etag": "DuGW7CBIJB_ilFRsYfYHbSEqcTM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "kYGEMfHr7O8"
+                "videoId": "fmzIrmGkru0"
             },
             "snippet": {
-                "publishedAt": "2023-12-11T11:00:30Z",
-                "channelId": "UCihf5BBBbi7LqF3ZAlHVHZQ",
-                "title": "#Raah me unse | Slowed+ reverb| modifee",
-                "description": "lofibeats #lofimusic #oldsongs Raah me unse | Slowed+ reverb| Lofi love #lofi #lofimusic #lofilove #viral #trending #youtube ...",
+                "publishedAt": "2025-09-22T05:45:02Z",
+                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+                "title": "2000s Dance Hits | Best of Bollywood Dance Songs | Evergreen Bollywood Songs",
+                "description": "Groove with the Best 2000s Bollywood Dance Hits! Relive the golden era of Bollywood with the most iconic, high-energy, and ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/kYGEMfHr7O8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/fmzIrmGkru0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/kYGEMfHr7O8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/fmzIrmGkru0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/kYGEMfHr7O8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/fmzIrmGkru0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "MODIFEE",
+                "channelTitle": "Sony Music India",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-12-11T11:00:30Z"
+                "publishTime": "2025-09-22T05:45:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "VACoQRiGTfw7M9aAb8XkLDqVTDw",
+            "etag": "50yUr6r6qP6FzLc7ypw-iXSs6bY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Us0zppJfRlQ"
+                "videoId": "iSO4OErJT7U"
             },
             "snippet": {
-                "publishedAt": "2025-10-04T00:30:06Z",
-                "channelId": "UCH77yUlcEJLwC-VI59_olpw",
-                "title": "Best of 90s Retro Love Mashup | SAM Mashup | 90s Hits Hindi Song | 90s Love Songs | Best Of 90s Love",
-                "description": "Best of 90s Retro Love Mashup | SAM Mashup | 90s Hits Hindi Song | 90s Love Songs | Best Of 90s Love | Udit Narayan Songs ...",
+                "publishedAt": "2025-07-16T12:11:20Z",
+                "channelId": "UCe2kZVMf05BdI_JqZR4o_WA",
+                "title": "BOLLYWOOD NON STOP | AVNEET MUSIC | BOLLYWOOD CLASSICS | BOLLYWOOD 2000s",
+                "description": "Get ready for a musical journey down memory lane! Enjoy 1 hour of non-stop Bollywood classic hits from the 2000s.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Us0zppJfRlQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/iSO4OErJT7U/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Us0zppJfRlQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/iSO4OErJT7U/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Us0zppJfRlQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/iSO4OErJT7U/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "SAM Mashup",
+                "channelTitle": "AVNEET",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-10-04T00:30:06Z"
+                "publishTime": "2025-07-16T12:11:20Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "ckmCio6aFDl2KmvqxsFbOXqtrYM",
+            "etag": "Sm-ZMMKJWdizXuhFokjsaDD5J70",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "m70d24MiCPA"
+                "videoId": "YayJjFwrDCc"
             },
             "snippet": {
-                "publishedAt": "2025-03-19T12:30:26Z",
+                "publishedAt": "2024-04-25T10:30:10Z",
                 "channelId": "UCjeD2I8jwXg2l_nvXb_6Hzw",
-                "title": "Late Night Chill | Audio Jukebox | Romantic Songs | Slow Bollywood Songs | Feel Good Hindi Songs",
-                "description": "Some nights are meant for music that speaks louder than words. Press play and let the melodies soothe your soul! ▻ YRF New ...",
+                "title": "2000s Bollywood Dance Hits | Audio Jukebox | Bollywood 2000s | Hindi Songs 2000 to 2010",
+                "description": "Put on your dancing shoes and get ready to party to the best millennial dance tracks like it's the 2000s all over again! ▻ Subscribe ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/m70d24MiCPA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/YayJjFwrDCc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/m70d24MiCPA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YayJjFwrDCc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/m70d24MiCPA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YayJjFwrDCc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
                 "channelTitle": "YRF Music",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-03-19T12:30:26Z"
+                "publishTime": "2024-04-25T10:30:10Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "TTc1HO1_Hhr60uGXk1mhxnz0Vpg",
+            "etag": "sdfveSpFUqxFU21WAnPfWTh7qP4",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "re3pGBDhRCQ"
+                "videoId": "cxEv8whJhfI"
             },
             "snippet": {
-                "publishedAt": "2025-09-28T00:30:06Z",
-                "channelId": "UCH77yUlcEJLwC-VI59_olpw",
-                "title": "90s Romantic Monsoon Love Mashup | SAM Mashup | 90s Hits Hindi Song |90s Love Song |Best of 90s Love",
-                "description": "90s Romantic Monsoon Love Mashup | SAM Mashup | 90s Hits Hindi Song |90s Love Song |Best of 90s Love | Udit Narayan ...",
+                "publishedAt": "2025-06-23T08:57:05Z",
+                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+                "title": "Bollywood Nostalgic Hit Songs | Bollywood Love Songs | 2000s Best Songs | Evergreen Hindi Songs",
+                "description": "Transport yourself back to the golden era of Bollywood with these nostalgic hit songs from the 2000s. From romantic melodies to ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/re3pGBDhRCQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/cxEv8whJhfI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/re3pGBDhRCQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cxEv8whJhfI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/re3pGBDhRCQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cxEv8whJhfI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "SAM Mashup",
+                "channelTitle": "Sony Music India",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-09-28T00:30:06Z"
+                "publishTime": "2025-06-23T08:57:05Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "HnZZxALhm3GSjOe4QNG8Gkq0T_Q",
+            "etag": "zM_joDn8IzRLmX3OCeh7iGHQ3iE",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "0PacbXyzzHk"
+                "videoId": "mDqooripK-o"
             },
             "snippet": {
-                "publishedAt": "2023-11-05T06:34:54Z",
-                "channelId": "UCgCVrGVP7MtIszhLjz6cmpw",
-                "title": "Lofi 2.0 Jukebox|Dil Hai Tumhara|Slowed+Reverb|#lofi #love #share #youtube #jukebox #slowed #trend",
-                "description": "Mp3 Jukebox Lo-fi 2.0 S l o w e d + R e v e r b Movie- Dil Hai Tumhara Top Best Songs Best Bollywood Songs My Lofi Edition ...",
+                "publishedAt": "2024-07-25T10:30:16Z",
+                "channelId": "UCjeD2I8jwXg2l_nvXb_6Hzw",
+                "title": "2000s Bollywood Hits | Audio Jukebox | Best Bollywood Songs | 2000 to 2010 Songs",
+                "description": "Featuring the decade's most loved songs, this audio jukebox is perfect for a trip down nostalgia lane! ▻ Subscribe Now: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/0PacbXyzzHk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/mDqooripK-o/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/0PacbXyzzHk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mDqooripK-o/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/0PacbXyzzHk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mDqooripK-o/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Musical_Magic23",
+                "channelTitle": "YRF Music",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-11-05T06:34:54Z"
+                "publishTime": "2024-07-25T10:30:16Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "XphYrVcCC6QoisCVtWSqlJ18Vo4",
+            "etag": "hcUTneXrGZ5UXiJhZAAs7ZKf9Jo",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "KRA26LhuTP4"
+                "videoId": "2Vt3qNgXPjA"
             },
             "snippet": {
-                "publishedAt": "2021-04-07T19:27:16Z",
-                "channelId": "UC7100luX6Jc8NySTow4ovog",
-                "title": "Best of Bollywood Hindi lofi / chill mix playlist | 1 hour non-stop to relax, drive, study, sleep 💙🎵",
-                "description": "SUBSCRIBE FOR NEW SONGS EVERY WEEK LET'S STAY CONNECTED Instagram: ...",
+                "publishedAt": "2024-12-13T10:45:00Z",
+                "channelId": "UCO1wb-uCLnailImWZqrVB-Q",
+                "title": "early 2000s bollywood✨🙈🤌 🙌❤ #bollywood #songs #trending",
+                "description": "johnabraham #shahidkapoor #milindsoman #kunalkhemu #ojaana #trending.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/KRA26LhuTP4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/2Vt3qNgXPjA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/KRA26LhuTP4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2Vt3qNgXPjA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/KRA26LhuTP4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2Vt3qNgXPjA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "aMeth Music",
+                "channelTitle": "Mona",
                 "liveBroadcastContent": "none",
-                "publishTime": "2021-04-07T19:27:16Z"
+                "publishTime": "2024-12-13T10:45:00Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "HkjUUi12Sucj-ypuojqZJD5ik_Y",
+            "etag": "k4cf3IvmAbatGSvQ2EsaiV4sP4w",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "BEID7qhqajM"
+                "videoId": "ttWGrtOXrBc"
             },
             "snippet": {
-                "publishedAt": "2025-05-04T00:12:16Z",
-                "channelId": "UC0mUi81zy5WbDiVFrBpGLvQ",
-                "title": "OLD IS GOLD SONG | 90 S HITS HINDI | OLD SONG | HINDI OLD SONG | HINDI MASHUP | HINDI SONG | SRK",
-                "description": "OLD IS GOLD SONG | 90 S HITS HINDI | OLD SONG | HINDI OLD SONG | HINDI MASHUP | HINDI SONG | SRK #old #oldisgold ...",
+                "publishedAt": "2025-10-28T05:30:35Z",
+                "channelId": "UCmLUxEzp3hcIEh-LW4JOIHA",
+                "title": "Bollywood Top 5 10 years oldest songs😍🎧| Gerua-Saathiya | #explore #trendingnow",
+                "description": "Bollywood Top 5 10 years oldest songs    | Gerua-Saathiya | #explore #trendingnow Top 5 Neha Kakkar Songs That Prove ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/BEID7qhqajM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ttWGrtOXrBc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/BEID7qhqajM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ttWGrtOXrBc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/BEID7qhqajM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ttWGrtOXrBc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "ZX LOFI SANJU",
+                "channelTitle": "Flick Zan",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-05-04T00:12:16Z"
+                "publishTime": "2025-10-28T05:30:35Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "PC72xY9_uf2xiVifH7jrIzuYQmw",
+            "etag": "ggSNnxuHgLjETO7A9JyGaFocfvo",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "pFOeW4cC9tY"
+                "videoId": "6ZsW2G7w4f4"
             },
             "snippet": {
-                "publishedAt": "2025-04-15T20:53:55Z",
-                "channelId": "UCLH9uOLb8GItMakhEdUk4TQ",
-                "title": "Ek din aap yun - lofi ( slowed + reverb ) | lofi song | Kumar Sanu | Alka Yagnik | AAR MUSIC",
-                "description": "Ek din aap yun - lofi ( slowed+ reverb ) | lofi song | Kumar Sanu | Alka Yagnik | AAR MUSIC Ek Din Aap Yun [ Slowed + Reverb ] ...",
+                "publishedAt": "2025-10-14T09:38:57Z",
+                "channelId": "UCFO7oRzk5Tna-_65CbwwGpQ",
+                "title": "Relive Your Childhood | Classic Bollywood Songs from 9xm Era",
+                "description": "Relive the golden era of Bollywood! This video brings back the timeless magic of the 9xm Era — full of evergreen romantic, soulful ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/pFOeW4cC9tY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/6ZsW2G7w4f4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/pFOeW4cC9tY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/6ZsW2G7w4f4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/pFOeW4cC9tY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/6ZsW2G7w4f4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "AAR MUSIC",
+                "channelTitle": "9xmEra",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-04-15T20:53:55Z"
+                "publishTime": "2025-10-14T09:38:57Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "G87Oi_novUN4oBSEeGCLsJNjcrA",
+            "etag": "CSCv_b91UJpGY8C1Weeq-8UUwJA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "u5xviTjyh6w"
+                "videoId": "8_Fk_56mKTQ"
             },
             "snippet": {
-                "publishedAt": "2024-10-12T02:18:21Z",
-                "channelId": "UCTMPSTopNmZbHvK86h_p_jw",
-                "title": "90s Lofi Songs || best hindi song #music",
-                "description": "new video - https://youtube.com/shorts/6AnIbCDYxeY?si=GDUDMfr1T5W_LYMz.",
+                "publishedAt": "2023-02-03T07:00:04Z",
+                "channelId": "UC_SwEw5k0scWl9Q8oXTPqjw",
+                "title": "🤩 Top 10 Best Bollywood Movies of the 2000s 🤩 #shorts #movies #bollywood #best #films #actress",
+                "description": "Top 10 Best Bollywood Movies of the 2000s #shorts #movies #bollywood #best #films #actress #viral #2000 #viralshorts ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/u5xviTjyh6w/default.jpg",
+                        "url": "https://i.ytimg.com/vi/8_Fk_56mKTQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/u5xviTjyh6w/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8_Fk_56mKTQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/u5xviTjyh6w/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8_Fk_56mKTQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "TS Hack",
+                "channelTitle": "Topper Things",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-10-12T02:18:21Z"
+                "publishTime": "2023-02-03T07:00:04Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "ddtHtboW1njoXLmPaqneKUXx0Uk",
+            "etag": "_ymZXLnq8OrRQ8soJ63fE0aAdSA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "W6NjYNRYPGs"
+                "videoId": "tRQRskVyS5I"
             },
             "snippet": {
-                "publishedAt": "2025-04-15T05:34:23Z",
-                "channelId": "UCbIh5dselvQ635HBWYa9zFQ",
-                "title": "OLD IS GOLD 90&#39;S HITS HINDI SONGS  90&#39;S SRK MASHUP   OLD HINDI SONG MASHUP @shreedigitastudio23",
-                "description": "sadmashup #nightmemories #punjabimashup #lofi #arijitsingh #arijitsinghmashup #bollywood #mashup #bollywoodlofi ...",
+                "publishedAt": "2025-01-15T17:00:06Z",
+                "channelId": "UC5fzo8Ne2F1HboTejcFDWqQ",
+                "title": "Top 10 bollywood movies of 2016",
+                "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/W6NjYNRYPGs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/tRQRskVyS5I/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/W6NjYNRYPGs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/tRQRskVyS5I/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/W6NjYNRYPGs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/tRQRskVyS5I/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "SHREEDIGITALSTUDIO",
+                "channelTitle": "Iron Man Fan ",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-04-15T05:34:23Z"
+                "publishTime": "2025-01-15T17:00:06Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "ORfPEAqXaeLPOcvUxhwVkdxso4k",
+            "etag": "f3xLa8aMmxApDdOUt0KgDKvLgMM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "zPxTWtsX80U"
+                "videoId": "9yFX3KuLunM"
             },
             "snippet": {
-                "publishedAt": "2026-02-01T10:01:33Z",
-                "channelId": "UCFLjWTML-O3d-gUHTj1I2oA",
-                "title": "90s Bollywood Romantic Nonstop Lo-Fi Jukebox Mixtape || Bollywood LoFi Song || Old Hindi LoFi Song",
-                "description": "90s Bollywood Romantic Nonstop Lo-Fi Jukebox Mixtape | Bollywood LoFi Song | Old Hindi Bollywood LoFi Song | Nonstop Lofi ...",
+                "publishedAt": "2025-12-07T14:45:06Z",
+                "channelId": "UCBGC8gVOvygKu1HERe3bMwQ",
+                "title": "Bollywood Nostalgia Playlist | Best 2012–2016 Songs | Aesthetic Vibes",
+                "description": "Relive the golden era of 2012–2016 — some of the most magical, heart-melting, feel-good Bollywood songs. If you love nostalgia, ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/zPxTWtsX80U/default.jpg",
+                        "url": "https://i.ytimg.com/vi/9yFX3KuLunM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/zPxTWtsX80U/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9yFX3KuLunM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/zPxTWtsX80U/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9yFX3KuLunM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Dream Sleep Haven",
+                "channelTitle": "Eunoia",
                 "liveBroadcastContent": "none",
-                "publishTime": "2026-02-01T10:01:33Z"
+                "publishTime": "2025-12-07T14:45:06Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "APBelPeZRUvqRIyFhoL8ICx4fa4",
+            "etag": "a036EU64a-KD1t2ZO_3JJpChMt8",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "CerL_obhD9Y"
+                "videoId": "WNtfLnK_wic"
             },
             "snippet": {
-                "publishedAt": "2021-05-01T18:30:05Z",
-                "channelId": "UCh7aocZezr9gnY0uh0uONVA",
-                "title": "30 Minutes of Peace Vol.1 - Best of Bollywood Lofi Mixtape to relax/chill/study/drive",
-                "description": "Presenting You Some of my Lo-fi. Hope You guys will like it. Follow Lo-fi 2307 on: Instagram - https://www.instagram.com/lofi2307/ ...",
+                "publishedAt": "2024-11-19T02:30:29Z",
+                "channelId": "UCzy-q8FsBCovoxMjf1uZPfA",
+                "title": "2000s Bollywood Hits 💘 2000s Hit Songs 💘 Kumar Sanu, Alka Yagnik, Udit Narayan, Kavita Krishnamurthy",
+                "description": "2000s Bollywood Hits 2000s Hit Songs Kumar Sanu, Alka Yagnik, Udit Narayan, Kavita Krishnamurthy #90s_evergreen ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/CerL_obhD9Y/default.jpg",
+                        "url": "https://i.ytimg.com/vi/WNtfLnK_wic/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/CerL_obhD9Y/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WNtfLnK_wic/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/CerL_obhD9Y/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WNtfLnK_wic/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Lo-fi 2307",
+                "channelTitle": "Retro Rythem",
                 "liveBroadcastContent": "none",
-                "publishTime": "2021-05-01T18:30:05Z"
+                "publishTime": "2024-11-19T02:30:29Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "ltg3JbjkdCkLwlq3SoeXS9u7Qz0",
+            "etag": "3lb1VM4ybBS7k6aW9Ho5I4rKw3U",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "rFEAW5Tkl4s"
+                "videoId": "qNKdeH9flDs"
             },
             "snippet": {
-                "publishedAt": "2025-05-30T15:04:57Z",
-                "channelId": "UCgPyeJvXMcPJsWCXnh6SZHw",
-                "title": "𝑨 𝒑𝒍𝒂𝒚𝒍𝒊𝒔𝒕 𝒕𝒐 𝒕𝒊𝒎𝒆 𝒕𝒓𝒂𝒗𝒆𝒍 𝒊𝒏 𝟗𝟎&#39;𝒔 𝒍𝒐𝒗𝒆 𝒆𝒓𝒂 ₊˚⊹⋆",
-                "description": "\"music credit goes to the owners\" #aesthetic#shiawase♡ . . 00:00 - Chura liya hai tumne jo dil ko 00:59 - Bheegi bheegi raaton ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/rFEAW5Tkl4s/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/rFEAW5Tkl4s/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/rFEAW5Tkl4s/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "𝑺𝒉𝒊𝒂𝒘𝒂𝒔𝒆⋆˚࿔",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-05-30T15:04:57Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "vtbOIz5pc6VR8UHIdfSvIkzQXDE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "OEuaXem0Ejk"
-            },
-            "snippet": {
-                "publishedAt": "2023-05-01T09:23:38Z",
-                "channelId": "UCwEAbRXJOcdcsomrTh-Q6Kg",
-                "title": "Hum Tumko Nigahon Mein - Slowed+Reverb | Salman Khan, Shilpa Shetty | Romantic Lofi Song",
-                "description": "Hum Tumko Nigahon Mein - Slowed+Reverb | Salman Khan, Shilpa Shetty | Romantic Lofi Song Insta ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/OEuaXem0Ejk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/OEuaXem0Ejk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/OEuaXem0Ejk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "90s Lo-fi Vibes",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-05-01T09:23:38Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "wnEQ9yG-cIFfZaBAagCM2FsN-XE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "FLDzAYVL_UQ"
-            },
-            "snippet": {
-                "publishedAt": "2022-10-30T09:35:26Z",
-                "channelId": "UCLl2TRYTYdmSyeir4Y_M3Qg",
-                "title": "90s Songs Mashup|Slowed and Reverb|Old Songs|Lofi|Mind Relaxing1AM#lofi #90s #slowedandreverb",
-                "description": "Old 90s and 2000s Lofi songs Mashup Slowed and Reverb songs Mashup Lofi songs Mashup Mind Relaxing songs Thanks for ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/FLDzAYVL_UQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/FLDzAYVL_UQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/FLDzAYVL_UQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "1AM Lofi",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-10-30T09:35:26Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "LIInC0YFxM0wSmUWDqfVDKZJOFk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "M8fboCNVQqs"
-            },
-            "snippet": {
-                "publishedAt": "2022-12-28T05:55:49Z",
-                "channelId": "UC2ycRWMAemRhbvOvd-H2_Ew",
-                "title": "Dekhne walon ne Kya kya nahi Dekha hoga lofi song Hindi /hindi old song /hindi lofi song/ 90&#39;s song",
-                "description": "video #slowedreverb #hindilofi Dekhne walon ne kya kya nahi Dekha hoga lofi song Hindi/hindi old song /hindi lofi song /90's ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/M8fboCNVQqs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/M8fboCNVQqs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/M8fboCNVQqs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "SM LOFI",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-12-28T05:55:49Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "-Ujxi1E7bYACx8JGJsdVV6-PHVs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "creLU_IYjcs"
-            },
-            "snippet": {
-                "publishedAt": "2024-05-31T05:26:01Z",
-                "channelId": "UC_jKbr7ACXE7LsuDoLaCJcw",
-                "title": "Non Stop Lofi Mashup | 24/7 Live | Hindi Heart Touching Songs | Lofi Songs | Lofi Live",
-                "description": "lofi #remix_songs #lovesongs #bollywood_mashup #hindi_songs #lofi2307 #love #lofimusic #lofibollywood #lofihiphop ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/creLU_IYjcs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/creLU_IYjcs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/creLU_IYjcs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Ronak Bhatt",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-05-31T05:26:01Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "RMBPdkoWaSS9hXsC49T9Ih3-pb4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "z4nmwL3w0oc"
-            },
-            "snippet": {
-                "publishedAt": "2026-03-14T14:37:11Z",
-                "channelId": "UCAsr2H_wmTyhkdAwRgR3BwQ",
-                "title": "90s Bollywood Nonstop Love Jukebox MixTape || Relaxing Lo- FI Song || Bollywood Nonstop Lo-Fi Songs",
-                "description": "90s Bollywood Nonstop Love Jukebox || Old is Gold | 90s Bollywood Nonstop Relaxing Lofi | सुकून भरा सफर | 90s ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/z4nmwL3w0oc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/z4nmwL3w0oc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/z4nmwL3w0oc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Bollywood Lofi Vibes",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-03-14T14:37:11Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "g3FvMLcmUi5J-5u6oHuHL5PHq0Q",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "gR4QeqWhVQg"
-            },
-            "snippet": {
-                "publishedAt": "2023-01-02T13:38:35Z",
-                "channelId": "UCM_ZACGaJ9NoCJJvb2yTMGA",
-                "title": "Jab koi baat bigar jaye &quot;M” (slow+reverb) old bolly-lofi song",
-                "description": "jab koi baat bigar jaye song \" jurm 1990 movie vinod khanna & Meenakshi old bollywood lofi hit song #youtube ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/gR4QeqWhVQg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/gR4QeqWhVQg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/gR4QeqWhVQg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Hamza Majid",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-01-02T13:38:35Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "l2oxd_bFmRcSqgd39Ymqjbb1jpQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "bA1axnkYCm8"
-            },
-            "snippet": {
-                "publishedAt": "2026-01-22T05:30:06Z",
-                "channelId": "UCw_e5eZL6U5LF0jRWbXgPrg",
-                "title": "Bollywood Lo-Fi Songs | 90s Hindi Lo-Fi Songs | Romantic And Sad 90s Nonstop LoFi Songs ",
-                "description": "Bollywood Lo-Fi Songs | 90s Hindi Lo-Fi Songs | Romantic 90s Nonstop LoFi Songs - Relax & Chill | Hindi 90s Lofi Songs | Kumar ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/bA1axnkYCm8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/bA1axnkYCm8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/bA1axnkYCm8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Monotosh Lofi Vibes ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-01-22T05:30:06Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "FmVCyRpgJjeV6TmbuT_p4urmII0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "dFXEAMUDk6o"
-            },
-            "snippet": {
-                "publishedAt": "2025-04-10T13:30:30Z",
+                "publishedAt": "2024-11-07T12:30:49Z",
                 "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
-                "title": "Non Stop Romantic Lofi Songs | Mind Relax Lofi Mashup | Slowed And Reverb | Lofi Love Songs Jukebox",
-                "description": "Let your heart drift with this mind-soothing lofi mashup of the most beautiful Hindi love songs – now in a slowed + reverb twist!",
+                "title": "Bollywood Love Songs | Bollywood Romantic Songs | 2000s Hindi Hits | 90s Hindi Songs Video Jukebox",
+                "description": "Indulge in the magic of the 2000s with these iconic Bollywood romantic songs that have touched millions of hearts! This Hindi ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/dFXEAMUDk6o/default.jpg",
+                        "url": "https://i.ytimg.com/vi/qNKdeH9flDs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/dFXEAMUDk6o/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qNKdeH9flDs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/dFXEAMUDk6o/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qNKdeH9flDs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
                 "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-04-10T13:30:30Z"
+                "publishTime": "2024-11-07T12:30:49Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "VQEu2mp-1YQJhGDAx-L5POJtPWY",
+            "etag": "ayBEjj83JsPywJXOSe4gn_XIz7c",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "I4tMHseOdpI"
+                "videoId": "Mmu-tj-psuk"
             },
             "snippet": {
-                "publishedAt": "2026-01-29T12:30:05Z",
-                "channelId": "UCw_e5eZL6U5LF0jRWbXgPrg",
-                "title": "90s Bollywood Romantic Lo-Fi Mixtape | Bollywood Relaxing Lo-Fi Songs | 90s Evergreen Hindi Songs",
-                "description": "90s Bollywood Romantic Nonstop Lo-Fi Jukebox Mixtape | Bollywood LoFi Song | Old Hindi Bollywood LoFi Song | Nonstop Lofi ...",
+                "publishedAt": "2025-06-18T04:00:32Z",
+                "channelId": "UCloW-AFGCV4_Kt2UMZf-htQ",
+                "title": "POV : It&#39;s 9XM Wali Subah | 2010&#39;s Bollywood Playlist",
+                "description": "POV : It's 9XM Wali Subah | It is 2010's and you are vibing to the best Bollywood Playlist ..",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/I4tMHseOdpI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Mmu-tj-psuk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/I4tMHseOdpI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Mmu-tj-psuk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/I4tMHseOdpI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Mmu-tj-psuk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Monotosh Lofi Vibes ",
+                "channelTitle": "Shido Lofi",
                 "liveBroadcastContent": "none",
-                "publishTime": "2026-01-29T12:30:05Z"
+                "publishTime": "2025-06-18T04:00:32Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "RYePCvmavaRaqL5BS-FnGNIrjZg",
+            "etag": "mcriv31IoNhL4gFhHxeQnJmr5Aw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "RO04JSM3Mso"
+                "videoId": "IV8_oDFEWv0"
             },
             "snippet": {
-                "publishedAt": "2022-07-30T07:54:39Z",
-                "channelId": "UCp5a0y3MP-pSzT7YsRrY3NQ",
-                "title": "4 Hour of LOFI ( SUFI+BOLLYWOOD+LOFI TRACKS ) Drive, Long Trip, Study, Meditation",
-                "description": "4 Hour of LOFI ( SUFI+BOLLYWOOD+LOFI TRACKS ) Drive, Long Trip, Study, Meditation. SUFI LOFI BOLLYWOOD LOFI MIXED ...",
+                "publishedAt": "2025-09-17T11:45:42Z",
+                "channelId": "UCe2kZVMf05BdI_JqZR4o_WA",
+                "title": "BOLLYWOOD NON STOP | OFFICE PARTY | AVNEET MUSIC | BOLLYWOOD CLASSICS | BOLLYWOOD 2000s",
+                "description": "Who thought office parties could be this fun? This 54-minute Classic Bollywood DJ Set was recorded live at an office ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/RO04JSM3Mso/default.jpg",
+                        "url": "https://i.ytimg.com/vi/IV8_oDFEWv0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/RO04JSM3Mso/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IV8_oDFEWv0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/RO04JSM3Mso/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IV8_oDFEWv0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Movies And Music ",
+                "channelTitle": "AVNEET",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-07-30T07:54:39Z"
+                "publishTime": "2025-09-17T11:45:42Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "PeBjgw1VipB1nvT4xgaC7WgMb5o",
+            "etag": "kxv15Vllnjf3Eex2CWkyS_Ma3JA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "h_DqUtZPVS4"
+                "videoId": "OGTUBkHkCUk"
             },
             "snippet": {
-                "publishedAt": "2024-04-19T05:15:08Z",
-                "channelId": "UCu299JgECTwCV-8osmVOxeA",
-                "title": "1 Hours Kumar Sanu Nonstop Lofi Song (Slowed+Reverb) 90s Love Lofi Remix🎧🥰 Relaxing 90s 💝",
-                "description": "1 - Chand Se Parda Kijiye 2 - Is Tarah Aashiqui Ka 3 - Dil Deewana Na Jane Kab 4 - Ab Tere Dil Mein Aa Gaye 5 - Raha Me Unse ...",
+                "publishedAt": "2025-07-10T13:30:06Z",
+                "channelId": "UCmwQ8pwiXkwaPimRCWpTTAQ",
+                "title": "2010 to 2020 Bollywood Nostalgic Songs | Hit Bollywood Hindi Songs 2010 - 2020",
+                "description": "Subscribe For More Videos And Press The Bell Icon For For Instant Updates. #advcreations #ADV #rareadvcreations Relive the ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/h_DqUtZPVS4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/OGTUBkHkCUk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/h_DqUtZPVS4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OGTUBkHkCUk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/h_DqUtZPVS4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OGTUBkHkCUk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Biki Mix Tube",
+                "channelTitle": "ADV Creations",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-04-19T05:15:08Z"
+                "publishTime": "2025-07-10T13:30:06Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "yYEIp1rPEi7T-1VE9LbCNbpJ-Tc",
+            "etag": "SMnSe9ezEs_fcHSWVnaS0CuXB2U",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "eWnE-GqsmSw"
+                "videoId": "FvLo3Oro_qg"
             },
             "snippet": {
-                "publishedAt": "2023-11-27T10:04:04Z",
-                "channelId": "UCwEAbRXJOcdcsomrTh-Q6Kg",
-                "title": "Ek Dil Hai - [Slowed+Reverb] Ek Rishtaa | Akshay Kumar, Karisma Kapoor | Hindi Romantic Song",
-                "description": "Ek Dil Hai - [Slowed+Reverb] Ek Rishtaa | Akshay Kumar, Karisma Kapoor | Hindi Romantic Song Use Headphones For Better ...",
+                "publishedAt": "2024-09-14T09:30:08Z",
+                "channelId": "UCzy-q8FsBCovoxMjf1uZPfA",
+                "title": "2000s Bollywood Hits 💘 2000s Hit Songs 💘 Kumar Sanu, Alka Yagnik, Udit Narayan, Kavita Krishnamurthy",
+                "description": "2000s Bollywood Hits 2000s Hit Songs Kumar Sanu, Alka Yagnik, Udit Narayan, Kavita Krishnamurthy.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/eWnE-GqsmSw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/FvLo3Oro_qg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/eWnE-GqsmSw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FvLo3Oro_qg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/eWnE-GqsmSw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FvLo3Oro_qg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "90s Lo-fi Vibes",
+                "channelTitle": "Retro Rythem",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-11-27T10:04:04Z"
+                "publishTime": "2024-09-14T09:30:08Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "CEPM_16TVBBW-FOdEejH8sZHGmU",
+            "etag": "vh6G8t1fc6AUfQeXjpC8lPZBTXY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "G_LwNttRBII"
+                "videoId": "7HBA20Y5dT8"
             },
             "snippet": {
-                "publishedAt": "2022-08-04T03:30:05Z",
-                "channelId": "UC_A7K2dXFsTMAciGmnNxy-Q",
-                "title": "Kishore Kumar LoFi Songs | Best of Bollywood LoFi Mix Playlist |Bheegi Bheegi Raaton Mein |Raat Kali",
-                "description": "Chill, relax and vibe to the LoFi songs of the legend \"Kishore Kumar\". Click below to listen to the song of your choice: 00:00:05:00 ...",
+                "publishedAt": "2014-02-07T11:21:53Z",
+                "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
+                "title": "&quot;Most Romantic Songs&quot; Of Bollywood 2013 (Hindi) Valentine Jukebox | Top Romantic Tracks",
+                "description": "Click to share it on Facebook - http://bit.ly/RomanceSpecialJukebox Tum Hi Ho - 00:12 Yu Hi Re - 04:29 Kabhi Jo Badal - 09:18 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/G_LwNttRBII/default.jpg",
+                        "url": "https://i.ytimg.com/vi/7HBA20Y5dT8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/G_LwNttRBII/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7HBA20Y5dT8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/G_LwNttRBII/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7HBA20Y5dT8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Saregama Music",
+                "channelTitle": "T-Series",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-08-04T03:30:05Z"
+                "publishTime": "2014-02-07T11:21:53Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "2DlM3d4HoxbGpcg5XI8yhjj9ktg",
+            "etag": "ROZRs2NxbfFNXevbU9aghdBL5lI",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "CePs4opIq58"
+                "videoId": "sqfHiNiRmug"
             },
             "snippet": {
-                "publishedAt": "2025-05-02T07:03:10Z",
-                "channelId": "UCuX_r3-B35PxgjN-pBYyZKg",
-                "title": "90&#39;S Hits Hindi Songs | Old Is Gold | 90&#39;S SRK MASHUP | Old Hindi Song Mashup | Non-Stop mashup 2025",
-                "description": "audiojukebox #AlkaYagnik #HindiSongs 90's Glimpse Mashup | 90s hits hindi songs | 90s Hindi Romantic Songs | Udit Narayan, ...",
+                "publishedAt": "2025-05-14T04:30:28Z",
+                "channelId": "UCRm96I5kmb_iGFofE5N691w",
+                "title": "Bollywood Soulful Hits (Audio) Jukebox | Arijit Singh, K.K., Sonu Nigam, Shreya Ghoshal | Hit Songs",
+                "description": "(00:00) - Phir Mohabbat (05:29) - Main Agar Kahoon (10:38) - Hairat (14:45) - Duaa (19:05) - Rehna Tu (25:54) - Kaise Mujhe ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/CePs4opIq58/default.jpg",
+                        "url": "https://i.ytimg.com/vi/sqfHiNiRmug/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/CePs4opIq58/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sqfHiNiRmug/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/CePs4opIq58/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sqfHiNiRmug/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "B. AhasaN",
+                "channelTitle": "T-Series Bollywood Classics",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-05-02T07:03:10Z"
+                "publishTime": "2025-05-14T04:30:28Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "G6N7L49rZ8zCWiRLkRJLfVU7e3w",
+            "etag": "wXyduBDbm3m58aAfUqNlq5Yv5a0",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "B-fNXiBZnj4"
+                "videoId": "LElOSR7cJyM"
             },
             "snippet": {
-                "publishedAt": "2026-02-21T02:24:05Z",
-                "channelId": "UCOYX9znp7ZX6eCpHVTRoD-w",
-                "title": "90&#39;s Romantic Love Mashup Hindi Songs | 90s RoadTrip Romantic Mashup",
-                "description": "This video is a mashup created for entertainment purposes. All credits goes to the original owners of the songs and clips used in ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/B-fNXiBZnj4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/B-fNXiBZnj4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/B-fNXiBZnj4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "lyrics8891",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-02-21T02:24:05Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "XaYD_YfOuEYgyF2XvPw-WAV5VfI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Dv-RAKECUbw"
-            },
-            "snippet": {
-                "publishedAt": "2024-11-29T16:15:21Z",
-                "channelId": "UCoxjjPi4O8KIU3eZluAUHXA",
-                "title": "𝙊𝙡𝙙 𝙞𝙨 𝙜𝙤𝙡𝙙 𝙫𝙞𝙧𝙖𝙡 𝙣𝙚𝙬 𝙡𝙤𝙛𝙮 𝙨𝙤𝙣𝙜 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝙮𝙤𝙜𝙚𝙨𝙝 𝙨𝙤𝙣𝙜𝙨 ♡♪𓂃𓂃♬",
-                "description": "Lofi music yogesh lofy Official Video is everywhere right now, from Lofi Girl racking up 11 million subscribers on YouTube to Adele ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Dv-RAKECUbw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Dv-RAKECUbw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Dv-RAKECUbw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Yogesh Official",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-11-29T16:15:21Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "dZ_CHJxSAPsh6k3C-IA5wpPK_VY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "OaK6WS6ZO9g"
-            },
-            "snippet": {
-                "publishedAt": "2026-01-29T03:59:33Z",
-                "channelId": "UCAsr2H_wmTyhkdAwRgR3BwQ",
-                "title": "Chori Chori Dil Tera Churayenge - Female Version || Relaxing Lo- FI Version || 90s Hindi Lo-fi Song",
-                "description": "Chori Chori Dil Tera Churayenge - Female Version - Hindi 90s Song | Phool Aur Angaar (1993) | Bollywood Lo-fi Song | 90s Lofi ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/OaK6WS6ZO9g/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/OaK6WS6ZO9g/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/OaK6WS6ZO9g/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Bollywood Lofi Vibes",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-01-29T03:59:33Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ZGPx4KSuTA0UhKd-zUK39hRyvDY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "TLnhaisU78A"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-12T04:33:20Z",
-                "channelId": "UCy1309nUlTX8N78qdVY0d8g",
-                "title": "Tu Jo Has Has Ke Sanam | slowed x reverb | Raja Bhaiya 2003 | Udit Narayan, Govinda",
-                "description": "THANKS FOR WATCHING     Tu Jo Has Has Ke Sanam | slowed x reverd I do not own the music and picture in this video.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/TLnhaisU78A/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/TLnhaisU78A/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/TLnhaisU78A/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Reversed_Rhythms",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-12T04:33:20Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "W5sr3M6Bm_v-tyQOOCdgJLcdEVA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Ium_9F79UwA"
-            },
-            "snippet": {
-                "publishedAt": "2025-10-27T04:50:29Z",
-                "channelId": "UCEfEPIi6p69wFhuji5SdMSQ",
-                "title": "90&#39;s Duet Love Mashup 2025 | 90&#39;s Classic Love Mashup | 90s Love Songs | Nonstop 90s | ZAYN MASHUP",
-                "description": "90'ssnostalgia #salmankhan #90ssalmankhan #oldhindisongs #90sromanticsongs #oldisgold #90ssongs #feelthe90s ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Ium_9F79UwA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Ium_9F79UwA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Ium_9F79UwA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "ZAYN Mashup",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-10-27T04:50:29Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "2UKuBg9QSPBBFhXCiUIXAp60Ob0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "NkQrDv4yPiA"
-            },
-            "snippet": {
-                "publishedAt": "2025-03-04T16:30:10Z",
-                "channelId": "UCqjLjbISKk8RQ6Uhf6BaQrQ",
-                "title": "Tera chehra ❤️🥀 Aesthetic edit | Lyrical video | #shorts #status #music #lofi #edit #lyrics",
-                "description": "Tera chehra ❤️   Aesthetic edit | Lyrical video | #shorts #status #music #lofi #edit #lyrics . . . . . . #love #song #trending #sad ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/NkQrDv4yPiA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/NkQrDv4yPiA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/NkQrDv4yPiA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "The Observer!",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-03-04T16:30:10Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "4hu0gCmEzg-1tl4UNmUilxPqUbQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "5lj9P12hmvQ"
-            },
-            "snippet": {
-                "publishedAt": "2023-02-16T17:01:52Z",
-                "channelId": "UCgLntSCHXxNJOVP5AsJD3tg",
-                "title": "Bollywood unwind session 1 &amp; 2 Relax Bollywood music",
-                "description": "Bollywood unwind session 1 & 2 Relax Bollywood music.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/5lj9P12hmvQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/5lj9P12hmvQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/5lj9P12hmvQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aadi ePublication",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-02-16T17:01:52Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "qRm4HWZtOZmdnLOpb1LCuEsTO2A",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "fbLpClz9K9o"
-            },
-            "snippet": {
-                "publishedAt": "2023-03-03T14:14:44Z",
-                "channelId": "UCXA4oNJlD545ld_CQA6iU5A",
-                "title": "OLD IS GOLD COVER PART 1| SLOW+REVERB | LOFI TRENDING SONG | VIBE WITH LOFI | viral",
-                "description": "Please subscribe :- https://www.youtube.com/@chaitanyaaofficial/featured instagram link: https://www.instagram.com/kalpriishent/ ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/fbLpClz9K9o/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/fbLpClz9K9o/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/fbLpClz9K9o/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "NostalgiaTrip",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-03-03T14:14:44Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "GEJntDZAl9iOTlXCFQCRB5s2ImY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "cU0Ys-sb0F0"
-            },
-            "snippet": {
-                "publishedAt": "2023-01-26T16:36:16Z",
-                "channelId": "UCK-dW3BN_eLrWONwCzY73zA",
-                "title": "Kinna Sona (slowed+reverb) | Sunil Kamath | Bhaag Johny | Kunal Khemu || LOFI JUKEBOX",
-                "description": "For better experience use EARPHONES HELLLO GUYS !! Here you can enjoy lyrical songs shorts on new and old songs.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/cU0Ys-sb0F0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/cU0Ys-sb0F0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/cU0Ys-sb0F0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "LOFI JUKEBOX",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-01-26T16:36:16Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "H4TldCFaNiBCHFhXkBS56F1en74",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "EWZqulvXnZQ"
-            },
-            "snippet": {
-                "publishedAt": "2025-08-15T13:30:06Z",
-                "channelId": "UCh7aocZezr9gnY0uh0uONVA",
-                "title": "K.K X Emraan Hashmi Mashup (Non-Stop Jukebox) Part - 2 | Lo-fi 2307 | Best of KK Mashup  #kkforever",
-                "description": "Join this channel to get access to perks: https://www.youtube.com/channel/UCh7aocZezr9gnY0uh0uONVA/join Hello! Step into a ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/EWZqulvXnZQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/EWZqulvXnZQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/EWZqulvXnZQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lo-fi 2307",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-08-15T13:30:06Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "eXMpmjNkdZvcRZaL7SqnvPcAcNM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "oLPDIonWYFY"
-            },
-            "snippet": {
-                "publishedAt": "2025-04-02T07:28:14Z",
-                "channelId": "UC3cgInE-Un_fa2rqTx5RRhA",
-                "title": "90’S Old Hindi Songs🥰 90s Love Song😍 Udit Narayan, Alka Yagnik, Kumar Sanu songs Hindi Jukebox",
-                "description": "90'S Old Hindi Songs   90s Love Song   Udit Narayan, Alka Yagnik, Kumar Sanu songs Hindi Jukebox songs #HindiRDMusic​ ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/oLPDIonWYFY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/oLPDIonWYFY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/oLPDIonWYFY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "pratapgarhiyabhaujiOfficial",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-04-02T07:28:14Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "4ImjuN8pK6Tks3HS1WvBoeznrkI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "dqnq7_8ZjQ4"
-            },
-            "snippet": {
-                "publishedAt": "2025-07-12T16:41:07Z",
-                "channelId": "UC8Y3votUz8aBhod7TIuSxLw",
-                "title": "90&#39;s song for instagram story #traditinal #love #90s",
-                "description": "90's Songs for Instagram Story | Aesthetic Vibes & Timeless Classics Get ready to rewind time with the best 90's song ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/dqnq7_8ZjQ4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/dqnq7_8ZjQ4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/dqnq7_8ZjQ4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "𝐿𝒾𝓍 ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-07-12T16:41:07Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "8Monhuam6kU7N2NY6MXG9sfIsVY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "oixKQCA6ykA"
-            },
-            "snippet": {
-                "publishedAt": "2025-06-08T06:29:19Z",
-                "channelId": "UCZdoeCMM3FziD8p6KmyB0QQ",
-                "title": "Saathiya 🥰✨🥀| hindi song lyrics| aesethetic/lofi song|Whatsapp status|#shorts #trending #viral #song",
-                "description": "Saathiya ✨  | hindi song lyrics| aesethetic/lofi song|Whatsapp status| #shorts #trending #viral #song My Podcast Episode 1 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/oixKQCA6ykA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/oixKQCA6ykA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/oixKQCA6ykA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Trending_Asethetic_bollywood_song_lyrics",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-06-08T06:29:19Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "n7EGO-_lnZfYRMKzcolHj7W0ckE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "_z4ByiU3Bq4"
-            },
-            "snippet": {
-                "publishedAt": "2026-01-17T10:01:01Z",
-                "channelId": "UCFLjWTML-O3d-gUHTj1I2oA",
-                "title": "90s Hindi Old Nonstop Lo-Fi Song | Bollywood LoFi Song | Old Nonstop Lofi Audio Jukebox 2026 |",
-                "description": "90s Hindi Old Nonstop Lo-Fi Song | Bollywood LoFi Song | Old Hindi Bollywood LoFi Song | Nonstop Lofi Audio Jukebox 2026 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/_z4ByiU3Bq4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/_z4ByiU3Bq4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/_z4ByiU3Bq4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Dream Sleep Haven",
-                "liveBroadcastContent": "none",
-                "publishTime": "2026-01-17T10:01:01Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Z2IM3f_lSpyD4jiL1ZF6FNkj9B8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "JRbTmKKzU7E"
-            },
-            "snippet": {
-                "publishedAt": "2024-11-10T05:48:50Z",
-                "channelId": "UC64LEwPD36LGLke-L-xI9iQ",
-                "title": "90&#39;s Romantic Mashup 2024 | Amit Vedwal | 90&#39;s Superhit Songs | 90&#39;s Evergreen Songs | Old Bollywood",
-                "description": "90's Romantic Mashup 2024 | Amit Vedwal | 90's Superhit Songs | 90's Evergreen Songs | Old Bollywood Don't Re-Upload My ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/JRbTmKKzU7E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/JRbTmKKzU7E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/JRbTmKKzU7E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Amit Vedwal",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-11-10T05:48:50Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "-WeiIC3y1PsXsCf-QPDgdx4O7eQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "5QI46m63YFs"
-            },
-            "snippet": {
-                "publishedAt": "2022-10-31T11:30:01Z",
-                "channelId": "UCVCuHy9eoIGu4eWiPq1u8ig",
-                "title": "Tujhme Khoya Rahu 💞 Arijit Singh Slowed And Reverb | Lofi Song | Lofi Efx WhatsApp Status 🥀💫 #lofi",
-                "description": "4k Full Screen Whats App Status || Aesthetic ✨ || Lo-fi song (Slow & Reverb) || #shorts ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/5QI46m63YFs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/5QI46m63YFs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/5QI46m63YFs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Bk Mastermind",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-10-31T11:30:01Z"
-            }
-        }
-        ,
-        {
-            "kind": "youtube#searchResult",
-            "etag": "A7yUr7gXdmZ5ButpOGAMNL1oLG4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ZZHI5el8cDg"
-            },
-            "snippet": {
-                "publishedAt": "2024-08-29T06:30:15Z",
-                "channelId": "UCmfZGucJw8lcnyoIfRoDvaQ",
-                "title": "Romantic love mashup | Bollywood Songs | Lofi Boy",
-                "description": "Mind Relax Lofi Song | Main Rang Sharbaton Ka | Love Me Thodha | Tu Hi Yaar Mera | Humdard Channa Mereya | Dil Diya ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ZZHI5el8cDg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ZZHI5el8cDg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ZZHI5el8cDg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lofi Boy",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-08-29T06:30:15Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "llyDFNAr_28SkWW4VjL7DhfJgI4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "lBO6g070t4Q"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-28T18:02:23Z",
-                "channelId": "UCL2D04C3TcJcqDdd57Ph8IQ",
-                "title": "Latest Bollywood Lofi Mashup 🎵 | Arijit Singh | O bedardeya | Tere Hawale | Kahani suno 2023 #lofi",
-                "description": "In this latest Bollywood Lofi Mashup, you'll get to hear Arijit Singh singing O bedardeya, Tere Hawale, and Kahani suno 2023.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/lBO6g070t4Q/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/lBO6g070t4Q/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/lBO6g070t4Q/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Breeze Lo-Fi Songs",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-28T18:02:23Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "yxBvq5Uqc6Tx5gwiJR-8_o5qzL0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "t8yVk0bm684"
-            },
-            "snippet": {
-                "publishedAt": "2024-08-26T21:33:28Z",
-                "channelId": "UCZ6hBDVD-MjBbKOX68u1pEQ",
-                "title": "1 Hour of Night Hindi Lofi Songs To \\Chill \\Relax \\Refreshing",
-                "description": "Assalamualaikum! To everyone this is me Vicky bhai Don't forget to subscribe !!! Thanks for watching !!! Follow me on Instagram ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/t8yVk0bm684/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/t8yVk0bm684/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/t8yVk0bm684/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "viral vicky vlogs ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-08-26T21:33:28Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Udm3EipaCtjwD_PxqLgyniP2S70",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "YjOGbR1V5_c"
-            },
-            "snippet": {
-                "publishedAt": "2025-01-21T17:31:39Z",
-                "channelId": "UCh7aocZezr9gnY0uh0uONVA",
-                "title": "NON STOP INSTAGRAM TRENDING LOVE MASHUP - Part 8 | PLAYLIST BY @lofi2307 | #instatrendingsongs",
-                "description": "Hello! Step into a world where timeless Bollywood melodies meet the soothing vibes of lo-fi magic. In this video, we've curated a ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/YjOGbR1V5_c/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/YjOGbR1V5_c/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/YjOGbR1V5_c/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lo-fi 2307",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-01-21T17:31:39Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "2wZI2IYnSukgdTKgL4M8Sz-a_iE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "KRA26LhuTP4"
-            },
-            "snippet": {
-                "publishedAt": "2021-04-07T19:27:16Z",
-                "channelId": "UC7100luX6Jc8NySTow4ovog",
-                "title": "Best of Bollywood Hindi lofi / chill mix playlist | 1 hour non-stop to relax, drive, study, sleep 💙🎵",
-                "description": "SUBSCRIBE FOR NEW SONGS EVERY WEEK LET'S STAY CONNECTED Instagram: ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/KRA26LhuTP4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/KRA26LhuTP4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/KRA26LhuTP4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "aMeth Music",
-                "liveBroadcastContent": "none",
-                "publishTime": "2021-04-07T19:27:16Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "x5aGDkPAAVmQUKVUnsXT-t6GdxY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "CerL_obhD9Y"
-            },
-            "snippet": {
-                "publishedAt": "2021-05-01T18:30:05Z",
-                "channelId": "UCh7aocZezr9gnY0uh0uONVA",
-                "title": "30 Minutes of Peace Vol.1 - Best of Bollywood Lofi Mixtape to relax/chill/study/drive",
-                "description": "Presenting You Some of my Lo-fi. Hope You guys will like it. Follow Lo-fi 2307 on: Instagram - https://www.instagram.com/lofi2307/ ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CerL_obhD9Y/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CerL_obhD9Y/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CerL_obhD9Y/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lo-fi 2307",
-                "liveBroadcastContent": "none",
-                "publishTime": "2021-05-01T18:30:05Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "w7vUaubnpy53FmHTMkXQ5hJnJpI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ZdFIOTWP4Og"
-            },
-            "snippet": {
-                "publishedAt": "2024-02-05T17:26:22Z",
-                "channelId": "UCyU-o_EiodynYNHs0qsRxvQ",
-                "title": "Main Kabhi Bhoolunga Na Tujhe || Saudebaazi ft. Aakrosh [Lofi + Slowed + Reverb ] Aini Lofi",
-                "description": "Main Kabhi Bhoolunga Na Tujhe || Saudebaazi ft. Aakrosh [Lofi + Slowed + Reverb ] Aini Lo-Fi Lyrics: sidhe saade saara saula ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ZdFIOTWP4Og/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ZdFIOTWP4Og/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ZdFIOTWP4Og/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aini Lofi",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-02-05T17:26:22Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "5yg_ogS7kilggaccbENitQLazpE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "voN-LFwJtPc"
-            },
-            "snippet": {
-                "publishedAt": "2021-12-29T14:30:10Z",
-                "channelId": "UCh7aocZezr9gnY0uh0uONVA",
-                "title": "30 Minutes of Peace Vol.3 - Best of Bollywood Lofi Mixtape to relax/chill/study/drive",
-                "description": "30min of hindi lofi music vol.3 (Slowed & Reverb) to chill/relax/sleep/drive| Arijit Singh| KK|Javed Ali|Rahat fateh ali ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/voN-LFwJtPc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/voN-LFwJtPc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/voN-LFwJtPc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lo-fi 2307",
-                "liveBroadcastContent": "none",
-                "publishTime": "2021-12-29T14:30:10Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "atc-KKgP6UdJCdt9TMRRVI-oeUk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "WhozYguqa9U"
-            },
-            "snippet": {
-                "publishedAt": "2025-06-13T00:00:37Z",
-                "channelId": "UCkppdRNO4fyvuUCVB4D7rOA",
-                "title": "Main Dil Hara I Himesh Reshammiya Vibes  I New Bollywood Song 2025 I",
-                "description": "Kabhi kabhi kuch lamhe dil ke itne kareeb ho jaate hain... bas ek music hi unka saathi ban jaata hai.” Feel Every Beat – Use ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/WhozYguqa9U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/WhozYguqa9U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/WhozYguqa9U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Gaane Buzz",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-06-13T00:00:37Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "aUw-o_A5oyg0YesbWD188ySCKzY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "AeMfBXyQLgE"
-            },
-            "snippet": {
-                "publishedAt": "2024-09-29T12:00:23Z",
-                "channelId": "UCSX-M9pOWhiZGaKZFEC2boQ",
-                "title": "Beautiful of Love Jukebox 2024 | Swaraj Komejwar | Non-Stop Romantic Mashup | LoFi Chillout",
-                "description": "Presenting - Beautiful of Love Jukebox 2024 | Swaraj Komejwar | Non-Stop Romantic Mashup | LoFi Chillout Mashup : Swaraj ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/AeMfBXyQLgE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/AeMfBXyQLgE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/AeMfBXyQLgE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Swaraj Komejwar",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-09-29T12:00:23Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "qcJYqXfYPb8ZoYr7k_W9p-f0QIs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "mjtsgSNvGk4"
-            },
-            "snippet": {
-                "publishedAt": "2022-02-13T18:39:28Z",
-                "channelId": "UCrHpucoXLZOyikqEVzl7IXw",
-                "title": "Best Of Bollywood Hindi Lofi (Slowed X Reverb) Insta Viral Lo-Fi Mix Mashup Velentine day special",
-                "description": "Best Of Bollywood Hindi Lofi (Slowed X Reverb) Insta Viral Lo-Fi Mix Mashup-Insta reels Viral Spotify ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/mjtsgSNvGk4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/mjtsgSNvGk4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/mjtsgSNvGk4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Music Bollywood 2000",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-02-13T18:39:28Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "PXgBEtFA_wD-A0-EMxEYGIhIaa4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "m70d24MiCPA"
-            },
-            "snippet": {
-                "publishedAt": "2025-03-19T12:30:26Z",
+                "publishedAt": "2025-02-13T10:30:08Z",
                 "channelId": "UCjeD2I8jwXg2l_nvXb_6Hzw",
-                "title": "Late Night Chill | Audio Jukebox | Romantic Songs | Slow Bollywood Songs | Feel Good Hindi Songs",
-                "description": "Some nights are meant for music that speaks louder than words. Press play and let the melodies soothe your soul! ▻ YRF New ...",
+                "title": "Top 20 Bollywood Romance | Audio Jukebox | Best Hindi Love Songs | Romantic Bollywood Hits",
+                "description": "20 love anthems, endless feels! Tune in for ultimate heart-eyes and all the butterflies ▻ YRF New Releases: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/m70d24MiCPA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/LElOSR7cJyM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/m70d24MiCPA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/LElOSR7cJyM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/m70d24MiCPA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/LElOSR7cJyM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
                 "channelTitle": "YRF Music",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-03-19T12:30:26Z"
+                "publishTime": "2025-02-13T10:30:08Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "7UKKBNUJSh3UkhbiMVFg5eGHp9k",
+            "etag": "WGTiBZAbr3ovdqh61yhdvIgVJ1Q",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "S04xHs5l93k"
+                "videoId": "kIZSBvq7UD8"
             },
             "snippet": {
-                "publishedAt": "2025-04-01T15:48:24Z",
-                "channelId": "UCOrmm6-BQ2FhPYS7uXpvVXg",
-                "title": "The Refreshing Playlist ✨🥂",
-                "description": "The Ultimate Refreshing Bollywood Playlist! | Feel-Good Hindi Songs Looking for the perfect Bollywood playlist to lift your ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/S04xHs5l93k/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/S04xHs5l93k/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/S04xHs5l93k/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Khayalon Ki Qashmakash ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-04-01T15:48:24Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "KdYB5jqeblRJp9yCsNTiEhDMtOw",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "N6GuFXv8fFk"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-22T18:15:06Z",
-                "channelId": "UCAgF6ClV3556L6JQXUY9DQg",
-                "title": "Bollywood Soft Sleeping Songs | Lofi [ Reverb + Slowed ] Relaxing Meditation Songs",
-                "description": "Use headphone for best experience . #thatlofimusic​ #softlofi​ #soothinf​ #aesthetic​ #bollywoodlofi​ #SlowedReverb​ ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/N6GuFXv8fFk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/N6GuFXv8fFk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/N6GuFXv8fFk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "CCS",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-22T18:15:06Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "LSuuIZx5SwfiQyqmhtRunTFr7vs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "5lj9P12hmvQ"
-            },
-            "snippet": {
-                "publishedAt": "2023-02-16T17:01:52Z",
-                "channelId": "UCgLntSCHXxNJOVP5AsJD3tg",
-                "title": "Bollywood unwind session 1 &amp; 2 Relax Bollywood music",
-                "description": "Bollywood unwind session 1 & 2 Relax Bollywood music.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/5lj9P12hmvQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/5lj9P12hmvQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/5lj9P12hmvQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aadi ePublication",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-02-16T17:01:52Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "qZYnrkArTdI0zvoos1vZDnNZwNQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "-1CwZ-U7UEs"
-            },
-            "snippet": {
-                "publishedAt": "2022-06-30T04:36:30Z",
-                "channelId": "UCyXAU6RAAXl0vJ_Vt0_ErWQ",
-                "title": "1 Hour Of Pure Lofi | Metro Version | Arijit Singh lofi To Travel/Study/Drive/Chill/Relaxing/Peace",
-                "description": "1 Hour of Pure Peace | Metro Version | Rain lofi edit to Travel/Chill/Study/Relax/Arijit Singh Aapka 1 SUB hamare liye SAB KUCH ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/-1CwZ-U7UEs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/-1CwZ-U7UEs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/-1CwZ-U7UEs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "One lofi",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-06-30T04:36:30Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "PrlfFFLt5tYHoKq4e3Kjk1HkPRY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "IWmmv7T-D7U"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-03T16:00:08Z",
-                "channelId": "UC_3mGyIuAsgfP9TG9MIob9Q",
-                "title": "Best Instagram Trending Lofi Songs | Slowed+Reverb | Lofi Mashup",
-                "description": "Best Instagram Trending Lofi Songs | Slowed+Reverb | Lofi Mashup #bollywoodlofimix #mashupsong #bestmoodoffsong",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/IWmmv7T-D7U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/IWmmv7T-D7U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/IWmmv7T-D7U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Slow Waves",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-03T16:00:08Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "hPD5aT49WBBqeHwkY_uU4CXAuBA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "4rVm0MBuLyA"
-            },
-            "snippet": {
-                "publishedAt": "2025-01-10T12:30:08Z",
-                "channelId": "UCl0B6VxY7OUW5L0ADyH_zDw",
-                "title": "First Love Lofi Mashup💕Slowed &amp; Reverb❤ Arijit Singh Love Mashup 😍 Heart Touching Songs #lofi#love",
-                "description": "First Love Lofi Mashup | ( Slowed+ Reverb ) | Chill Mashup Lofi | Feel Lofi Mashup ✨ #lofi #bollywoodlofi #indianlofi #bholenath ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/4rVm0MBuLyA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/4rVm0MBuLyA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/4rVm0MBuLyA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "LAKHAN CHOUDHARY",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-01-10T12:30:08Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "HZ7AsaqSBPJtDvlKxMGqfFMAqSw",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "DEo742BF8eo"
-            },
-            "snippet": {
-                "publishedAt": "2024-08-21T16:30:07Z",
-                "channelId": "UC-UQ-q1_mvuHZndzaiJdxoQ",
-                "title": "Best of Arijit Singh Mashup 2024 | Viniick | Arijit Singh Love Songs | Best of Love Songs 2024",
-                "description": "Best of Arijit Singh Mashup 2024 | Viniick | Arijit Singh Love Songs | Best of Love Songs 2024 | Journey of Love Jukebox | Feel ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/DEo742BF8eo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/DEo742BF8eo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/DEo742BF8eo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "VINIICK",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-08-21T16:30:07Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "sr7is81yL1gfL7ToJ16cUayBxsY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "yx1-FK56Mvo"
-            },
-            "snippet": {
-                "publishedAt": "2025-01-17T06:50:04Z",
-                "channelId": "UCehM88l4gxn2r4TltS8xeEg",
-                "title": "Mind Relax Lofi Song | Mind Relax Lofi Mashup | Mind Fresh Lofi Songs | Slowed and Reverb",
-                "description": "Mind Relax Lofi Song | Mind Relax Lofi Mashup | Mind Fresh Lofi Songs | Slowed and Reverb If you like this video then don't ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/yx1-FK56Mvo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/yx1-FK56Mvo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/yx1-FK56Mvo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Vivekshankar singh",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-01-17T06:50:04Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "2aO2j0mm296dkbyykeIjfC1a0s4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "5QI46m63YFs"
-            },
-            "snippet": {
-                "publishedAt": "2022-10-31T11:30:01Z",
-                "channelId": "UCVCuHy9eoIGu4eWiPq1u8ig",
-                "title": "Tujhme Khoya Rahu 💞 Arijit Singh Slowed And Reverb | Lofi Song | Lofi Efx WhatsApp Status 🥀💫 #lofi",
-                "description": "4k Full Screen Whats App Status || Aesthetic ✨ || Lo-fi song (Slow & Reverb) || #shorts ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/5QI46m63YFs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/5QI46m63YFs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/5QI46m63YFs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Bk Mastermind",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-10-31T11:30:01Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "-xpWZe2gbYACYkLbLH2j2VX0FBE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "eW4qmvv4y5U"
-            },
-            "snippet": {
-                "publishedAt": "2024-02-27T04:09:49Z",
-                "channelId": "UCbE4LL7yex0FAOkWvnrZdjA",
-                "title": "TUM SE HI : jab we met | Mohit Chauhan | slowed-reverb | LO-FI VERSION | Sleepy head #trending",
-                "description": "trending #lofi #slowedandreverb #lofibeats #lofimusic #slowed #lofihiphop #slowedreverb Above Video is not published for any ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/eW4qmvv4y5U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/eW4qmvv4y5U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/eW4qmvv4y5U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Sleepy head",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-02-27T04:09:49Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "E6HsOdsWKGpDqFT7yjahVpQkENs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Qcf-CK__zvY"
-            },
-            "snippet": {
-                "publishedAt": "2023-04-16T09:30:05Z",
-                "channelId": "UCjLpERMmlmVTHwAf-tm8ZYw",
-                "title": "Chand Sifarish Slowed -Reverb Song|| Aesthetic Status||Love Status||New Sad Status",
-                "description": "Chand Sifarish Slowed -Reverb Song|| Aesthetic Status||Love Status||New Sad Status --- 🖇️❤️ --. Like ❤️ Share🖇️ ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Qcf-CK__zvY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Qcf-CK__zvY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Qcf-CK__zvY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "@_Lyrics_Abhi_",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-04-16T09:30:05Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "x431ae_fyO6Z3fjX4qhIK-l2waI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "4crowoSybZA"
-            },
-            "snippet": {
-                "publishedAt": "2023-05-21T05:08:07Z",
-                "channelId": "UCL9-LkhAnUBL9sJ0nwtZHow",
-                "title": "🎵 || Popular Trending Songs || 🤍 Mind Relaxing Lofi || 🎧Slowed + Reverb + Lofi || 😊 @LofiVibesMeet",
-                "description": "mashupsong #nightlofi #viral #mashupsong #nightlofi #mashup Mind Relax Lofi Mashup | Hindi Bollywood | Songs | Slowed x ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/4crowoSybZA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/4crowoSybZA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/4crowoSybZA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "MS Lofi vibes",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-05-21T05:08:07Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "UzPJfsKcpusJmm7Ck4CodIWLXbw",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "1cl2g1Fygi0"
-            },
-            "snippet": {
-                "publishedAt": "2025-04-20T09:00:48Z",
-                "channelId": "UC7envQT2QFoewoeEXXL6Reg",
-                "title": "Kya kahoon kya haal mera ✨ | slowed -reverb | WhatsApp Status | #love #lofi #sad #viralshorts #music",
-                "description": "Kya kahoon kya haal mera ✨ | slowed -reverb | WhatsApp Status | #love #lofi #sad #viralshorts #music #trending #song #lyrics ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/1cl2g1Fygi0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/1cl2g1Fygi0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/1cl2g1Fygi0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lyrics_rg",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-04-20T09:00:48Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "jylsy4fsvr4kHYjNAQrGaZuFtT0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ZSZ6CggUz7I"
-            },
-            "snippet": {
-                "publishedAt": "2022-05-22T07:44:07Z",
-                "channelId": "UCt7Sf4tbLmy5elgYavnUqGw",
-                "title": "Blue eyes lofi remix | #yoyohoneysingh #tmtstudioindia #shorts #trending #tmtians #dance",
+                "publishedAt": "2025-04-12T13:22:55Z",
+                "channelId": "UClWGF1By-zwcQCPlaHQycHw",
+                "title": "Bollywood Songs (2000-2009)",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ZSZ6CggUz7I/default.jpg",
+                        "url": "https://i.ytimg.com/vi/kIZSBvq7UD8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ZSZ6CggUz7I/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kIZSBvq7UD8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ZSZ6CggUz7I/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kIZSBvq7UD8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "TMT INDIA",
+                "channelTitle": "Sanam Verse ",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-05-22T07:44:07Z"
+                "publishTime": "2025-04-12T13:22:55Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "vOrhM9cOo6VsLdpirh8p24Zb_hk",
+            "etag": "0jyy3PYAMd0Z_exW6xRdAJueosw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "fVyw-1y9VUY"
+                "videoId": "26jzUyX6ynk"
             },
             "snippet": {
-                "publishedAt": "2022-09-17T13:00:31Z",
-                "channelId": "UCwWwAUWQjXWEIH6bJOKKAmg",
-                "title": "20 mins of Lofi Bollywood Songs  | Romantic Lofi Mashup | Lofi Songs to Study/Sleep/Chill/Relax",
-                "description": "20 mins of Lofi Bollywood Songs | Romantic Lofi Mashup | Lofi Songs to Study/Sleep/Chill/Relax ❤ Please Share this Mix on ...",
+                "publishedAt": "2024-05-24T14:30:07Z",
+                "channelId": "UCRm96I5kmb_iGFofE5N691w",
+                "title": "2000s Best Bollywood Dance Tracks | Audio Jukebox | Bollywood 2000s | Hindi Songs 2000 to 2010",
+                "description": "bollywooddancemusic #dancemusic #partytime Put on your dancing shoes and get ready to party to the best millennial dance ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/fVyw-1y9VUY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/26jzUyX6ynk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/fVyw-1y9VUY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/26jzUyX6ynk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/fVyw-1y9VUY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/26jzUyX6ynk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Devotion Vibes",
+                "channelTitle": "T-Series Bollywood Classics",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-09-17T13:00:31Z"
+                "publishTime": "2024-05-24T14:30:07Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "B7Da-Eo1vKo7qEJ12sdqw0lZ8BE",
+            "etag": "0mgEP05O_DjQ1-m3E8W0BhLduG0",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "NesEskUZJco"
+                "videoId": "Jm5vLlcS7zY"
             },
             "snippet": {
-                "publishedAt": "2025-02-06T06:29:21Z",
-                "channelId": "UCZdoeCMM3FziD8p6KmyB0QQ",
-                "title": "Toh 😏🧬🤙🏻| hindi song lyrics| aesthetic/lofi song|WhatsApp status|#shorts #trending #viralvideo #song",
-                "description": "Toh | hindi song lyrics| aesthetic/lofi song|WhatsApp status| #shorts #trending #viralvideo #song aesthetic lofi reverb ...",
+                "publishedAt": "2025-04-18T13:00:38Z",
+                "channelId": "UCCKl-Yvqbd9QPoC9BpPCaww",
+                "title": "Romantic bollywood songs from 9xm era ✨",
+                "description": "Song List: 00:00 Aankhen Bandh Karke 05:33 O Mere Dholna 10:19 Chaaya Hai Jo Dil Pe 14:49 Hai Dil 19:10 Dil Ka Rishta ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/NesEskUZJco/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Jm5vLlcS7zY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/NesEskUZJco/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Jm5vLlcS7zY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/NesEskUZJco/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Jm5vLlcS7zY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Trending_Asethetic_bollywood_song_lyrics",
+                "channelTitle": "Trending Now India",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-02-06T06:29:21Z"
+                "publishTime": "2025-04-18T13:00:38Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "HxHD1scPEBnJjNgvnW_ZQs-LXSI",
+            "etag": "a78-HmBSErvltQRMCrIADISkiKA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "gkFhJN9SF9A"
+                "videoId": "OmvKsZOVBeM"
             },
             "snippet": {
-                "publishedAt": "2025-02-05T14:49:22Z",
-                "channelId": "UCpo1PszIRq2C38wKHIzjfyA",
-                "title": "18th birthday lofi song popular song #bollywood #song #popular #trending #shorts",
-                "description": "18th birthday lofi song popular song #bollywood #song #popular #trending #shorts Social media viral song and music video ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/gkFhJN9SF9A/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/gkFhJN9SF9A/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/gkFhJN9SF9A/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aditya gade 86",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-02-05T14:49:22Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "oE3l8SCyfTxUJXJ2vwmR5E19M58",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "NkQrDv4yPiA"
-            },
-            "snippet": {
-                "publishedAt": "2025-03-04T16:30:10Z",
-                "channelId": "UCqjLjbISKk8RQ6Uhf6BaQrQ",
-                "title": "Tera chehra ❤️🥀 Aesthetic edit | Lyrical video | #shorts #status #music #lofi #edit #lyrics",
-                "description": "Tera chehra ❤️   Aesthetic edit | Lyrical video | #shorts #status #music #lofi #edit #lyrics . . . . . . #love #song #trending #sad ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/NkQrDv4yPiA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/NkQrDv4yPiA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/NkQrDv4yPiA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "The Observer!",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-03-04T16:30:10Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "QefTmLmWIHtWeDj9f0_RNaRq5So",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "KgQPLlHiwY4"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-25T01:30:09Z",
-                "channelId": "UCUapVQeRiFZXB8Bxclog4ZA",
-                "title": "Mind Relaxing Love Songs | Mood Fresh Mashup Song | Bollywood Romantic Lofi",
-                "description": "Mind Relaxing Love Songs | Mood Fresh Mashup Song | Bollywood Romantic Lofi #lofimusic #mashup #mindrelaxing#bollywood ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/KgQPLlHiwY4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/KgQPLlHiwY4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/KgQPLlHiwY4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Sweety Lofi Music ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-25T01:30:09Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "PBJuoqQCXGRhAsKBVwieFHX--3Q",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "3ShZ1c8tQDY"
-            },
-            "snippet": {
-                "publishedAt": "2025-03-30T12:29:29Z",
-                "channelId": "UCZdoeCMM3FziD8p6KmyB0QQ",
-                "title": "Chan😊🥀❤️| hindi song lyrics| aesthetic/lofi song|Whatsapp status|#shorts #trending #viralvideo #song",
-                "description": "Chan ❤️| hindi song lyrics| aesthetic/lofi song|Whatsapp status| #shorts #trending #viralvideo #song aesthetic lofi reverb ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/3ShZ1c8tQDY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/3ShZ1c8tQDY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/3ShZ1c8tQDY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Trending_Asethetic_bollywood_song_lyrics",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-03-30T12:29:29Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "0B9ZAvl0-POtWs6rD4TiP8HQlYI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "FqFZSeHnG5M"
-            },
-            "snippet": {
-                "publishedAt": "2024-08-10T13:37:30Z",
-                "channelId": "UCdrEYPks919nxMBYyJ79tOw",
-                "title": "Samjai na × wishes ( LO-FI + SLOWED )🖤🎧 lyrics 🎀__ #shorts #love #song #trending #feelthereverb",
-                "description": "FOR BEST EXPERIENCE, USE   ............................... [Feel FREE to SUBSCRIBE and start vibeing |/ these NOSTALGIC VIBES:-) ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/FqFZSeHnG5M/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/FqFZSeHnG5M/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/FqFZSeHnG5M/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "JUST LOFI_333",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-08-10T13:37:30Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "VRYmR11hJ_bkyyDKRA_IShCf9UM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ADUTUY2Gff0"
-            },
-            "snippet": {
-                "publishedAt": "2025-03-12T13:26:30Z",
-                "channelId": "UCnyqru0TlGYYZAsld1rbetw",
-                "title": "Anxiety(lyrics)✨ #lofi #music #song #lyrics",
-                "description": "gubogloo instagram:https://www.instagram.com/gubogloo?igsh=OTBhb2wyNzI1ZHhy Follow dubogloo #lofi #music #song #lyrics.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ADUTUY2Gff0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ADUTUY2Gff0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ADUTUY2Gff0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "lofi-songs",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-03-12T13:26:30Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "jN-uWqKfZYAFiclyGE5juwnod1I",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "53Uwg38jt4U"
-            },
-            "snippet": {
-                "publishedAt": "2022-08-20T04:13:41Z",
-                "channelId": "UCoaqgEluS5KtNuJNcvz2ftQ",
-                "title": "😏😘BABY BABY 👌💕 CLASS ROOM💕💕 LOVE 😏😘 LOFI REMIX 😏 NEW INTAGRAM REELS👌 VIEAL VIDEO STATUS💕😏",
-                "description": "BABY BABY CLASS ROOM     LOVE LOFI REMIX NEW INTAGRAM REELS   VIEAL VIDEO STATUS.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/53Uwg38jt4U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/53Uwg38jt4U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/53Uwg38jt4U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aman 07",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-08-20T04:13:41Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "5PysIGV-d4p6OfVwiJU8vg5tiUA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "M8AdIl23sjQ"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-01T07:25:15Z",
-                "channelId": "UCOPKWVONG0eSOc4pQMxPpAg",
-                "title": "Hindi Song lyrics Artist status | lofi song status | #short #shortvideo #viral",
+                "publishedAt": "2018-11-19T14:38:32Z",
+                "channelId": "UClLP78X4jBP9Fh18jtnka_w",
+                "title": "Every Hit Bollywood Song from 2000-2018 ||Mashup By Aksh Baghla",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/M8AdIl23sjQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/OmvKsZOVBeM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/M8AdIl23sjQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OmvKsZOVBeM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/M8AdIl23sjQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/OmvKsZOVBeM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "sanskruti_pashte__025",
+                "channelTitle": "Yash Dwivedi",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-12-01T07:25:15Z"
+                "publishTime": "2018-11-19T14:38:32Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "UYtp1S2PK6Vekhe8e49OLg0uJV8",
+            "etag": "n8FJINhYXN7HGi0kLqNHPHy73rU",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "XyIA5UTsVCU"
+                "videoId": "UGXwPZy2nhk"
             },
             "snippet": {
-                "publishedAt": "2024-01-06T13:15:45Z",
-                "channelId": "UCMuHqWNX1C67COsFSMoP97w",
-                "title": "Top 5 Lofi and Slowed Reverb [ Songs ] #1",
-                "description": "Top 5 Lofi and Slowed Reverb [ Songs ] . . Satranga : 0:00 - 4:56 Ve Kamleya : 4:56 - 9:24 Tere Hawale : 10:33 - 15:42 O Maahi ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/XyIA5UTsVCU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/XyIA5UTsVCU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/XyIA5UTsVCU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Naitik Edits",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-06T13:15:45Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "nCO0A2huDg2m_4FjujsPLRuAjDw",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "DZYq1HmXnmI"
-            },
-            "snippet": {
-                "publishedAt": "2025-02-10T10:28:50Z",
-                "channelId": "UC4mkRaotMkrFnBh6xGgOUJQ",
-                "title": "Umar meri 18 hone chali WhatsApp status lofi song #shortvideos#trending#lofi",
+                "publishedAt": "2024-03-24T15:30:35Z",
+                "channelId": "UCWohCKTyFaBudAcAcywCbEg",
+                "title": "2000’s Bollywood mashup | Sahaj Singh | Parisa Barkzi | @rahillmehta_ music",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/DZYq1HmXnmI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/UGXwPZy2nhk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/DZYq1HmXnmI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/UGXwPZy2nhk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/DZYq1HmXnmI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/UGXwPZy2nhk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Unknown Aadi",
+                "channelTitle": "Sahaj Singh Chahal",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-02-10T10:28:50Z"
+                "publishTime": "2024-03-24T15:30:35Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "GJ_dvpydFxHwwCeAliJvatV7FFc",
+            "etag": "IjWuHiydutJmuczJBi8nTdQv0hg",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "IszsJClohCw"
+                "videoId": "sdJVQx-_e8Y"
             },
             "snippet": {
-                "publishedAt": "2024-08-02T10:36:00Z",
-                "channelId": "UCBZOxJYLHe1JRvoREIkV3mg",
-                "title": "Kisi Aur Ko Tu Chahe.🫀|Slow Reverb | Lyrics Song🎵| Hindi Song Feel This Song |#songlyrics#aesthetic",
-                "description": "Kisi Aur Ko Tu Chahe... |Slow Reverb | Lyrics Song  | Hindi Song  | Feel This Song |#songlyrics #aesthetic #trending ...",
+                "publishedAt": "2023-04-12T10:19:59Z",
+                "channelId": "UC7UkLuKfQX8cIfH9qnvD4fg",
+                "title": "10 Best Bollywood Movies That Are Must Watch🔥😍 #shorts",
+                "description": "Hi how Are you I am uploading on this channel related to knowledgeable and entertament topics which are very useful to grow ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/IszsJClohCw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/sdJVQx-_e8Y/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/IszsJClohCw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sdJVQx-_e8Y/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/IszsJClohCw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sdJVQx-_e8Y/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Negative Point",
+                "channelTitle": "Jasper ",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-08-02T10:36:00Z"
+                "publishTime": "2023-04-12T10:19:59Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "nQGsNFD_V-b8GPgqG6f87pfBTOU",
+            "etag": "6FV3JbQ4FStKocyxTzM37IcaEwg",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "wq-8FU9F3sY"
+                "videoId": "cYatYLzx9hA"
             },
             "snippet": {
-                "publishedAt": "2024-11-04T06:10:27Z",
-                "channelId": "UCNzWdOR3LmXsqxyITPU_KmA",
-                "title": "Miss world for many reasons 👑💗 #bollywood #music #edit #trendingshorts #love #song #aishwaryarai",
-                "description": "Aishwarya Rai Without makeup Miss world For many reasons.",
+                "publishedAt": "2025-05-22T11:06:19Z",
+                "channelId": "UCjeD2I8jwXg2l_nvXb_6Hzw",
+                "title": "Top Favourites on YouTube - Volume 1 | Audio Jukebox | Popular Bollywood Songs",
+                "description": "Welcome to the Audio Jukebox featuring the biggest hits and viral sensations that have taken YouTube by storm. Sit back, relax ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/wq-8FU9F3sY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/cYatYLzx9hA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/wq-8FU9F3sY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cYatYLzx9hA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/wq-8FU9F3sY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cYatYLzx9hA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "aayanxbollywood",
+                "channelTitle": "YRF Music",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-11-04T06:10:27Z"
+                "publishTime": "2025-05-22T11:06:19Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "TOJ-W9CSHYcgkZt-x7UTPvjzLCU",
+            "etag": "iYowDk0T7j2GrrfUnsM-0Cyz3Wo",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "AtHW7k1vwRI"
+                "videoId": "xz10YGo6U0Y"
             },
             "snippet": {
-                "publishedAt": "2025-04-15T14:49:36Z",
-                "channelId": "UCQQcXvTYa3IbwDf3VmkZusA",
-                "title": "Old is gold ✨ #bollywood #dance #dancevideo #dancer #oldsongs",
-                "description": "",
+                "publishedAt": "2025-06-13T11:59:46Z",
+                "channelId": "UC5SzDwYWTGY36d6c_MOdE_Q",
+                "title": "IMDb&#39;s Top 10 Highest-Rated Bollywood Movies of All Time ✨",
+                "description": "Ever wondered which Bollywood films truly stand the test of time and hold the highest ratings on IMDb? Look no further! In this ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/AtHW7k1vwRI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/xz10YGo6U0Y/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/AtHW7k1vwRI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xz10YGo6U0Y/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/AtHW7k1vwRI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xz10YGo6U0Y/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "SAMRITI",
+                "channelTitle": "Rohit Reveals",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-04-15T14:49:36Z"
+                "publishTime": "2025-06-13T11:59:46Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "Bvn1UOFUYMQ2Zo1lVc6TPJbAh0c",
+            "etag": "ys9DxpeSnVj3cozK0ohqu835vKE",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "jEAkpn_IdOs"
+                "videoId": "NuwSE9Qh7rw"
             },
             "snippet": {
-                "publishedAt": "2022-06-27T11:41:14Z",
-                "channelId": "UCf6QeLRYvCQ-dBX8Aq1l4vA",
-                "title": "Hindi Song lyrics Artistic status | lofi song status | WhatsApp status | #shorts #shortvideo #viral",
-                "description": "Hello Guyz : I hope you enjoy this video please Subscribe my Channel Fahim Edits || *Copyright Description Under Section 107 of ...",
+                "publishedAt": "2025-06-30T12:30:28Z",
+                "channelId": "UCN_0Rn_q039H-y2i3s7fV6g",
+                "title": "POV: It&#39;s a 9XM Morning || You&#39;re Vibing to 2010s Bollywood Hits",
+                "description": "POV: It's a 9XM Morning and you're Vibing to 2010s Bollywood Hits. Step into the ultimate nostalgia trip with the most iconic ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/jEAkpn_IdOs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/NuwSE9Qh7rw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/jEAkpn_IdOs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NuwSE9Qh7rw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/jEAkpn_IdOs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/NuwSE9Qh7rw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Fahim Edits",
+                "channelTitle": "Harmony Highway",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-06-27T11:41:14Z"
+                "publishTime": "2025-06-30T12:30:28Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "lBVaNOI8ehOHLG2XG7TBLaT9gcc",
+            "etag": "UF_oDhAMxxFqtIGaBcKUls1FtcI",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "o7aLzFFBtro"
+                "videoId": "EMzBQ6yqsE0"
             },
             "snippet": {
-                "publishedAt": "2025-01-18T03:30:50Z",
-                "channelId": "UCHBJIyp6HihDF6SCfacp7_Q",
-                "title": "Top 2 heart touching Iconic Songs Of Arijit Singh | arijit singh songs | #arijitsingh #shortsfeed",
-                "description": "Top 2 heart touching Iconic Songs Of Arijit Singh | arijit singh songs | #arijitsingh #shortsfeed #arijitsingh #shortsfeed #song ...",
+                "publishedAt": "2025-07-02T12:30:19Z",
+                "channelId": "UCN_0Rn_q039H-y2i3s7fV6g",
+                "title": "POV: It&#39;s a 9XM Morning || You&#39;re Vibing to 2010s Bollywood Hits",
+                "description": "POV: It's a 9XM Morning and you're Vibing to 2010s Bollywood Hits. Step into the ultimate nostalgia trip with the most iconic ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/o7aLzFFBtro/default.jpg",
+                        "url": "https://i.ytimg.com/vi/EMzBQ6yqsE0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/o7aLzFFBtro/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EMzBQ6yqsE0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/o7aLzFFBtro/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EMzBQ6yqsE0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "HM LO-FI 🎶",
+                "channelTitle": "Harmony Highway",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-01-18T03:30:50Z"
+                "publishTime": "2025-07-02T12:30:19Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "1_wdleGIwOZvB6p-WWGxfFOt5l8",
+            "etag": "zq-b4D_imwG5gI6n-LLM0Lkx0W4",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "OCRmVHiYs-A"
+                "videoId": "dwHgRW4brkE"
             },
             "snippet": {
-                "publishedAt": "2023-03-17T15:20:38Z",
-                "channelId": "UCMd-b-ZnRjk3yGVIH8mYvzw",
-                "title": "Mind Relaxing  Lofi Mashup [Slowed+Reverb] Song| Hindi Lofi mashup ❤|Relax/Study/Chill/Refresh/Sleep",
-                "description": "lofi #indian_lofi #indian_slowed Short status videos Mind Relaxing Lofi Mashup [Slowed+Reverb] Song || Hindi Lofi mashup ...",
+                "publishedAt": "2024-03-15T13:00:39Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "Kareena Kapoor Songs | Bollywood Romantic Songs | Hindi Hit Songs | Video Jukebox",
+                "description": "Indulge in the mesmerizing charm of Kareena Kapoor Khan with this Bollywood Romantic Songs Video Jukebox Stay updated ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/OCRmVHiYs-A/default.jpg",
+                        "url": "https://i.ytimg.com/vi/dwHgRW4brkE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/OCRmVHiYs-A/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dwHgRW4brkE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/OCRmVHiYs-A/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dwHgRW4brkE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Lofi zone",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-03-17T15:20:38Z"
+                "publishTime": "2024-03-15T13:00:39Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "dBWn_Db1K8jaJUUSEuwQ0pS3q_A",
+            "etag": "mFyc3G4zCr53lvKtNgI0zRi0BkQ",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Q-XAhkWrTww"
+                "videoId": "p2jiknW9Arw"
             },
             "snippet": {
-                "publishedAt": "2024-09-30T12:29:00Z",
-                "channelId": "UC1DnIvDBxfWr7iT2uUK0FgA",
-                "title": "Ye tune kya kiya 😐✨ || whatsapp status || sad status || lofi songs || slowed reverb || #shorts #sad",
-                "description": "Ye tune kya kiya || whatsapp status || sad status || lofi songs || slowed reverb || #shorts #sad #shorts #ytshorts #slowedandreverb ...",
+                "publishedAt": "2024-01-26T06:49:48Z",
+                "channelId": "UCOzQxiTXim1epL1FpT-86Lg",
+                "title": "the Top 5 Bollywood Horror Movies",
+                "description": "the Top 5 Bollywood Horror Movies || #shorts #viralshorts #trendingshorts shorts keyword. trending shorts ytshorts viral shorts ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Q-XAhkWrTww/default.jpg",
+                        "url": "https://i.ytimg.com/vi/p2jiknW9Arw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Q-XAhkWrTww/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/p2jiknW9Arw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Q-XAhkWrTww/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/p2jiknW9Arw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Pradeep aesthetic ",
+                "channelTitle": "Over Gyan",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-09-30T12:29:00Z"
+                "publishTime": "2024-01-26T06:49:48Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "0Mh2gZWhna2whGi5yS2YhMvPOek",
+            "etag": "Pw3omMag_4krdbTgq4eXbkY2DjI",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "RaMggwxnb7s"
+                "videoId": "78zRUb3zZtY"
             },
             "snippet": {
-                "publishedAt": "2023-11-23T13:30:08Z",
-                "channelId": "UCYLIPiUdlYezq9SYMQs7VXw",
-                "title": "Instagram Trending Mashup Lofi Song | Babu 4u | #music #lofi #bollywood #trending #instagram",
-                "description": "Instagram Trending Mashup Lofi Song | Babu 4u | #music #lofi #bollywood #trending #instagram Created By - Babu 4u Use ...",
+                "publishedAt": "2025-11-11T16:37:38Z",
+                "channelId": "UCFO7oRzk5Tna-_65CbwwGpQ",
+                "title": "Bollywood Love Rewind 💫 Evergreen Romantic Songs Collection",
+                "description": "Relive the magic of the golden Bollywood era! This video is a tribute to the unforgettable 9xm era — celebrating the melodies, ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/RaMggwxnb7s/default.jpg",
+                        "url": "https://i.ytimg.com/vi/78zRUb3zZtY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/RaMggwxnb7s/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/78zRUb3zZtY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/RaMggwxnb7s/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/78zRUb3zZtY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Babu 4u",
+                "channelTitle": "9xmEra",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-11-23T13:30:08Z"
+                "publishTime": "2025-11-11T16:37:38Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "BwNz2FgfHsAdffffg_yIwqWzDx8",
+            "etag": "qMlQWHh84UslpHmJjwTVW_UnN5k",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "t66AW9w6Umc"
+                "videoId": "6UxZI8qG2Dg"
             },
             "snippet": {
-                "publishedAt": "2024-03-01T11:51:33Z",
-                "channelId": "UCvOD_nMFD51DF6L5omoDB-Q",
-                "title": "You and me (shubh) with(sonam bajawa) slowed reverb status lofi songs #trending #shorts #punjabi",
-                "description": "",
+                "publishedAt": "2023-03-09T05:55:42Z",
+                "channelId": "UCsnjirxCAxP67nheDtZN2Ng",
+                "title": "Nostalgic Love Mashup || Best of Bollywood Hindi Romantic Songs|| Non-Stop Jukebox||",
+                "description": "lofihiphop #music #aesthetic #hiphop #lofibeats #beats #lofiedits #lofiaesthetic #lofimusic #vaporwave #chill #producer #sp ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/t66AW9w6Umc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/6UxZI8qG2Dg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/t66AW9w6Umc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/6UxZI8qG2Dg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/t66AW9w6Umc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/6UxZI8qG2Dg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "JASS_X_EDITS",
+                "channelTitle": "Lo-fi Verse",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-03-01T11:51:33Z"
+                "publishTime": "2023-03-09T05:55:42Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "jqji9EWBSkNH2ynhSzvC5YPJk7g",
+            "etag": "ew7bkAWZItxRH9E_D-_OjbfODEo",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "SKtNRhOwcqQ"
+                "videoId": "I0rk-0Mmys8"
             },
             "snippet": {
-                "publishedAt": "2024-12-21T12:29:47Z",
-                "channelId": "UCZdoeCMM3FziD8p6KmyB0QQ",
-                "title": "Kisi☺️🥀💕| hindi song lyrics| asethetic/lofi song|WhatsApp status|#shorts #trending #viralvideo #song",
-                "description": "Kisi ☺️    | hindi song lyrics| asethetic/lofi song|WhatsApp status| #shorts #trending #viralvideo #song aesthetic lofi reverb ...",
+                "publishedAt": "2025-07-10T13:00:36Z",
+                "channelId": "UCN_0Rn_q039H-y2i3s7fV6g",
+                "title": "POV: It&#39;s a 9XM Morning || You&#39;re Vibing to 2010s Bollywood Hits💿🔥 #9xm",
+                "description": "POV: It's a 9XM Morning and you're Vibing to 2010s Bollywood Hits. Step into the ultimate nostalgia trip with the most iconic ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/SKtNRhOwcqQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/I0rk-0Mmys8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/SKtNRhOwcqQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/I0rk-0Mmys8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/SKtNRhOwcqQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/I0rk-0Mmys8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Trending_Asethetic_bollywood_song_lyrics",
+                "channelTitle": "Harmony Highway",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-12-21T12:29:47Z"
+                "publishTime": "2025-07-10T13:00:36Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "h93t4Hq9y5L3m_q2KljYGSWFwx8",
+            "etag": "kgvvho5lCJpXu0d_MnyYJkcDJZQ",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "KxvTNbkLWSw"
+                "videoId": "tliy9FUfh4A"
             },
             "snippet": {
-                "publishedAt": "2023-06-14T12:30:09Z",
-                "channelId": "UCpIztNUhTBP42GZeUUAyQKg",
-                "title": "Bollywood x Hollywood LOFI Mashups | Non-Stop JukeBox | MSM",
-                "description": "Hindi x English LOFI Mashups | Non-Stop JukeBox | MSM ...",
+                "publishedAt": "2025-10-28T10:30:41Z",
+                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+                "title": "All Time Evergreen Romantic Hits | Mann Mera | Aashiq Tera | Raanjhaana | Iconic Bollywood Hits",
+                "description": "Groove with the rhythm of love in this All Time Evergreen Romantic Hits jukebox featuring some of the most famous songs like ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/KxvTNbkLWSw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/tliy9FUfh4A/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/KxvTNbkLWSw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/tliy9FUfh4A/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/KxvTNbkLWSw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/tliy9FUfh4A/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "MSM",
+                "channelTitle": "Sony Music India",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-14T12:30:09Z"
+                "publishTime": "2025-10-28T10:30:41Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "7rftUOTZJaRXCFQLQGdjifSCrjQ",
+            "etag": "OCB5RdWswQzV13OozgHPJXDL3rA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Otg-1rq58rs"
+                "videoId": "UBOL6deOFTg"
             },
             "snippet": {
-                "publishedAt": "2024-11-27T14:59:54Z",
-                "channelId": "UCgboKkxsT-Ib5KRMS9JGfIw",
-                "title": "🪶Jo Tum Mere Ho lofi Sad song 😔🥹",
-                "description": "Jo Tum Mere Ho lofi Sad song #music #lofiandsleep #lofimusic #lofi #new #new #sad Just editing for a song Keywords ...",
+                "publishedAt": "2024-03-28T10:30:11Z",
+                "channelId": "UCjeD2I8jwXg2l_nvXb_6Hzw",
+                "title": "2000s Bollywood Romance Hits | Audio Jukebox | Hindi Love Songs | Superhit Romantic Songs",
+                "description": "Relive the magic of timeless love stories through these melodious tracks that defined an era ▻ Subscribe Now: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Otg-1rq58rs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/UBOL6deOFTg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Otg-1rq58rs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/UBOL6deOFTg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Otg-1rq58rs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/UBOL6deOFTg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "lyrics world ",
+                "channelTitle": "YRF Music",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-11-27T14:59:54Z"
+                "publishTime": "2024-03-28T10:30:11Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "jCm6PKuChtowzcsVA9smb4hgFCM",
+            "etag": "WwMzTLuOZziheJUnkA17qxvnfI8",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "vAlaUgfIDug"
+                "videoId": "EQ8qW_HStXQ"
             },
             "snippet": {
-                "publishedAt": "2024-08-27T09:22:21Z",
-                "channelId": "UCMZtzVWAWNh4EX_EaXnGgmA",
-                "title": "DEKHA TENU🦋(SONG LYRICS)💙✨ #songlyrics #shortfeed #aesthetic #lofi #ytshorts @Creative_boy09",
-                "description": "",
+                "publishedAt": "2025-06-30T05:34:00Z",
+                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+                "title": "TOP 20 ICONIC Bollywood Songs | 2 Hours NonStop | Best Hindi Love Songs | Romantic Hindi Hits",
+                "description": "Get ready for a non-stop 2-hour playlist of the TOP 20 ICONIC Bollywood songs! From romantic hits to love songs, this collection ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/vAlaUgfIDug/default.jpg",
+                        "url": "https://i.ytimg.com/vi/EQ8qW_HStXQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/vAlaUgfIDug/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EQ8qW_HStXQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/vAlaUgfIDug/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EQ8qW_HStXQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Creative Grull 🖤",
+                "channelTitle": "Sony Music India",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-08-27T09:22:21Z"
+                "publishTime": "2025-06-30T05:34:00Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "c7v7YN-H-Cg89NJuUgSrVCEf3zs",
+            "etag": "mEahbp5X_MC20s5JBzkOInaQe6s",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "9uIIdCBRNRc"
+                "videoId": "pNsFGSnHQ48"
             },
             "snippet": {
-                "publishedAt": "2024-03-12T06:40:38Z",
-                "channelId": "UCjKENf7bTijQAecowvhlAHQ",
-                "title": "Ve Kamleya (Slowed + Reverb) | Arijit Singh, Shreya Ghoshal | SR Lofi",
-                "description": "Ve Kamleya (Slowed + Reverb) | Arijit Singh, Shreya Ghoshal | SR Lofi Presenting (Slowed + Reverb) Version of Ve Kamleya ...",
+                "publishedAt": "2024-11-26T17:30:45Z",
+                "channelId": "UCh_3MW7rCdEUw9Onxs3StBQ",
+                "title": "Top 10 Arjun Rampal Old Bollywood Movies ⭐ Hindi Movies ⭐ #bollywood #oldhindimovies #hindi #films",
+                "description": "Top 10 Arjun Rampal Old Bollywood Movies ⭐ Hindi Movies ⭐ #bollywood #oldhindimovies #hindi #films #trending ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/9uIIdCBRNRc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/pNsFGSnHQ48/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/9uIIdCBRNRc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/pNsFGSnHQ48/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/9uIIdCBRNRc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/pNsFGSnHQ48/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "SR Lofi",
+                "channelTitle": "Y S MOVIES - Hindi Explanation",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-03-12T06:40:38Z"
+                "publishTime": "2024-11-26T17:30:45Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "wmeSN1bmpi97rXrCs7oDmOqDArc",
+            "etag": "lEhX8vpPUMqsPRP_bnv7bgw7IC0",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "VkN_QI4-bO4"
+                "videoId": "LsU489QrkOs"
             },
             "snippet": {
-                "publishedAt": "2025-05-23T12:23:42Z",
-                "channelId": "UCWow9UEAmgvwXRQjEsehfng",
-                "title": "Qatal - Guru Randhawa (Slowed+Reverb) | Chill Lofi Vibes | Panjabi Lofi Song | @moonlight_tunes",
-                "description": "Song Name:- Qatal - Guru Randhawa (Slowed+Reverb) | Chill Lofi Vibes | Panjabi Lofi Song | @moonlight_tunes . Welcome to ...",
+                "publishedAt": "2025-05-28T13:30:27Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "2000 Hits Hindi Songs | Evergreen Bollywood Hits Songs | Love Songs | Romantic Songs | Hindi Songs",
+                "description": "Step into the golden era of the 2000s with this unforgettable Bollywood Romantic Songs Video Jukebox! Stay updated with the ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/VkN_QI4-bO4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/LsU489QrkOs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/VkN_QI4-bO4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/LsU489QrkOs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/VkN_QI4-bO4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/LsU489QrkOs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "MOONLIGHT - TUNES ",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-05-23T12:23:42Z"
+                "publishTime": "2025-05-28T13:30:27Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "EiBuGVe_lZFBnksMYTYyXYBRU9w",
+            "etag": "bRN9qT4hj9jRFgQVJX4uTbya02s",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "0jwcwBQDcxg"
+                "videoId": "6z2gfdmyFcE"
             },
             "snippet": {
-                "publishedAt": "2022-08-28T16:10:50Z",
-                "channelId": "UCXVsJnNypJQQt-xa5_y9VNA",
-                "title": "sad song lofi music",
-                "description": "",
+                "publishedAt": "2015-02-13T16:30:00Z",
+                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+                "title": "Love Mashup 2015 - DJ Chetas | Best Bollywood Mashup | Valentines Special",
+                "description": "''Where there is love, there is life'' – This Season of love groove to the most romantic songs and relive the moments of love.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/0jwcwBQDcxg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/6z2gfdmyFcE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/0jwcwBQDcxg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/6z2gfdmyFcE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/0jwcwBQDcxg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/6z2gfdmyFcE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "unique.edits.999",
+                "channelTitle": "Sony Music India",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-08-28T16:10:50Z"
+                "publishTime": "2015-02-13T16:30:00Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "hzNGcDxVeFspYQ62BsMFZ7d71Vk",
+            "etag": "YeFdMU0MEQqOZqHAdbHawdy8tCk",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Kfj_EmZOfCU"
+                "videoId": "cE4IHw50Rpk"
             },
             "snippet": {
-                "publishedAt": "2023-06-04T00:32:58Z",
-                "channelId": "UCdMET0f17bIuxPLC6ElV6Xw",
-                "title": "Saat Samundar Paar [Slowed + Reverb])| Sadhana Sargam Lo-fi Song |#music#shorts #viral #lofi",
-                "description": "",
+                "publishedAt": "2025-01-30T11:30:06Z",
+                "channelId": "UCjeD2I8jwXg2l_nvXb_6Hzw",
+                "title": "Greatest 2010s Hits | Audio Jukebox | 2010-2019 Songs | Bollywood Hit Songs | Top Hindi Songs",
+                "description": "Feel the nostalgia, groove to the beats, and vibe to the anthems from 2010s that still make us move! ▻ YRF New Releases: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Kfj_EmZOfCU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/cE4IHw50Rpk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Kfj_EmZOfCU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cE4IHw50Rpk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Kfj_EmZOfCU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cE4IHw50Rpk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "S2 Edit TIKTOK",
+                "channelTitle": "YRF Music",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-04T00:32:58Z"
+                "publishTime": "2025-01-30T11:30:06Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "9mjKYA7M_DYTetWo5AdFFfyp1kc",
+            "etag": "8ejiWCGb0j9zuQ9ES0mfp_OAqZo",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "4dybq76GzJ4"
+                "videoId": "W6RL-ScLoac"
             },
             "snippet": {
-                "publishedAt": "2023-05-07T02:00:02Z",
-                "channelId": "UCdlP2W1qzQ2En9um1NYzxNA",
-                "title": "waalian song status 🔥 || waalian harnoor💐 || waalian song lofi❣️ | #shorts #youtubeshorts🎼",
-                "description": "waalian song status || waalian harnoor   || waalian song lofi❣️ | https://youtube.com/@Number1Songs #shorts ...",
+                "publishedAt": "2024-06-24T15:01:46Z",
+                "channelId": "UCmWv21NnBOSVY4Z3W1XfXSA",
+                "title": "Top 10 bollywood movies based on school and college life",
+                "description": "Welcome to my channel ykk explain. In this channel I will tell you about movies Soo Like and subscribe my channel Ykk explain.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/4dybq76GzJ4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/W6RL-ScLoac/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/4dybq76GzJ4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/W6RL-ScLoac/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/4dybq76GzJ4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/W6RL-ScLoac/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Number '1' Songs",
+                "channelTitle": "YKK Explain ",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-07T02:00:02Z"
+                "publishTime": "2024-06-24T15:01:46Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "_9e3IeFDaoZMSurv6uA-Ce2W-VA",
+            "etag": "f2TMBffCdoteFlb6OESo_FUjq4c",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "1nYFfUuMQY4"
+                "videoId": "UZTNacSnivw"
             },
             "snippet": {
-                "publishedAt": "2024-10-02T08:57:07Z",
-                "channelId": "UCJj4PBZxkWWo7P1qBJkbJmw",
-                "title": "Lofi 🥵 #bhojpurisong #dance #lofi #lofimusic #trending #shorts #ytshorts #reels #bhojpuri",
-                "description": "",
+                "publishedAt": "2020-10-17T15:10:20Z",
+                "channelId": "UCFFbwnve3yF62-tVXkTyHqg",
+                "title": "Bollywood Dance Hits - Kala Chashma, Tareefan, Makhna, Hook Up Song, Pallo Latke, Zingaat &amp; More",
+                "description": "SUBSCRIBE to Zee Music Company - https://bit.ly/2yPcBkS Tracklist: 0:00:00 - Kala Chashma 0:03:09 - Laila Main Laila 0:08:14 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/1nYFfUuMQY4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/UZTNacSnivw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/1nYFfUuMQY4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/UZTNacSnivw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/1nYFfUuMQY4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/UZTNacSnivw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "idschintu91",
+                "channelTitle": "Zee Music Company",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-10-02T08:57:07Z"
+                "publishTime": "2020-10-17T15:10:20Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "bl4DzxQ4dWd-Rug0xIp64m2s0aU",
+            "etag": "n8fFJn-vnpO-RY3bmGAZpVf5c6g",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "MNcpJr0HhMI"
+                "videoId": "IMW-tTOM4mk"
             },
             "snippet": {
-                "publishedAt": "2023-01-08T09:43:36Z",
-                "channelId": "UCemU36X0XMixNKYgl2LnH8g",
-                "title": " Gucci Song ❤️✨ Dance Status Beautiful Girl Status #shorts #short #trending 🔥🔥",
-                "description": "Gucci Song ❤️✨ Dance Status Beautiful Girl Status #shorts #short #trending #gucci #trending #shorts #aesthetic ...",
+                "publishedAt": "2024-08-21T12:45:08Z",
+                "channelId": "UCTODAN4row3AWNfg2j7DGng",
+                "title": "Top 10 best Bollywood Movies| Top 10 Cinema",
+                "description": "Top 10 best Bollywood Movies | Top 10 Cinema your queries.. top 10 bollywood movies best bollywood movies bollywood movies ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/MNcpJr0HhMI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/IMW-tTOM4mk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/MNcpJr0HhMI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IMW-tTOM4mk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/MNcpJr0HhMI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IMW-tTOM4mk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Mr Prince 529",
+                "channelTitle": "Top 10 Cinema ",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-01-08T09:43:36Z"
+                "publishTime": "2024-08-21T12:45:08Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "zi2i3X9VOYX5j4flaJBNIRsV-6o",
+            "etag": "8hqj-_RLxE543Ml9sXlrZDM5LHw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "YNeG8HIySeM"
+                "videoId": "IlckiqMNr80"
             },
             "snippet": {
-                "publishedAt": "2023-10-13T16:30:09Z",
-                "channelId": "UCQQEkPZtcY-sJRp8gGj5TdQ",
-                "title": "Mind relaxing lofi song Arijit Singh | Soft songs | Arijit Singh songs | best lofi song",
-                "description": "",
+                "publishedAt": "2025-08-12T16:48:10Z",
+                "channelId": "UCZZKHGJE-R1jHyZ5siW2eJg",
+                "title": "All-Time Highest Grossing Bollywood Movies – Box Office Records 💥🎬 #movie",
+                "description": "All-Time Highest Grossing Bollywood Movies – Box Office Records #movie #movieclips #moviereview #movies ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/YNeG8HIySeM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/IlckiqMNr80/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/YNeG8HIySeM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IlckiqMNr80/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/YNeG8HIySeM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IlckiqMNr80/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Lofi Songs",
+                "channelTitle": "𝐓𝐑𝐄𝐍𝐃𝐈𝐍𝐆  𝐈𝐍𝐃𝐈𝐀  🇮🇳",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-10-13T16:30:09Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "DQRW2rNaLP29rfYtTiTmzhi1KSY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "hotA-V4wAoE"
-            },
-            "snippet": {
-                "publishedAt": "2022-09-17T10:30:06Z",
-                "channelId": "UCG1qkcYSOPcI2n_vye-0E0Q",
-                "title": "Relatable ? 🥀 || check description for sad lofi songs",
-                "description": "Top 3 Lofi songs https://youtu.be/SaGXK8pwHuU If you like it Subscribe and support to this channel for more.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/hotA-V4wAoE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/hotA-V4wAoE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/hotA-V4wAoE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lofi ki dhun",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-09-17T10:30:06Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Iq5or0W0bsPzWN5Ik4W_KVo-A9Y",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "QaUHzRt573w"
-            },
-            "snippet": {
-                "publishedAt": "2025-02-23T12:47:46Z",
-                "channelId": "UCZdoeCMM3FziD8p6KmyB0QQ",
-                "title": "Chup🤫🎙️🥀| hindi song lyrics| aesthetic/lofi song|Whatsapp status|#shorts #trending #viralvideo #song",
-                "description": "Chup  🎙️  | hindi song lyrics| aesthetic/lofi song|Whatsapp status| #shorts #trending #viralvideo #song aesthetic lofi reverb ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/QaUHzRt573w/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/QaUHzRt573w/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/QaUHzRt573w/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Trending_Asethetic_bollywood_song_lyrics",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-02-23T12:47:46Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "2JEYufdBo1Dg2fsKisGS7ncIYVc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "oI3bGCXeBw8"
-            },
-            "snippet": {
-                "publishedAt": "2024-10-02T23:48:27Z",
-                "channelId": "UCJj4PBZxkWWo7P1qBJkbJmw",
-                "title": "Lofi 🥵.. #dance #bhojpurisong #lofi #bhojpuri #shoot #shorts #trending #ytshorts #neelkamalsingh",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/oI3bGCXeBw8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/oI3bGCXeBw8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/oI3bGCXeBw8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "idschintu91",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-10-02T23:48:27Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "DI1i20A1ReuSy7_d2gnVJzLosho",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "spTvUYe1nE4"
-            },
-            "snippet": {
-                "publishedAt": "2024-08-09T14:32:28Z",
-                "channelId": "UCqm_0nbYT2FJbwq32HoUalw",
-                "title": "tag her💜.. #song #taubatauba #vickykaushal #love #couple #feed #lofi #aesthetic #shorts #status",
-                "description": "aesthetic #love #darshanraval #shortsviral #couplegoals #shortvideos #viralvideos #darshanreval # [ IMPORTANT NOTICE ] ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/spTvUYe1nE4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/spTvUYe1nE4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/spTvUYe1nE4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "AESTHETIX_LoVe",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-08-09T14:32:28Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "rdMbsKFz5KT-EOnW-bqXDVzQ7mA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "YaicaljuQ0c"
-            },
-            "snippet": {
-                "publishedAt": "2024-06-22T12:35:27Z",
-                "channelId": "UCtq-9nQ-l_Mm8ehHumIz_QA",
-                "title": "90s old lofi song 🖤😇💞",
-                "description": "90s old lofi song . hindi song Hindi old songs.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/YaicaljuQ0c/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/YaicaljuQ0c/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/YaicaljuQ0c/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lofi boy •1.8M views • 10 hours ago\n\n\n\n...\n\n",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-06-22T12:35:27Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "dNJla-C8C3BUPigyj1UgLzV6Bs8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "de8kSk-ZE80"
-            },
-            "snippet": {
-                "publishedAt": "2025-05-21T12:05:26Z",
-                "channelId": "UCKRX0qkXLS7y-8pkNSIsgbQ",
-                "title": "Mention Your pagli🌺🥰 #song #lofi #love #hindisong #bollywood #music",
-                "description": "Mention Your pagli     #song #lofi #love #hindisong #bollywood #music #trending chill music, lofi music, sleep music, lofi, love ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/de8kSk-ZE80/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/de8kSk-ZE80/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/de8kSk-ZE80/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "x-Status",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-05-21T12:05:26Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "K0ymI77wERqkPw6PGQk3WlyLbug",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "y30ROFnwYDM"
-            },
-            "snippet": {
-                "publishedAt": "2025-01-18T00:29:02Z",
-                "channelId": "UCW2vN9DAkGJYhS8s_KLM5Pg",
-                "title": "#train #vandebharat 🚝🚝🚝🚝🚝🚝🚝 #arijitsingh #lofi #song #gufa #viralvideo #trending",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/y30ROFnwYDM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/y30ROFnwYDM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/y30ROFnwYDM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Deepak Bawali DB",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-01-18T00:29:02Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "8wJYBxOP6Hfyoit7FQmFGuXZdIU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "CmHfWSxt0UQ"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-09T03:16:06Z",
-                "channelId": "UCA52eHr3kyeAyKkCVjx9fHQ",
-                "title": "30 minutes English x Hindi lofi  | Study chill | Ep 2 Of Relaxing Mashups",
-                "description": "Presenting lots of relaxing English x Hindi mashups Are you looking for Relaxing lofi mashups?. This English x hindi Lofi mashup ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CmHfWSxt0UQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CmHfWSxt0UQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CmHfWSxt0UQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "SH Lofi",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-09T03:16:06Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Q0hmCwPlSo23AgkfzRNPFQ-Xn9M",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "-jdQvKhWtFo"
-            },
-            "snippet": {
-                "publishedAt": "2023-08-03T08:15:52Z",
-                "channelId": "UCCOR_s3VgYN8t1943K2HP7g",
-                "title": "I love these 4 songs! #mashup #flowers #barbie",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/-jdQvKhWtFo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/-jdQvKhWtFo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/-jdQvKhWtFo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Mariyam Kisat",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-08-03T08:15:52Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "TkBJ4D4n7YMbxod2Uo81dTMJDeI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "0FosZtpwLIo"
-            },
-            "snippet": {
-                "publishedAt": "2023-05-01T11:54:59Z",
-                "channelId": "UCdMET0f17bIuxPLC6ElV6Xw",
-                "title": "Saat Samundar Paar [Slowed + Reverb])| Sadhana Sargam Lo-fi Song |#music#shorts #viral #lofi#1lyrics",
-                "description": "Saat Samundar - Reprise | [Slowed And Reverb] Lyrics Song | Old Feelings.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/0FosZtpwLIo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/0FosZtpwLIo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/0FosZtpwLIo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "S2 Edit TIKTOK",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-05-01T11:54:59Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ZcS8H5Qt4U8t1EwX3CN6kDtLBjQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "es7cQdbtR9k"
-            },
-            "snippet": {
-                "publishedAt": "2025-04-11T12:30:15Z",
-                "channelId": "UCZdoeCMM3FziD8p6KmyB0QQ",
-                "title": "falak Tak 🖐🏻✨🥀| hindi song lyrics| asethetic/lofi song|Whatsapp|#shorts #trending #viralvideo #song",
-                "description": "falak Tak ✨  | hindi song lyrics| asethetic/lofi song|Whatsapp|#shorts #trending #viralvideo #song aesthetic lofi reverb ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/es7cQdbtR9k/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/es7cQdbtR9k/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/es7cQdbtR9k/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Trending_Asethetic_bollywood_song_lyrics",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-04-11T12:30:15Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "GnRSnMw9cS4Y7mEDIOAyPYgczsI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "CC0Njr9akrA"
-            },
-            "snippet": {
-                "publishedAt": "2025-05-06T11:30:10Z",
-                "channelId": "UCKRX0qkXLS7y-8pkNSIsgbQ",
-                "title": "Mention Your pagli🌺🥰 #song #lofi #love #hindisong #bollywood #music #trending",
-                "description": "Mention Your pagli     #song #lofi #love #hindisong #bollywood #music #trending chill music, lofi music, sleep music, lofi, love ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CC0Njr9akrA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CC0Njr9akrA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CC0Njr9akrA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "x-Status",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-05-06T11:30:10Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "kKggm-DgPo9qH7xkLARapXwj2L8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "UbuhuRVoieA"
-            },
-            "snippet": {
-                "publishedAt": "2023-04-23T16:30:04Z",
-                "channelId": "UCmXFP-4hMiVYl-3ZjgP_tpg",
-                "title": "Emraan Hashmi Mashup | Jukebox | Amtee | Bollywood Lofi",
-                "description": "emraanhashmimashup #emraanhashmi #amteemashup #lofimashup Emraan Hashmi Mashup | Jukebox | Amtee | Bollywood Lofi ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/UbuhuRVoieA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/UbuhuRVoieA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/UbuhuRVoieA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "AMTEE",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-04-23T16:30:04Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "UihLwyUfWG2Xlxn3-0yUCreMINo",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Hb7eflFMc_I"
-            },
-            "snippet": {
-                "publishedAt": "2025-04-13T06:29:13Z",
-                "channelId": "UCZdoeCMM3FziD8p6KmyB0QQ",
-                "title": "baarish 🌧️🥀❣️| hindi song lyrics| aesethetic/lofi song|Whatsapp|#shorts #trending #viralvideo #song",
-                "description": "baarish 🌧️  ❣️| hindi song lyrics| aesethetic/lofi song|Whatsapp| #shorts #trending #viralvideo #song aesthetic lofi reverb ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Hb7eflFMc_I/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Hb7eflFMc_I/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Hb7eflFMc_I/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Trending_Asethetic_bollywood_song_lyrics",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-04-13T06:29:13Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ACPRofvx5OhGrqa3--xK8CSZOvg",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "NsOfgaUD92Q"
-            },
-            "snippet": {
-                "publishedAt": "2022-11-14T03:50:27Z",
-                "channelId": "UCX-FQR1y1EGvf8OqSBevw5A",
-                "title": "❤️ New Hindi Short Video 💥 Lofi Status Video //#youtubeshorts #shorts #trending",
-                "description": "New Hindi Short Video Lofi Status Video //#youtubeshorts #shorts #trending #viral_video #whatsappstatus #love #viral.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/NsOfgaUD92Q/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/NsOfgaUD92Q/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/NsOfgaUD92Q/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Ayushi Durga Official ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-11-14T03:50:27Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "TB-vkUqMnLwN5cMAIUbVIz9rEXc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "pEaY7tryLXM"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-28T13:18:52Z",
-                "channelId": "UCEpfZ9_eBpl_U3HncmzEzAA",
-                "title": "Raanjhana Ve (Slowed + Reverb) | Soham Naik | Uddipan &amp; Sonu | Lofi Love Song.#TIMES MUSIC INDIA",
-                "description": "All Credit Goes To The Original Song Artist !!! © Copyright disclaimer Copyright ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/pEaY7tryLXM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/pEaY7tryLXM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/pEaY7tryLXM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "SECTOR-AS 2.0",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-28T13:18:52Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "pXGkwFFwgr0XC9PXLwYTnq9Kblc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "GfXGqpQMvqg"
-            },
-            "snippet": {
-                "publishedAt": "2024-07-16T10:30:07Z",
-                "channelId": "UCN9bgcfJSrnRf4yC97_vFnw",
-                "title": "Alone Night -24 Mash-up |  Lofi | Bollywood Songs  | Anisha Lofi",
-                "description": "Alone Night -24 Mash-up | Lofi | Bollywood Songs | Anisha Lofi If you like this video then don't forget to LIKE, SHARE ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/GfXGqpQMvqg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/GfXGqpQMvqg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/GfXGqpQMvqg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Anisha Lofi",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-07-16T10:30:07Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "-x3GLvVh_ENMFwW1jOYeudKrCiA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Z0o0eX0nOrg"
-            },
-            "snippet": {
-                "publishedAt": "2024-06-15T15:01:26Z",
-                "channelId": "UCIyPxNXZIMi--M891l6KR6g",
-                "title": "Sukoon 🌲🏔️🌲 #love #bollywood #song #music #hindi #ytshorts #mountains #sonmarg #travel",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Z0o0eX0nOrg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Z0o0eX0nOrg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Z0o0eX0nOrg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Rouf Kashmir",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-06-15T15:01:26Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "gJvfqXf8Z28PNQOamBuB3EHYo0s",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "7n9OJTNchhQ"
-            },
-            "snippet": {
-                "publishedAt": "2021-09-20T03:37:12Z",
-                "channelId": "UC7gNi5naZRJdOE2390o3ckw",
-                "title": "🤤Lofi song whatsapp status💔||aesthetic video🥺||sad status for couples🌇||#shorts#love#youtube#videos",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/7n9OJTNchhQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/7n9OJTNchhQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/7n9OJTNchhQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "2D CREATIONS",
-                "liveBroadcastContent": "none",
-                "publishTime": "2021-09-20T03:37:12Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "gfm_EKJagNukPKVmsHPG0Mroblk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "vGddWSKfuP8"
-            },
-            "snippet": {
-                "publishedAt": "2024-08-28T12:19:57Z",
-                "channelId": "UCuqMwON5G8qNqrmhUKPXLqQ",
-                "title": "THISS !!??? #aesthetic #music #india #korea #kpop #kdrama #song #trending #viral #edit #hindi",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/vGddWSKfuP8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/vGddWSKfuP8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/vGddWSKfuP8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "𝘽𝙇𝘼𝘾𝙆 𝙎𝙒𝘼𝙉 🎀",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-08-28T12:19:57Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "R97G4XdPOBeVroS1E98DcS6YgfQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ysxGCJSUEwA"
-            },
-            "snippet": {
-                "publishedAt": "2023-02-24T08:46:46Z",
-                "channelId": "UCt7Sf4tbLmy5elgYavnUqGw",
-                "title": "Daddy mummy lofi ❤️ #tmtians #tmtstudioindia #trending #tmtindia #dancechallenge",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ysxGCJSUEwA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ysxGCJSUEwA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ysxGCJSUEwA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "TMT INDIA",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-02-24T08:46:46Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "n1lBcZyCisLShW4ZyN_Frgr44iI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ulSxoh_3ikA"
-            },
-            "snippet": {
-                "publishedAt": "2024-06-09T23:31:26Z",
-                "channelId": "UC6nGa3vE9ELzIFc07GbMn5A",
-                "title": "lofi love❤❤#nischaymalhan #triggeredinsaan #ruchikarathore",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ulSxoh_3ikA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ulSxoh_3ikA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ulSxoh_3ikA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Nishchay_fanpage23",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-06-09T23:31:26Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "rBZaxk_oPRH2eXTcT6Un52fyd1k",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "A_uL6zxsXq4"
-            },
-            "snippet": {
-                "publishedAt": "2024-07-17T12:01:59Z",
-                "channelId": "UCsNg5j-JueJtiktNI6ZWGUA",
-                "title": "This song✨#lyrics #lyrical #foryou #feed #vibes #aesthetic #wishes #samjhona #hindilyrics",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/A_uL6zxsXq4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/A_uL6zxsXq4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/A_uL6zxsXq4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lyrics_4u",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-07-17T12:01:59Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "3Dmn0j-5oyuYOAJKnDvN5nD_u0c",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "UyHjSPvtx0s"
-            },
-            "snippet": {
-                "publishedAt": "2023-03-11T16:49:29Z",
-                "channelId": "UC1MqkpTTOYdME-CJnR5m3RQ",
-                "title": "Bollywood lofi slow and revarb Hindi lofi songs . #lofi #trending #song #bollywood #youtube",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/UyHjSPvtx0s/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/UyHjSPvtx0s/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/UyHjSPvtx0s/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "krishnahhxkumar",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-03-11T16:49:29Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "pActfaegP8clM9p2Si-H3jfSWbM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "9TLhPDcKMXM"
-            },
-            "snippet": {
-                "publishedAt": "2024-09-19T07:41:00Z",
-                "channelId": "UCbGCXk7iBmz-KDliiZKHxgA",
-                "title": "Agar tum kaho | Dance Video | Khyati Sahdev | #ytshorts | Trending | Old songs",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/9TLhPDcKMXM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/9TLhPDcKMXM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/9TLhPDcKMXM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Khyati Sahdev",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-09-19T07:41:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "NRVJsl-6x0VzGUOzslTe9UO6KAk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "tGr6lo3DPN0"
-            },
-            "snippet": {
-                "publishedAt": "2023-05-05T05:30:12Z",
-                "channelId": "UCG0qIDDt9pspDsEhsqbQIyg",
-                "title": "Marathi X Hindi X English (TRIO MASHUP) LOFI || TJ 18 Beatz",
-                "description": "Prod By - TJ 18 Beatz √For Any Queries Email : tpawar854@gmail.com Instagram ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/tGr6lo3DPN0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/tGr6lo3DPN0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/tGr6lo3DPN0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "TJ 18 Beatz",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-05-05T05:30:12Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "uGEoQ5yf3Byv6epifJYolWZ1LuY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "NW3kOH89_Kw"
-            },
-            "snippet": {
-                "publishedAt": "2023-02-24T16:10:10Z",
-                "channelId": "UC0fD1XaovtAn20R5KowyPzw",
-                "title": "Cry Night Heartboken Hindi Lofi (Slowed X Reverb) Viral  Lo-Fi Music Mix Mashup",
-                "description": "Best Of Bollywood Hindi Lofi (Slowed X Reverb) Viral Lo-Fi Mix ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/NW3kOH89_Kw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/NW3kOH89_Kw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/NW3kOH89_Kw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Words Of Lofi",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-02-24T16:10:10Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "3iCjQ3oSpJg-6nyMTJmrwMBOD_U",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "BLMl7QQ3gpk"
-            },
-            "snippet": {
-                "publishedAt": "2024-11-19T09:53:38Z",
-                "channelId": "UCBR2cEjISn0brrNU8l_FoHA",
-                "title": "Ami Je Tomar 3.0 - Shreya Ghoshal (Lyrics) #songlyrics #hindisong  #amijetomar3.0 #shreyaghoshal",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/BLMl7QQ3gpk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/BLMl7QQ3gpk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/BLMl7QQ3gpk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lyrics Spark",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-11-19T09:53:38Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "g7vEAhRiy2utH2TiWTshIxlVApE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "t3NOpF5ieBo"
-            },
-            "snippet": {
-                "publishedAt": "2023-04-01T10:44:02Z",
-                "channelId": "UCKty4J0E9Mn7sCKVqEY8sCg",
-                "title": "Lofi Bollywood Mashup 2023❤️| Classic vs Modern Hindi Songs Mashup Arijit Singh, Atif Aslam #song",
-                "description": "Lofi Bollywood Mashup 2023❤️| Classic vs Modern Hindi Songs Mashup Arijit Singh, Atif Aslam #bollywoodsongs #long ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/t3NOpF5ieBo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/t3NOpF5ieBo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/t3NOpF5ieBo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Relaxing Mood",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-04-01T10:44:02Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "el1WSTNPlvkGVSFKp_RJ7a_J1F4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "beMLGKFLVAA"
-            },
-            "snippet": {
-                "publishedAt": "2025-02-04T05:47:42Z",
-                "channelId": "UCpo1PszIRq2C38wKHIzjfyA",
-                "title": "18th birthday lofi song part 2 clip in stage #hitsong #trending #shorts @motivational_adi_86",
-                "description": "18th birthday lofi song part 2 clip in stage #hitsong #trending #shorts Super hit song Clipart 2 Trend @motivational_adi_86 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/beMLGKFLVAA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/beMLGKFLVAA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/beMLGKFLVAA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aditya gade 86",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-02-04T05:47:42Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "3vPXqt4yJoRtZ8fEtvtGq46xGzI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Bqy_-F1gt3U"
-            },
-            "snippet": {
-                "publishedAt": "2025-06-13T05:51:00Z",
-                "channelId": "UCVavdb85QRjngzwt2a7lmBA",
-                "title": "LOFI MASHUP  SONG 🎶|| 2025 NEW BOLLYWOOD ROMANTIC SONGS || No Love Lofi Song in Bollywood || #song",
-                "description": "NEW Mind Relax Lofi Song Mashup ” is a soulful reflection on the unpredictable journey of life. The lyrics dive deep into the ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Bqy_-F1gt3U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Bqy_-F1gt3U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Bqy_-F1gt3U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Dare Lofi Boy",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-06-13T05:51:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "dlh65qFI-iHyYCz_Us7Royb6cpA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "zKHPw0bxMmo"
-            },
-            "snippet": {
-                "publishedAt": "2024-07-22T10:40:23Z",
-                "channelId": "UCj7i5zZ7UJy8NuRdrIe8DJA",
-                "title": "Dil Cheez Tujhe Dedi | Dance Cover | Bollywood Song | Nidhi Kumar Choreo | Trending Song",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/zKHPw0bxMmo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/zKHPw0bxMmo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/zKHPw0bxMmo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Dance with Mansi",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-07-22T10:40:23Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "J5lAVOZPlsvEpARhRchhQgJ-ZT0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "37igNjJ7Isw"
-            },
-            "snippet": {
-                "publishedAt": "2025-02-15T11:40:22Z",
-                "channelId": "UC8c-1vgC7TL5JNT8BaTH26Q",
-                "title": "Arijit Singh songs#arijit #arijitsinghsongs #hindisong #song #love #arijitsinghsongs #viralvideo",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/37igNjJ7Isw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/37igNjJ7Isw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/37igNjJ7Isw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Bablu Patel",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-02-15T11:40:22Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ZI-LKDKODyVWo3Zz1s0nTVC-qRg",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "R7Ei0oyZNfc"
-            },
-            "snippet": {
-                "publishedAt": "2025-05-06T14:35:55Z",
-                "channelId": "UCYUOZIdy0xWToLQtsSK44CA",
-                "title": "TOP 5 SONG OF ATIF ASLAM जो हर indian 🇮🇳 के दिलों पर राज करते है| Tu jane na,Jeene laga hu #explore",
-                "description": "TOP 5 SONG OF ATIF ASLAM जो हर indian के दिलों पर राज करते है| Tu jane na,Jeene laga hu ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/R7Ei0oyZNfc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/R7Ei0oyZNfc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/R7Ei0oyZNfc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "OG AURA",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-05-06T14:35:55Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "XFWsLh1n01CRXmPHhNosZaD9cEY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ExRwH5B1OjU"
-            },
-            "snippet": {
-                "publishedAt": "2025-01-28T09:25:53Z",
-                "channelId": "UCdzsTiZ6QX376HOhCyTxEFg",
-                "title": "O&#39; Meri Laila LYRICS ♥️",
-                "description": "O meri Laila lyrics O meri Laila song lyrics #hindisong #music #trending #love.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ExRwH5B1OjU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ExRwH5B1OjU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ExRwH5B1OjU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Melodic Muse 🎶",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-01-28T09:25:53Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Dv-7Udx5Noe7r_WVtht8lPQErCk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "3EjRVCn9Ebs"
-            },
-            "snippet": {
-                "publishedAt": "2023-03-07T16:15:00Z",
-                "channelId": "UCHPl4XGBVchhfH2KbBgUH7A",
-                "title": "Nonstop Love Mashup 2023 | Romantic Hindi Lofi Songs | Slowed Reverb | Bollywood Mashup | Lofijazz",
-                "description": "Music : @SomethingEarned2.O NOTE : Uploaded for promotional and preview purposes only! If you as a copyright holder wish to ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/3EjRVCn9Ebs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/3EjRVCn9Ebs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/3EjRVCn9Ebs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Something Earned 2.O",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-03-07T16:15:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "c7HnYw1py6iKKJwSWTUAh0JSg9U",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "pmvfXoyGeys"
-            },
-            "snippet": {
-                "publishedAt": "2025-01-19T08:00:41Z",
-                "channelId": "UCF3v_N0F2hK-TAC6B0WHpaQ",
-                "title": "TUM BIN MAIN DEKHO TO LYRICS 🎶🤍 #hindilyrics #song #songlyrics #lyricalshorts",
-                "description": "Sunidhi Chauhan and Ash King - Tum Todo Na song (lyrics) Tum Bin Main Dekho Toh Tum Bin Main Dekho Toh lyrics Tum Todo ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/pmvfXoyGeys/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/pmvfXoyGeys/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/pmvfXoyGeys/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Annz Melolyrics",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-01-19T08:00:41Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "upsZljyf58ehJtcBIL7l3guE8SM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "adGhLK88t2A"
-            },
-            "snippet": {
-                "publishedAt": "2022-10-30T16:46:54Z",
-                "channelId": "UC0fD1XaovtAn20R5KowyPzw",
-                "title": "Heartbroken Of Bollywood Hindi Lofi (Slowed X Reverb) Viral  Lo-Fi Music Mix Mashup",
-                "description": "Best Of Bollywood Hindi Lofi (Slowed X Reverb) Viral Lo-Fi Mix ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/adGhLK88t2A/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/adGhLK88t2A/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/adGhLK88t2A/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Words Of Lofi",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-10-30T16:46:54Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "IriAx1j4n2kCj9ZHdstpr5yXfVs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "wpRrUSMQ7hU"
-            },
-            "snippet": {
-                "publishedAt": "2024-10-15T17:37:04Z",
-                "channelId": "UCuh4u1YfVIdz1Ba19nmpGCg",
-                "title": "Self-love Era 🧿 #enjoy #love #song #yt #ytshorts #youtubeshorts #selflove #masti #lovesongs #yt",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/wpRrUSMQ7hU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/wpRrUSMQ7hU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/wpRrUSMQ7hU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Soulful Lofi",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-10-15T17:37:04Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "3u8Y0_sy5tZEalMvuF3azc_P3jU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "CA6fGsQPlvQ"
-            },
-            "snippet": {
-                "publishedAt": "2024-10-26T07:08:17Z",
-                "channelId": "UC22nJUb0ewylSsWsAOC7i6Q",
-                "title": "Don&#39;t compare yourself #song #kamli #girlsattitude #bollywood #lucky #love #attitude #whatsappstatus",
-                "description": "Unlock your inner confidence with our latest music sensation, \"Don't Compare Yourself\"! This empowering song encourages girls ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CA6fGsQPlvQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CA6fGsQPlvQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CA6fGsQPlvQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "MOONSHINE 🧿🤍",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-10-26T07:08:17Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "6f1orfa9hcUbY6JTvAJIHf0HIBE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "2M_3LLkFvB0"
-            },
-            "snippet": {
-                "publishedAt": "2025-01-22T15:38:42Z",
-                "channelId": "UCHBJIyp6HihDF6SCfacp7_Q",
-                "title": "Top 10 Iconic Songs Of Arijit Singh | arijit singh songs | #arijitsingh #shortsfeed #bollywoodsongs",
-                "description": "Top 10 Iconic Songs Of Arijit Singh | arijit singh songs | #arijitsingh #shortsfeed #bollywoodsongs #arijitsingh #shortsfeed #song ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/2M_3LLkFvB0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/2M_3LLkFvB0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/2M_3LLkFvB0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "HM LO-FI 🎶",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-01-22T15:38:42Z"
+                "publishTime": "2025-08-12T16:48:10Z"
             }
         }
     ]
@@ -8532,3416 +6830,1715 @@ const BengaliLofiSongsSuggestions = {
     ]
 };
 
-// query: trending south indian soft lofi songs
-const SouthIndianLofiSongsSuggestions = {
+// query: 90s Banger hits evergreen
+const Top90sHitSongsSuggestions = {
     "kind": "youtube#searchListResponse",
-    "etag": "ZS0RHP8eewWwImM-nj15sq6_Jyc",
+    "etag": "lFzhB4n33ZkNKEnHxJAFW-oTxks",
     "nextPageToken": "CDIQAA",
     "regionCode": "IN",
     "pageInfo": {
-        "totalResults": 947281,
+        "totalResults": 391219,
         "resultsPerPage": 50
     },
     "items": [
         {
             "kind": "youtube#searchResult",
-            "etag": "WzOEnaNBJMZHjfOhgmgxyRVUiw8",
+            "etag": "MN8qaPH8_Com-E_8ws7nklMmzEs",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "uqF4XDKllZA"
+                "videoId": "m90LMuFFdfY"
             },
             "snippet": {
-                "publishedAt": "2022-07-23T07:39:32Z",
-                "channelId": "UCGPB1iobQmoH2clKTCmIOYw",
-                "title": "aesthetic tamil- malayalam lofi songs to relax 🎧",
-                "description": "",
+                "publishedAt": "2020-10-20T06:00:11Z",
+                "channelId": "UCWi_65E_L8tQZ34C6wVAlpQ",
+                "title": "Evergreen Melodies | 90&#39;S Romantic Love Songs | Unforgettable Melodies | JUKEBOX | 90&#39;s Hindi Songs",
+                "description": "Evergreen Melodies | 90'S Romantic Love Songs | Unforgettable Melodies | JUKEBOX | 90's Hindi Songs #90severgreensongs ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/uqF4XDKllZA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/m90LMuFFdfY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/uqF4XDKllZA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/m90LMuFFdfY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/uqF4XDKllZA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/m90LMuFFdfY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Happily Music",
+                "channelTitle": "Ishtar Music",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-07-23T07:39:32Z"
+                "publishTime": "2020-10-20T06:00:11Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "oL9PD1j-R4RPA10WmGF7VgFy6J4",
+            "etag": "RZv2ALWaweGikLZZpGiywAUGnoI",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "UhB1tbI-ctg"
+                "videoId": "HOSsEDvUYE8"
             },
             "snippet": {
-                "publishedAt": "2024-02-01T06:21:07Z",
-                "channelId": "UCinvL2vmH2BqbrW7UvzjJyw",
-                "title": "pov : you&#39;re in peace 🍃 || lofi playlist || tamil × malayalam × hindi || sleep, relax, calm songs",
-                "description": "pov : you're in peace || lofi playlist || tamil × malayalam × hindi || sleep, relax, calm songs // emotion bgm #youtubecommunity ...",
+                "publishedAt": "2026-06-15T12:30:08Z",
+                "channelId": "UCp8ZZhh28g9-KUqwBf6Blug",
+                "title": "Evergreen Love Hits | Evergreen 90&#39;s Romantic Songs | Video Jukebox | 90&#39;s Tamil Love Songs",
+                "description": "90sRomanticHits #EvergreenRomanticSongs #hitsof90s #Vidaikodu #EnakkeEnakka #arrahman #jeanssong #prashanth ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/UhB1tbI-ctg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/HOSsEDvUYE8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/UhB1tbI-ctg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HOSsEDvUYE8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/UhB1tbI-ctg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HOSsEDvUYE8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "EMOTION BGM",
+                "channelTitle": "New Hits",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-02-01T06:21:07Z"
+                "publishTime": "2026-06-15T12:30:08Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "U8vvugRKELnYcL5VsdtI_RY4sB4",
+            "etag": "Yfdd3b6SU7B_bZXAkV8jPkJVVE0",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "SLTwLO4DWtc"
+                "videoId": "1VdMEriTiDk"
             },
             "snippet": {
-                "publishedAt": "2024-07-31T01:49:17Z",
-                "channelId": "UC9PiL1a4urluULWAKbxBFUg",
-                "title": "Trending South-Indian Songs you have been looking for!!!🔥",
-                "description": "+*:ꔫ:﹤Hello Everyone﹥:ꔫ:*+ﾟ I am so glad you guys stopped by, This Is a desi playlist of all those trending SOUTH- INDIAN ...",
+                "publishedAt": "2024-05-12T07:16:17Z",
+                "channelId": "UCWoGIIBW1VyTeRj-Y81rnCw",
+                "title": "Indian Bus Driver Playlist (part- 2) || Hindi 90s Song || #song #trending #youtube",
+                "description": "Indian Bus Driver Playlist || Hindi Song || 90s Song || #song #trending #youtube PART 3 - https://youtu.be/tADaTIFoJVM 1.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/SLTwLO4DWtc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/1VdMEriTiDk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/SLTwLO4DWtc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1VdMEriTiDk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/SLTwLO4DWtc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1VdMEriTiDk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Feel good tracks",
+                "channelTitle": "pk mehta",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-31T01:49:17Z"
+                "publishTime": "2024-05-12T07:16:17Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "kPmEAjisuXRxCZtUz6A916SMkTo",
+            "etag": "GvEboDVd25il94kGufdjuIqppNg",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "6q5NXhdf5Ts"
+                "videoId": "YIhtkEjFOG8"
             },
             "snippet": {
-                "publishedAt": "2024-02-03T23:08:11Z",
-                "channelId": "UCIrLMiiIzEsgCaTYkFS5txA",
-                "title": "Tamil Lofi 2024 | Chill, Sleep, Relax 💜✨",
-                "description": "Best Of Kollywood Tamil Lofi 2024 | Chill, Sleep, Relax ✨ • SUBSCRIBE (  ) ‎ @truesoundserum Follow me on SPOTIFY ...",
+                "publishedAt": "2025-02-14T13:00:47Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90s Love Songs | Bollywood Evergreen 90&#39;s Love Songs | 90s Hits Hindi Songs | Old Songs Jukebox",
+                "description": "Step into the golden era of 90s romance with this soulful jukebox of timeless love songs! From heart-touching melodies to ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/6q5NXhdf5Ts/default.jpg",
+                        "url": "https://i.ytimg.com/vi/YIhtkEjFOG8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/6q5NXhdf5Ts/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YIhtkEjFOG8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/6q5NXhdf5Ts/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YIhtkEjFOG8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "True-Sound Serum",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-02-03T23:08:11Z"
+                "publishTime": "2025-02-14T13:00:47Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "P9424KbHCjpYVSMzBWKmKJTbQz0",
+            "etag": "9EjWm2HqA7jielu-pzPaLNnkjwA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Ku9o7zHiI9A"
+                "videoId": "rN-VqYxs_iE"
             },
             "snippet": {
-                "publishedAt": "2022-07-18T14:00:18Z",
-                "channelId": "UCU9domE0AMkZpIoqMI1Ovyg",
-                "title": "Kaadhal En Kaviye [Slowed+Reverb] Lyrics - Sid Sriram | Salmon 3D | happy-or-sad",
-                "description": "Kaadhal En Kaviye [Slowed+Reverb] Lyrics - Sid Sriram | Salmon 3D | happy-or-sad - FOLLOW ME INSTAGRAM ...",
+                "publishedAt": "2026-08-05T10:30:06Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90&#39;s Evergreen Songs | Old Is Gold Hindi Songs | 90&#39;s Superhit Sadabahar Gaane | 90&#39;s Old Songs",
+                "description": "Relive the golden era of Bollywood with this 90's Old Is Gold Songs collection featuring timeless 90's Evergreen Songs, romantic ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Ku9o7zHiI9A/default.jpg",
+                        "url": "https://i.ytimg.com/vi/rN-VqYxs_iE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Ku9o7zHiI9A/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rN-VqYxs_iE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Ku9o7zHiI9A/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rN-VqYxs_iE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "happy-or-sad",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-07-18T14:00:18Z"
+                "publishTime": "2026-08-05T10:30:06Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "wqh14ihQ2IWPA0MwItjSFsjGEEo",
+            "etag": "RK-HxESlWAnFP1m3po0W1Ios2Xk",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "zU0lSFcgowc"
+                "videoId": "SpkAYPjXy4Q"
             },
             "snippet": {
-                "publishedAt": "2024-09-07T08:19:05Z",
-                "channelId": "UCoKP9Q0wBn94aL23CD_JtQg",
-                "title": "Malayalam &amp; Tamil Lofi songs ~ malayalam lofi songs / malayalam old songs / tamil lofi songs / lofi",
-                "description": "malayalam lofi - tamil lofi - malayalam lofi songs - tamil lofi songs - malayalam old songs - malayalam tamil travel songs ...",
+                "publishedAt": "2026-06-25T10:30:31Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90&#39;s Evergreen Songs | 90&#39;s Hindi Sadabahar Gaane | 90&#39;s Hindi Songs | Best Of 90&#39;s Hindi Song",
+                "description": "Relive the golden era of Bollywood with this beautiful collection of 90's Evergreen Songs. Enjoy the most loved 90's Hindi ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/zU0lSFcgowc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/SpkAYPjXy4Q/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/zU0lSFcgowc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SpkAYPjXy4Q/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/zU0lSFcgowc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/SpkAYPjXy4Q/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Abhy Vibe",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-09-07T08:19:05Z"
+                "publishTime": "2026-06-25T10:30:31Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "S0YQ7oTP3kLTTjaeTEtBruswEcI",
+            "etag": "Akp2eLaoW0uFbUvjxCRheq2zDmQ",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "2mUqlMzYXkc"
+                "videoId": "cDL1vhZemxY"
             },
             "snippet": {
-                "publishedAt": "2024-11-24T15:18:29Z",
-                "channelId": "UCING5vaeGJSma4xwgycDboA",
-                "title": "TERA FITOOR JAB SE CHADH GYA RE |genius| [slowed+reverb] lofi song",
-                "description": "TERA FITOOR JAB SE CHADH GYA RE |genius| [slowed+reverb] lofi song #lofi #lofimusic #slowedreverb.",
+                "publishedAt": "2026-07-31T02:30:00Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90&#39;s हिंदी सदाबहार गाने | 90s Old Is Gold | 90s Hits Hindi Songs | 90s Bollywood Evergreen Songs",
+                "description": "Relive the magic of the 90's Hindi Evergreen Songs ✨ Presenting a collection of 90s Old Is Gold Bollywood Songs that defined ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/2mUqlMzYXkc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/cDL1vhZemxY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/2mUqlMzYXkc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cDL1vhZemxY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/2mUqlMzYXkc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cDL1vhZemxY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "KGS BOY ",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-11-24T15:18:29Z"
+                "publishTime": "2026-07-31T02:30:00Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "MM_9wj_2WgKGYUWsmf5yl8KdnM4",
+            "etag": "iUPGrAwKJ-D_mTCTtSPHyG5fsD4",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "_EdpULYk7kc"
+                "videoId": "bX_zQ7bwgjo"
             },
             "snippet": {
-                "publishedAt": "2024-08-06T14:10:18Z",
-                "channelId": "UCi5amAXzIVpoGcSJjCkdeww",
-                "title": "Chuttamalle (Slowed + Reverb) | NTR | Kortala Siva | DEVARA | Anirudh",
-                "description": "Copyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as ...",
+                "publishedAt": "2023-12-24T10:30:17Z",
+                "channelId": "UC_A7K2dXFsTMAciGmnNxy-Q",
+                "title": "90s Party Hits | Jooma Chumma | Didi Tera Devar Deewana | Roop Suhana Lagta Hai | Saat Samundar Paar",
+                "description": "Get ready to party like it's the 90s with this ultimate playlist of party hits! Relive the golden era of dance music as you groove to the ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/_EdpULYk7kc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/bX_zQ7bwgjo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/_EdpULYk7kc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bX_zQ7bwgjo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/_EdpULYk7kc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bX_zQ7bwgjo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Kalashnikov Music",
+                "channelTitle": "Saregama Music",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-08-06T14:10:18Z"
+                "publishTime": "2023-12-24T10:30:17Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "mK2WaqXYwIKUBLBka26lsaAXgPk",
+            "etag": "9VdYkR2uE4ytw7YcF0R6LzI4oGM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "-9YX8i9LsMw"
+                "videoId": "wv3c7_W3XV0"
             },
             "snippet": {
-                "publishedAt": "2024-07-26T12:57:05Z",
-                "channelId": "UCFKrLfD9RhLAopFeikB5VTw",
-                "title": "Malayalam &amp; Tamil Lofi songs ~ malayalam lofi songs / malayalam old songs / tamil lofi songs / lofi",
-                "description": "malayalam lofi - tamil lofi - malayalam lofi songs - tamil lofi songs - malayalam old songs - malayalam tamil travel songs ...",
+                "publishedAt": "2019-10-30T23:47:37Z",
+                "channelId": "UCZYEmmmAwvvNeAZDjf3jhYg",
+                "title": "BOLLYWOOD 90s SONGS | BOLLYWOOD 90s DANCE MIX | BOLLYWOOD RETRO SONGS | BOLLYWOOD 90s MASHUP",
+                "description": "Mix of the greatest Bollywood hits from the 90s. Please like, share and subscribe! Please check you my YouTube channel for ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/-9YX8i9LsMw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/wv3c7_W3XV0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/-9YX8i9LsMw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wv3c7_W3XV0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/-9YX8i9LsMw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wv3c7_W3XV0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Loficat",
+                "channelTitle": "DJ RAV UK",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-26T12:57:05Z"
+                "publishTime": "2019-10-30T23:47:37Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "PDQhvgiHmOlRy1gBTqsirbwTGqM",
+            "etag": "IXsK37HX4oV3XWyGD5GWUZMAMoE",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "t-a6VlOUEtc"
+                "videoId": "xp5j2IHyTgs"
             },
             "snippet": {
-                "publishedAt": "2023-01-13T12:45:03Z",
-                "channelId": "UCn4rEMqKtwBQ6-oEwbd4PcA",
-                "title": "Sakkarakatti - Marudaani Cover by Sanah Moidutty |@ARRahman",
-                "description": "Vocals : Sanah Moidutty Music Production: Prasanna Suresh Slide guitar : Amritanshu Dutta Mix & Master: Abin Paul ...",
+                "publishedAt": "2024-10-23T04:30:25Z",
+                "channelId": "UCq83oQV4bcAWlF7t7obC0sA",
+                "title": "Kumar Sanu Hit Songs | 90s Superhit Hindi Romantic Songs | Sadabahar Song | Bollywood Songs Jukebox",
+                "description": "Song Details:- 00:00 Is Tarah Aashiqui Ka 07:18 Tujhe Na Dekhu Toh Chain 14:19 Hum Pyaar Hai Tumhare 21:21 Tumsa Koi ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/t-a6VlOUEtc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/xp5j2IHyTgs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/t-a6VlOUEtc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xp5j2IHyTgs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/t-a6VlOUEtc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xp5j2IHyTgs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Sony Music South",
+                "channelTitle": "Bollywood Dhamaka",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-01-13T12:45:03Z"
+                "publishTime": "2024-10-23T04:30:25Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "A6o5erYZqY_LsQ7EYzz_-k_M5aQ",
+            "etag": "jfhu1Hw9STVys4XUHA8YVglABQQ",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "zcMJ9TzACNY"
+                "videoId": "-sbKzeFczbw"
             },
             "snippet": {
-                "publishedAt": "2024-09-14T09:45:12Z",
-                "channelId": "UCkszDZnlm1HrG9zvySdG3oQ",
-                "title": "Chuttamalle Lyrics - DEVARA Part 1 | Shilpa Rao, Anirudh Ravichander (Full Video)",
-                "description": "Chuttamalle Lyrics - DEVARA Part 1 | Shilpa Rao, Anirudh Ravichander Spotify ...",
+                "publishedAt": "2024-09-29T12:30:00Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90s Evergreen Hindi Songs | 90s Hits Hindi Songs | Romantic Hindi Songs |90s Bollywood Songs Jukebox",
+                "description": "\"Step into the Golden Era of 90s Bollywood! | Enjoy Evergreen Hindi Romantic Songs That Defined a Generation | This 90s ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/zcMJ9TzACNY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/-sbKzeFczbw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/zcMJ9TzACNY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-sbKzeFczbw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/zcMJ9TzACNY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-sbKzeFczbw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Vxin Editz",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-09-14T09:45:12Z"
+                "publishTime": "2024-09-29T12:30:00Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "4qixr3ClCawGKxdEOlvRg_oJQQk",
+            "etag": "1v-3kKWn2C9qOL1XiPevPGy4HqM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "TYkK76pgLfg"
+                "videoId": "Kr3nKhxpjA8"
             },
             "snippet": {
-                "publishedAt": "2024-06-01T08:49:11Z",
-                "channelId": "UC23ON-pjYXGVt1dpC48wm0g",
-                "title": "Sanam Teri Kasam (Slowed + Reverb) | Ankit Tiwari &amp; Palak Muchhal | Lofi -Zone |",
-                "description": "lovestatus #trending #love Sanam Teri Kasam (Slowed + Reverb) Ankit Tiwari, & palak Muchhal Use headphone for best ...",
+                "publishedAt": "2026-08-01T03:30:02Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90s All Time Hit Songs | 90&#39;s हिंदी सदाबहार  | 90s Old Is Gold | 90s Evergreen Songs | Hindi Songs",
+                "description": "Relive the golden era of Bollywood with this collection of timeless 90's Hindi Evergreen Songs. Enjoy the best of 90s Old Is Gold ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/TYkK76pgLfg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Kr3nKhxpjA8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/TYkK76pgLfg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Kr3nKhxpjA8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/TYkK76pgLfg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Kr3nKhxpjA8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "LOFI -ZONE🎧",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-06-01T08:49:11Z"
+                "publishTime": "2026-08-01T03:30:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "yDD7H3cWbztdJbmjAbnKUN9yM9k",
+            "etag": "REzLZZFdw1HF5o19u_dzpBmhiiU",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "HsZXADxhb4g"
+                "videoId": "Jvk0BXpUVTs"
             },
             "snippet": {
-                "publishedAt": "2024-12-22T10:48:17Z",
-                "channelId": "UCAhMw0iWqUxvoN59sykXNNA",
-                "title": "✨Trending south indian remix songs..|You must like| 🎶🎧#explore #trending  ‎@the_music_diaries",
-                "description": "Trending south indian remix songs.. You must like| Remix songs:- Unnaku Than Chuttamale Kolaveri Aasa Koda #explore ...",
+                "publishedAt": "2025-03-27T12:30:15Z",
+                "channelId": "UCq83oQV4bcAWlF7t7obC0sA",
+                "title": "❤️90s Love Songs | Bollywood Evergreen 90&#39;s Love Songs |❤️90s Hits Hindi Songs | Audio Jukebox",
+                "description": "Song Details:- Meri Tarah Tum Bhi - 00:00 Ek Dil Hai - 04:54 Mujhe Dil Ka Rog - 10:01 Dil Pardesi Ho Gaya - 14:09 Meri ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/HsZXADxhb4g/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Jvk0BXpUVTs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/HsZXADxhb4g/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Jvk0BXpUVTs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/HsZXADxhb4g/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Jvk0BXpUVTs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "The music Diaries ",
+                "channelTitle": "Bollywood Dhamaka",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-12-22T10:48:17Z"
+                "publishTime": "2025-03-27T12:30:15Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "KvzoxeLiUrQMTkBqjdoLaXztfRY",
+            "etag": "R1UTFKTSvNrOGUSvyCpSCdgo9TA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "sMnDFR0RvuU"
+                "videoId": "1YddSDFIsk4"
             },
             "snippet": {
-                "publishedAt": "2023-05-01T01:30:19Z",
-                "channelId": "UCvRdiGQQRzdP8mD-Sez7wrA",
-                "title": "Hum_Tumko_Nigahon mein || (slowed+Reverb) Salman Khan Hind songs / lofi song",
-                "description": "Hum_Tumko_Nigahon mein || (slowed+Reverb) Salman Khan Hind songs / lofi song (( Use The Headphones For Better FEEL ) ...",
+                "publishedAt": "2026-05-22T10:30:01Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90s Bollywood All Time Hit Songs | 90s Evergreen Songs | 90s Hits Hindi Songs |90s Old Is Gold Songs",
+                "description": "Relive the golden era of Bollywood with the best 90s Purane Gaane collection ❤️   Enjoy timeless melodies, evergreen ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/sMnDFR0RvuU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/1YddSDFIsk4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/sMnDFR0RvuU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1YddSDFIsk4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/sMnDFR0RvuU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1YddSDFIsk4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "@Lo-fi 123",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-01T01:30:19Z"
+                "publishTime": "2026-05-22T10:30:01Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "HxHD1scPEBnJjNgvnW_ZQs-LXSI",
+            "etag": "pIaoqe5fzcYqydxGNqF1YxEVSLo",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "gkFhJN9SF9A"
+                "videoId": "2kR_ZiyB-k0"
             },
             "snippet": {
-                "publishedAt": "2025-02-05T14:49:22Z",
-                "channelId": "UCpo1PszIRq2C38wKHIzjfyA",
-                "title": "18th birthday lofi song popular song #bollywood #song #popular #trending #shorts",
-                "description": "18th birthday lofi song popular song #bollywood #song #popular #trending #shorts Social media viral song and music video ...",
+                "publishedAt": "2026-01-10T17:23:22Z",
+                "channelId": "UCtkaV5Qxm4nuC6yT8OMMUxg",
+                "title": "90s ki desi playlist which that pov you are bollywood lover 😎💕",
+                "description": "https://link.meesho.co/cnl5c9zama.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/gkFhJN9SF9A/default.jpg",
+                        "url": "https://i.ytimg.com/vi/2kR_ZiyB-k0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/gkFhJN9SF9A/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2kR_ZiyB-k0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/gkFhJN9SF9A/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2kR_ZiyB-k0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Aditya gade 86",
+                "channelTitle": "ItsElyana ",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-02-05T14:49:22Z"
+                "publishTime": "2026-01-10T17:23:22Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "kWGUItdWpV53797eEygmOZZbSx4",
+            "etag": "ZBv8L_SQjx5jbbAcG5EQTBMei5c",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "OGQEDOYoTz0"
+                "videoId": "7X61ciofOpA"
             },
             "snippet": {
-                "publishedAt": "2024-07-03T07:35:56Z",
-                "channelId": "UCw0xjRi-NSW21pooqwD-D3Q",
-                "title": "aasa kooda ( s l o w e d + r e v e r b ) | lilvibe",
-                "description": "tamilslowedsongs #lilvibe #aasakoodasong promotion/copyright - vigneshdvm9539@gmail.com shorts link ...",
+                "publishedAt": "2026-07-27T00:30:05Z",
+                "channelId": "UCH77yUlcEJLwC-VI59_olpw",
+                "title": "90s Golden Hits Mashup 2026 | SAM Mashup | 90s Hits Hindi Songs | 90s Love Songs | Best Of 90s Love",
+                "description": "90s Golden Hits Mashup 2026 | SAM Mashup | 90s Hits Hindi Songs | 90s Love Songs | Best Of 90s Love | udit Narayan songs ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/OGQEDOYoTz0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/7X61ciofOpA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/OGQEDOYoTz0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7X61ciofOpA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/OGQEDOYoTz0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7X61ciofOpA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "lilvibe -",
+                "channelTitle": "SAM Mashup",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-03T07:35:56Z"
+                "publishTime": "2026-07-27T00:30:05Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "ergjUlMewD5p-aQcpGOejNdL1DY",
+            "etag": "HDaFM7G_AfgwTe6HbzktmFyuDoA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "qx1qU_K9GG8"
+                "videoId": "hdpFI2VBZEA"
             },
             "snippet": {
-                "publishedAt": "2024-07-04T09:55:05Z",
-                "channelId": "UCnVf3uOeWKhmPEwDrrkttYA",
-                "title": "20 minutes of Tamil Lofi | Tamil Lofi Compilation | Slowed Reverb Songs | eternaL",
-                "description": "Tamil Lofi Songs Time Stamps 00:00 Aaruyirae 05:09 Nenjukulle 09:10 Kadhal En Vaviye 12:52 Kannazhaga 16:50 Pookal ...",
+                "publishedAt": "2018-04-13T06:00:05Z",
+                "channelId": "UCWi_65E_L8tQZ34C6wVAlpQ",
+                "title": "90&#39;s Unforgettable Golden Hits | Evergreen Hindi Romantic Songs JUKEBOX | #Bollywood #filmigaane",
+                "description": "Indulge in the timeless allure of Bollywood's romantic melodies from the enchanting era of the '90s! 90s ka jukebox For Bollywood ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/qx1qU_K9GG8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/hdpFI2VBZEA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/qx1qU_K9GG8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/hdpFI2VBZEA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/qx1qU_K9GG8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/hdpFI2VBZEA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "eternaL",
+                "channelTitle": "Ishtar Music",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-04T09:55:05Z"
+                "publishTime": "2018-04-13T06:00:05Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "YbwkWn3N2hgxlpYynSvCVbKnyQk",
+            "etag": "ZWj9rRU7RFtw2JTZxY8lhA1dYPM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "hKPlmJLXehQ"
+                "videoId": "Ivy_Dkgz610"
             },
             "snippet": {
-                "publishedAt": "2023-10-13T13:54:44Z",
-                "channelId": "UCRAPyY0Qz394O0tJom_W4aw",
-                "title": "Kal Jo Na Tujhse Mila Me Hota [Slowed+Reverb] &quot;Jubin Nautiyal&quot; lofi song Official Armaan 43",
-                "description": "Kal Jo Na Tujhse Mila Me Hota [Slowed+Reverb] \"Jubin Nautiyal\" lofi song Official Armaan 43 promotion business ...",
+                "publishedAt": "2022-11-14T08:15:47Z",
+                "channelId": "UCVxUDcpCqyqyxozFm06C7Ag",
+                "title": "AR Rahman 4K Top 12 Beat song 90&#39;s",
+                "description": "90's All-Time Favorite AR Rahman - Tamil Songs First of all thanks to the respective owners created wonderful music and images.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/hKPlmJLXehQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Ivy_Dkgz610/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/hKPlmJLXehQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ivy_Dkgz610/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/hKPlmJLXehQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ivy_Dkgz610/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "official Armaan 43",
+                "channelTitle": "SKS Tamil Music & Entertainment",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-10-13T13:54:44Z"
+                "publishTime": "2022-11-14T08:15:47Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "St-cAPBB_ezF2TJHbQMWa7a8B1o",
+            "etag": "lU0jEReNMWxlq6UmF4snurSwX6k",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "lQ3ozqdnUvo"
+                "videoId": "Z2jNOm26qE8"
             },
             "snippet": {
-                "publishedAt": "2024-08-18T05:37:50Z",
-                "channelId": "UCEgoc8-fjMaXn4joSsVBOAw",
-                "title": "South Indian Girls💞😍🌸#kaathumelasong #southindian #tamil #song #cute #makeup #viralshorts #shorts",
-                "description": "South Indian Girl      #kaathumelasong #southindian #tamil #song #cute #makeup #viralshorts #shorts #viralvideo #girls ...",
+                "publishedAt": "2026-01-21T02:30:29Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90s Hits Hindi Songs | 90s Evergreen Bollywood Hit Songs | 90s Sadabahar Gane | Old Songs Playlist",
+                "description": "Relive the golden era of Bollywood with this collection of 90s Hits Hindi Songs. Featuring evergreen and sadabahar Bollywood ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/lQ3ozqdnUvo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Z2jNOm26qE8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/lQ3ozqdnUvo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Z2jNOm26qE8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/lQ3ozqdnUvo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Z2jNOm26qE8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Random_Me",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-08-18T05:37:50Z"
+                "publishTime": "2026-01-21T02:30:29Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "7UKKBNUJSh3UkhbiMVFg5eGHp9k",
+            "etag": "AMeEJRKFR0m9q_hMKaLwZ5QS55o",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "S04xHs5l93k"
+                "videoId": "zRYHl21AmfM"
             },
             "snippet": {
-                "publishedAt": "2025-04-01T15:48:24Z",
-                "channelId": "UCOrmm6-BQ2FhPYS7uXpvVXg",
-                "title": "The Refreshing Playlist ✨🥂",
-                "description": "The Ultimate Refreshing Bollywood Playlist! | Feel-Good Hindi Songs Looking for the perfect Bollywood playlist to lift your ...",
+                "publishedAt": "2026-03-18T02:30:56Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90&#39;s Romantic Evergreen Songs | 90&#39;s Bollywood Superhits Songs | 90&#39;s Evergreen Romantic Hits",
+                "description": "Relive the golden era of Bollywood with this beautiful collection of 90's Romantic Evergreen Songs . This jukebox brings you the ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/S04xHs5l93k/default.jpg",
+                        "url": "https://i.ytimg.com/vi/zRYHl21AmfM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/S04xHs5l93k/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/zRYHl21AmfM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/S04xHs5l93k/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/zRYHl21AmfM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Khayalon Ki Qashmakash ",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-04-01T15:48:24Z"
+                "publishTime": "2026-03-18T02:30:56Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "zUu2sym-PRTazkz3CGieMSa0-X4",
+            "etag": "_CS3b_Ne4AFbgXWGyRiwGIeVQZA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "vIjK4f-_CNM"
+                "videoId": "0GzPW5Y6MgA"
             },
             "snippet": {
-                "publishedAt": "2024-09-02T13:12:27Z",
-                "channelId": "UCo8i4dh839FvGRj1LsFcWog",
-                "title": "Samantha 🥺 #samantha #southindian #trending #sad #love #shorts #song #sadstatus #status #whatsapp",
-                "description": "",
+                "publishedAt": "2025-11-04T13:30:01Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90&#39;s Evergreen Songs | 90&#39;s Hindi Bollywood Songs | Old Is Gold | Bollywood Love Hits | 90&#39;s Hits",
+                "description": "Enjoy this handpicked collection of 90's Evergreen Hindi Songs featuring soulful melodies, timeless love tracks, and romantic ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/vIjK4f-_CNM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/0GzPW5Y6MgA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/vIjK4f-_CNM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/0GzPW5Y6MgA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/vIjK4f-_CNM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/0GzPW5Y6MgA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Sahil",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-09-02T13:12:27Z"
+                "publishTime": "2025-11-04T13:30:01Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "so2bvkUyXLYAAScmjWytvtJCEgE",
+            "etag": "lo8HlhTwxdDGLewRrd8b_ATR7NU",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "v-Pizmo0lcw"
+                "videoId": "3pAEDrGdPLI"
             },
             "snippet": {
-                "publishedAt": "2025-01-21T03:03:11Z",
-                "channelId": "UCDGVH5EBkFZWt69d5VL2ePg",
-                "title": "SAD LOFI SONGS | HEART 💔 BROKEN🥺 LOFI MASHUP | SLOW + REVERB LOFI MIX | #sad #trending #songs",
-                "description": "SAD LOFI SONGS HEART BROKEN LOFI SONGS MASHUP Pls support ...",
+                "publishedAt": "2024-09-20T12:30:02Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90s Bollywood Dance Songs | 90s Hits Hindi Songs | 90s Dance Songs | 90s Party Hits Video Jukebox",
+                "description": "Dive into the nostalgia of the '90s Bollywood Dance Songs Video Jukebox! Unleash the energy of iconic dance numbers and ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/v-Pizmo0lcw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/3pAEDrGdPLI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/v-Pizmo0lcw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3pAEDrGdPLI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/v-Pizmo0lcw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3pAEDrGdPLI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "ʟᴏꜰᴇʀɪᴀɴ ʀᴀʜᴜʟꜱ\n",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-01-21T03:03:11Z"
+                "publishTime": "2024-09-20T12:30:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "BW8XkuVwJ5xmg-N5bnB3FSjeWA0",
+            "etag": "RcmqWi3lq5cKD2ME3S3-lvQ6uJI",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "W9wYHscymeQ"
+                "videoId": "Mt9w0j-MdFQ"
             },
             "snippet": {
-                "publishedAt": "2024-11-04T05:00:08Z",
-                "channelId": "UCjKENf7bTijQAecowvhlAHQ",
-                "title": "Chuttamalle (Slowed + Reverb) | Dheere Dheere | Shilpa Rao | Devara | SR Lofi",
-                "description": "Chuttamalle (Slowed + Reverb) | Dheere Dheere | Shilpa Rao | Devara | SR Lofi Presenting (Slowed + Reverb) Version of ...",
+                "publishedAt": "2025-10-05T13:30:18Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "Nonstop Hits Of Udit Narayan, Alka Yagnik &amp; Kumar sanu | Evergreen Bollywood Hits | 90s Hindi Songs",
+                "description": "Relive the golden era of Bollywood with 90s Sadabahar Purane Gane! Enjoy the ultimate collection of 90s Hits Hindi Songs filled ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/W9wYHscymeQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Mt9w0j-MdFQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/W9wYHscymeQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Mt9w0j-MdFQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/W9wYHscymeQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Mt9w0j-MdFQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "SR Lofi",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-11-04T05:00:08Z"
+                "publishTime": "2025-10-05T13:30:18Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "rhcceqxm3rSxu1vzZe6f8beVNLM",
+            "etag": "MW4nHlpxHmn8Iv5Of7erJsxmcsw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "lcYldvEC0wQ"
+                "videoId": "j04A0qFWMKU"
             },
             "snippet": {
-                "publishedAt": "2024-07-04T09:30:06Z",
-                "channelId": "UCHg7wLL1Go5-XVv43QNhYJg",
-                "title": "Malayalam &amp; Tamil Cover Songs | Relaxing Chill Melodies | New &amp; Old Lofi Tunes for Study |Relaxation",
-                "description": "Like | Share | Subscribe We want you to know that the songs you hear on our channel are not our own creations. They are ...",
+                "publishedAt": "2026-02-27T02:30:47Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90&#39;s Romantic Songs | Sadabahar Love Hits | 90S Hindi Gaane - Audio Jukebox | 90&#39;s Evergreen Hits",
+                "description": "Relive the golden era of Bollywood romance with this beautiful collection of 90's Romantic Songs. This Audio Jukebox brings you ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/lcYldvEC0wQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/j04A0qFWMKU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/lcYldvEC0wQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/j04A0qFWMKU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/lcYldvEC0wQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/j04A0qFWMKU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Mozhikal",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-04T09:30:06Z"
+                "publishTime": "2026-02-27T02:30:47Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "eGa0PrkRr3nYKXroegqHO4nY4Uc",
+            "etag": "X_qstnB3mdSbszsIZdCCWodxecY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "ykLyUnrspsU"
+                "videoId": "xiAwf7MOAPc"
             },
             "snippet": {
-                "publishedAt": "2023-09-27T18:22:03Z",
-                "channelId": "UCI10Ogj1I5ComneVP7kT6oQ",
-                "title": "30 Minutes Relaxing lofi song 🎵🎧//Night 2 AM || love song 💔|| [Slowed=Reverb] ALONE 🥹 #lofi #song",
-                "description": "30 Minutes Relaxing lofi song //Night 2 AM || love song || [Slowed=Reverb] ALONE #lofi #song #scholarshipsforcollege ...",
+                "publishedAt": "2026-03-17T02:31:01Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90&#39;s Old Is Gold Songs | 90&#39;s Evergreen Hindi Songs | 90&#39;s Superhit Bollywood Songs | Sadabahar Gane",
+                "description": "Relive the golden era of Bollywood with this beautiful collection of 90's Old Is Gold Songs. This jukebox brings together the most ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ykLyUnrspsU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/xiAwf7MOAPc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ykLyUnrspsU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xiAwf7MOAPc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ykLyUnrspsU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xiAwf7MOAPc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "SIC",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-09-27T18:22:03Z"
+                "publishTime": "2026-03-17T02:31:01Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "cc3sx0lAVHqRpgvZmsp7Zb95GM0",
+            "etag": "4gBkPOZg235J5Sl7xyqVP4Emerw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "YAu2LroH4C0"
+                "videoId": "ctWgxJ9t1pg"
             },
             "snippet": {
-                "publishedAt": "2025-03-18T01:47:06Z",
-                "channelId": "UClt9owY8-MRn9NCI2ePaKvg",
-                "title": "🍂 Live Tamil ~ Lofi [playlist - Feel the Rest] 🎧💖 #tamillofi #tamilsong #tamil #tamilshorts",
-                "description": "Welcome to Tamil ~ Lofi [Playlist Live - Feel the Rest] ✨ Unwind and relax with the smoothest Tamil Lofi beats. Let the calming ...",
+                "publishedAt": "2026-03-25T11:30:29Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90s Romantic Songs | 90 Love Songs | 90s Hits Hindi Songs | 90s Evergreen Bollywood Songs |Old Songs",
+                "description": "Dive into the golden era of Bollywood with this 90s Romantic Songs jukebox! Experience pure love, nostalgia, and timeless ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/YAu2LroH4C0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ctWgxJ9t1pg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/YAu2LroH4C0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ctWgxJ9t1pg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/YAu2LroH4C0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ctWgxJ9t1pg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Aisyyy",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-03-18T01:47:06Z"
+                "publishTime": "2026-03-25T11:30:29Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "8DWC-FDu9vgs9GYfJOim1KB8pTg",
+            "etag": "x_sAzBoiZR3JHCMk8do_zOz5Wyg",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "r80aeMVBEWw"
+                "videoId": "cKay8KupMy4"
             },
             "snippet": {
-                "publishedAt": "2024-10-22T03:14:17Z",
-                "channelId": "UCeVIUsOZ-v98eKxDTI9yGcQ",
-                "title": "South Indian songs to post on your insta stories 💫🤌✨❤️.               #south #song #shorts #explore",
-                "description": "",
+                "publishedAt": "2026-06-17T10:30:38Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90s Evergreen Songs | Old Is Gold Songs | Hindi Gane | 90s Purane Gane | 90 Old Songs|Sadabahar Song",
+                "description": "Bringing back the magic of the 90s! 🎙️   Stay updated with the latest videos from Tips Official, Subscribe on the below link.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/r80aeMVBEWw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/cKay8KupMy4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/r80aeMVBEWw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cKay8KupMy4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/r80aeMVBEWw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cKay8KupMy4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Aesthetic2030",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-10-22T03:14:17Z"
+                "publishTime": "2026-06-17T10:30:38Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "4bdJhjZCxVQu1Dz6Q_KJLu9V2vs",
+            "etag": "RQ9Pn9ytych1k0oBdchiRhoDHlk",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "q0NjttwSAoI"
+                "videoId": "LEGu23Oj7lY"
             },
             "snippet": {
-                "publishedAt": "2024-11-22T11:30:33Z",
-                "channelId": "UClh6Ewk4bAV00jeOgMeRyRg",
-                "title": "Lofi Meets Sid Sriram | Avunanavaa | Urike Urike | Aradhya | Aakashame Nuvvani | Adiga Adiga",
-                "description": "Listen to the compilation of \"Sid Sriram\" lofi songs in the jukebox \"Lofi Meets Sid Sriram\". Track Details :- 00:06 Avunanavaa - Lofi ...",
+                "publishedAt": "2026-04-17T09:57:17Z",
+                "channelId": "UCQ9zVDQu1RasYYhTj39F4rg",
+                "title": "~90s playlist that will grove you up~",
+                "description": "hashtags:- #playlist #bollywood #srksongs #90severgreen #90splaylist.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/q0NjttwSAoI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/LEGu23Oj7lY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/q0NjttwSAoI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/LEGu23Oj7lY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/q0NjttwSAoI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/LEGu23Oj7lY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Saregama Telugu Mix Station",
+                "channelTitle": "preet_slaylist ",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-11-22T11:30:33Z"
+                "publishTime": "2026-04-17T09:57:17Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "DI1i20A1ReuSy7_d2gnVJzLosho",
+            "etag": "TQtXNZLlIi15Kdz6woV3gPjP06Q",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "spTvUYe1nE4"
+                "videoId": "axWSoSeSsOQ"
             },
             "snippet": {
-                "publishedAt": "2024-08-09T14:32:28Z",
-                "channelId": "UCqm_0nbYT2FJbwq32HoUalw",
-                "title": "tag her💜.. #song #taubatauba #vickykaushal #love #couple #feed #lofi #aesthetic #shorts #status",
-                "description": "aesthetic #love #darshanraval #shortsviral #couplegoals #shortvideos #viralvideos #darshanreval # [ IMPORTANT NOTICE ] ...",
+                "publishedAt": "2024-04-19T13:34:07Z",
+                "channelId": "UCdehj30GUbrgKAQu53C76Mg",
+                "title": "DVJ SAM - 90&#39;s BOLLYWOOD NONSTOP - 07",
+                "description": "Tracklist: - 01. Koi Mil Gaya | Kuch Kuch Hota Hai - DJ Ravish & Chico - 0:00 02. Tan Tana Tan | Judwaa - DJ Abhijit - 02:31 03.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/spTvUYe1nE4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/axWSoSeSsOQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/spTvUYe1nE4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/axWSoSeSsOQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/spTvUYe1nE4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/axWSoSeSsOQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "AESTHETIX_LoVe",
+                "channelTitle": "Sam Spinz",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-08-09T14:32:28Z"
+                "publishTime": "2024-04-19T13:34:07Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "VPhrpndg5jPzaHXTAZLodgglqwk",
+            "etag": "8IioOmHKUvcl1FkmI7rBnMQ7d1g",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "53Uwg38jt4U"
+                "videoId": "d5Fqn_hFMFs"
             },
             "snippet": {
-                "publishedAt": "2022-08-20T04:13:41Z",
-                "channelId": "UCoaqgEluS5KtNuJNcvz2ftQ",
-                "title": "😏😘BABY BABY 👌💕 CLASS ROOM💕💕 LOVE 😏😘 LOFI REMIX 😏 NEW INTAGRAM REELS👌 VIEAL VIDEO STATUS💕😏",
-                "description": "BABY BABY CLASS ROOM     LOVE LOFI REMIX NEW INTAGRAM REELS   VIEAL VIDEO STATUS.",
+                "publishedAt": "2025-08-26T12:31:01Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90s Evergreen Hindi Songs | 90s Hits Hindi Songs | Hindi Gana | Purane Gane | 90s Love Songs Jukebox",
+                "description": "Relive the golden era of Bollywood with this 90s Evergreen Hindi Songs Jukebox ✨. From soulful romantic tracks to ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/53Uwg38jt4U/default.jpg",
+                        "url": "https://i.ytimg.com/vi/d5Fqn_hFMFs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/53Uwg38jt4U/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/d5Fqn_hFMFs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/53Uwg38jt4U/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/d5Fqn_hFMFs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Aman 07",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-08-20T04:13:41Z"
+                "publishTime": "2025-08-26T12:31:01Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "gfm_EKJagNukPKVmsHPG0Mroblk",
+            "etag": "IC6D3LVhrJUrGf1sT0gnloxJq00",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "vGddWSKfuP8"
+                "videoId": "lVw2NwPrciU"
             },
             "snippet": {
-                "publishedAt": "2024-08-28T12:19:57Z",
-                "channelId": "UCuqMwON5G8qNqrmhUKPXLqQ",
-                "title": "THISS !!??? #aesthetic #music #india #korea #kpop #kdrama #song #trending #viral #edit #hindi",
-                "description": "",
+                "publishedAt": "2026-06-06T03:30:10Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90&#39;s Evergreen Songs | 90&#39;s HIndi Sadabahar Songs | 90&#39;s Bollywood Songs | Hindi Gana | 90&#39;s Hits",
+                "description": "Relive the golden era of Bollywood with this beautiful collection of 90's Evergreen Songs. Enjoy timeless melodies, romantic hits, ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/vGddWSKfuP8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/lVw2NwPrciU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/vGddWSKfuP8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lVw2NwPrciU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/vGddWSKfuP8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lVw2NwPrciU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "𝘽𝙇𝘼𝘾𝙆 𝙎𝙒𝘼𝙉 🎀",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-08-28T12:19:57Z"
+                "publishTime": "2026-06-06T03:30:10Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "V0cwwpgvJB41aHiPSt2Pi_hotXk",
+            "etag": "ti4KDg9xapqJzii-luCqyf-og0Y",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "IJQZdFW0SNg"
+                "videoId": "9JJuXIi5YAU"
             },
             "snippet": {
-                "publishedAt": "2022-04-27T07:30:12Z",
-                "channelId": "UCwbyM842yO8vfi9HnSBc6Nw",
-                "title": "2 Hours of 😇Aesthetic Tamil Lofi | Indian Lofi | Songs to Chill Study Relax And Enjoy🌇🌇🌇",
-                "description": "enjoy Subscribe if possible Thanks for the love❤️ prod.ooratti:https://instagram.com/ooratti.official Discord ...",
+                "publishedAt": "2026-01-06T03:46:16Z",
+                "channelId": "UCwLMySZw8xKZ4VYxdsIZfdg",
+                "title": "90 S Old Hindi Songs💘 90s Love Song💘 Udit Narayan Alka Yagnik Kumar Sanu 🥰 Hindi Jukebox Songs",
+                "description": "90'S Old Hindi Songs   90s Love Song   Udit Narayan, Alka Yagnik, Kumar Sanu Hindi Jukebox Songs 90'S Old Hindi ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/IJQZdFW0SNg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/9JJuXIi5YAU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/IJQZdFW0SNg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9JJuXIi5YAU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/IJQZdFW0SNg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9JJuXIi5YAU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Ooratti",
+                "channelTitle": "KC Music Bhojpuri",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-04-27T07:30:12Z"
+                "publishTime": "2026-01-06T03:46:16Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "dBWn_Db1K8jaJUUSEuwQ0pS3q_A",
+            "etag": "6OLP51pRvT2GDm0Kp6fInb4xXcc",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Q-XAhkWrTww"
+                "videoId": "AqxzsB6bGOk"
             },
             "snippet": {
-                "publishedAt": "2024-09-30T12:29:00Z",
-                "channelId": "UC1DnIvDBxfWr7iT2uUK0FgA",
-                "title": "Ye tune kya kiya 😐✨ || whatsapp status || sad status || lofi songs || slowed reverb || #shorts #sad",
-                "description": "Ye tune kya kiya || whatsapp status || sad status || lofi songs || slowed reverb || #shorts #sad #shorts #ytshorts #slowedandreverb ...",
+                "publishedAt": "2026-04-23T02:30:09Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90&#39;s Romantic Songs | 90&#39;s  Evergreen Bollywood Love Songs | 90’s Superhit Romantic Songs",
+                "description": "Relive the golden era of Bollywood with this beautiful collection of 90's Romantic Songs, featuring the most loved Evergreen ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Q-XAhkWrTww/default.jpg",
+                        "url": "https://i.ytimg.com/vi/AqxzsB6bGOk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Q-XAhkWrTww/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/AqxzsB6bGOk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Q-XAhkWrTww/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/AqxzsB6bGOk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Pradeep aesthetic ",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-09-30T12:29:00Z"
+                "publishTime": "2026-04-23T02:30:09Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "4aHITGHV3usmUiGtXRlgZpIQXew",
+            "etag": "8kab4MCAQ_Oe03fAff0cnX1mn6A",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "tD9Yb8NRTOY"
+                "videoId": "63qrUOtRlWQ"
             },
             "snippet": {
-                "publishedAt": "2023-12-21T03:41:41Z",
-                "channelId": "UCdC6oZESfa_XolYDUTvRpAQ",
-                "title": "Unakku Thaan Lyrics {Translation} – Chithha | En Paarvai Unnodu | Andha Aruvi Pol Anbai",
-                "description": "",
+                "publishedAt": "2025-08-28T12:12:00Z",
+                "channelId": "UCkoxP0j3kvd06CaiuRWOxhw",
+                "title": "90&#39;s Songs That Feel Like You Are Playing Lead Role Ft. Shah Rukh Khan 🎬💖(+Timestamps)",
+                "description": "90's Songs That Feel Like You Are Playing Lead Role Ft. Shah Rukh Khan (+Timestamps) ✨ Relive the golden era of ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/tD9Yb8NRTOY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/63qrUOtRlWQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/tD9Yb8NRTOY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/63qrUOtRlWQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/tD9Yb8NRTOY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/63qrUOtRlWQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "MusicShort",
+                "channelTitle": "Pookie Vibes💗",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-12-21T03:41:41Z"
+                "publishTime": "2025-08-28T12:12:00Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "0zm9wEBmuV18zqS9Y5Xu3aAUglY",
+            "etag": "-V5z98ce5uR8npTZzS6ak-GlvVE",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "htAdCQhvi88"
+                "videoId": "LOTbALiWgQI"
             },
             "snippet": {
-                "publishedAt": "2024-11-29T12:47:45Z",
-                "channelId": "UCSCyiLrE_zZJJq4-QEGlqRg",
-                "title": "ChUtamalle Song ☺️❤️ | trending songs| #trending #enjoythesong",
-                "description": "ChUtamalle Song ☺️❤️ | trending songs| #trending #enjoythesong.",
+                "publishedAt": "2026-07-29T03:38:05Z",
+                "channelId": "UCxSF_fIMa5Ci1n2EyhBDKsw",
+                "title": "90s Evergreen Gaane | 90s Old Hindi Songs |90s Hits Hindi Songs |Purane Gane |90s Love Songs Jukebox",
+                "description": "90s Evergreen Gaane | 90s Old Hindi Songs |90s Hits Hindi Songs |Purane Gane |90s Love Songs Jukebox 00:00 Dil Pardesi Ho ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/htAdCQhvi88/default.jpg",
+                        "url": "https://i.ytimg.com/vi/LOTbALiWgQI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/htAdCQhvi88/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/LOTbALiWgQI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/htAdCQhvi88/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/LOTbALiWgQI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "lyricsShreya",
+                "channelTitle": "Hasu Mia",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-11-29T12:47:45Z"
+                "publishTime": "2026-07-29T03:38:05Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "tBWDrdbjV4Mtbd0v5XcGpscS-KY",
+            "etag": "JdYHtqXP8bh3eQ-ULjGFYYfXutA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "HM_OGtwR2jM"
+                "videoId": "RkCKMmNv4_Q"
             },
             "snippet": {
-                "publishedAt": "2023-11-11T22:18:20Z",
-                "channelId": "UC9b2TyzGRYwfJazwJ5bWdEA",
-                "title": "love - mashup (slowed+ reverb) Lo-fi songs 🎧🎧#slowedreverb #love #slowedandreverb #lofiremix #song .",
-                "description": "slowedandreverb #lovemashup #lofiremix #song #love mashup Bollywood song no copyright song #shubankar Non Stop Love ...",
+                "publishedAt": "2026-04-16T07:35:48Z",
+                "channelId": "UCBepjMYiqtq_u4ZFOEcEBzA",
+                "title": "90s Hits Playlist | Best 90s Music Playlist ~ back to 1990s throwback mix",
+                "description": "90s Hits Playlist | Best 90s Music Playlist ~ back to 1990s throwback mix 90s Hits Playlist | Best 90s Music Playlist ~ back to 1990s ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/HM_OGtwR2jM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/RkCKMmNv4_Q/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/HM_OGtwR2jM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/RkCKMmNv4_Q/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/HM_OGtwR2jM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/RkCKMmNv4_Q/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "shubankar 007",
+                "channelTitle": "Amazing Melody",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-11-11T22:18:20Z"
+                "publishTime": "2026-04-16T07:35:48Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "lp-TzF2tfGnS78nyBNHdgDeTMKQ",
+            "etag": "ZWGNxeqekU4WPR8RiVBDOUG0UYI",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "5wbyrwi8n8M"
+                "videoId": "rIUK1X56zdQ"
             },
             "snippet": {
-                "publishedAt": "2022-09-13T12:59:43Z",
-                "channelId": "UCP6cW7kaFfqtIR7-2Dhfeow",
-                "title": "𝙋𝙖𝙡 ✨💜 𝙨𝙡𝙤𝙬𝙚𝙙 𝙭 𝙧𝙚𝙫𝙚𝙧𝙗 (Arijit Singh &amp; Shreya Ghoshal) #palsong #arjitsingh #slowedandreverb",
-                "description": "palekpal #palsong #arjitsingh #shreyaghoshal #jalebisong #sonymusicindia #sonymusic #sonymusicindiavevo #pal ...",
+                "publishedAt": "2025-08-21T12:31:07Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90s Hits Hindi Songs | Hindi Gana | Sadabahar Hindi Gane | 90s Hindi Love Songs | Old Songs Jukebox",
+                "description": "Relive the golden era of Bollywood with the most loved 90s Hindi songs . From heart-touching romantic melodies to evergreen ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/5wbyrwi8n8M/default.jpg",
+                        "url": "https://i.ytimg.com/vi/rIUK1X56zdQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/5wbyrwi8n8M/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rIUK1X56zdQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/5wbyrwi8n8M/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rIUK1X56zdQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "twinklex lofi",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-09-13T12:59:43Z"
+                "publishTime": "2025-08-21T12:31:07Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "Gke1mo4lNCbEFyoHDaNFHuLRIe0",
+            "etag": "SJ2JyjxrUSm-TNqiPX33BtsCbLw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Xhz5nPrTclI"
+                "videoId": "ys5DfKU9Tyw"
             },
             "snippet": {
-                "publishedAt": "2024-08-02T16:30:06Z",
-                "channelId": "UC-UQ-q1_mvuHZndzaiJdxoQ",
-                "title": "Soulful Love Mashup - Viniick | Arijit Singh Songs | Arijit Singh Jukebox | Best of 2023",
-                "description": "Soulful Love Mashup Jukebox | Feel The Love Jukebox | Feelings of Love Jukebox - Viniick | Arijit Singh Songs | Arijit Singh ...",
+                "publishedAt": "2022-08-03T14:30:12Z",
+                "channelId": "UCFCr95tGcak51ZwG_qc3UtA",
+                "title": "1990s throwback mix ~nostalgia playlist",
+                "description": "what was your favourite song from 1990s? 1990s nostalgia playlist including hits from Robin S, Daft Punk, Dr Dre, Snoop Dog, ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Xhz5nPrTclI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ys5DfKU9Tyw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Xhz5nPrTclI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ys5DfKU9Tyw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Xhz5nPrTclI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ys5DfKU9Tyw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "VINIICK",
+                "channelTitle": "Roseate Music",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-08-02T16:30:06Z"
+                "publishTime": "2022-08-03T14:30:12Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "NRVJsl-6x0VzGUOzslTe9UO6KAk",
+            "etag": "vLB_cBs2xyBoHqXYojX19gWoziM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "tGr6lo3DPN0"
+                "videoId": "k06oqXkIPTQ"
             },
             "snippet": {
-                "publishedAt": "2023-05-05T05:30:12Z",
-                "channelId": "UCG0qIDDt9pspDsEhsqbQIyg",
-                "title": "Marathi X Hindi X English (TRIO MASHUP) LOFI || TJ 18 Beatz",
-                "description": "Prod By - TJ 18 Beatz √For Any Queries Email : tpawar854@gmail.com Instagram ...",
+                "publishedAt": "2025-10-25T12:31:05Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90s Romantic Love Songs | 90 Hits Hindi Songs | 90s Sadabahar Gane | 90s Purane Gane | Old Songs",
+                "description": "Relive the golden era of Bollywood with this collection of 90's Old Hindi Songs — a timeless blend of evergreen romantic hits and ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/tGr6lo3DPN0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/k06oqXkIPTQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/tGr6lo3DPN0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/k06oqXkIPTQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/tGr6lo3DPN0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/k06oqXkIPTQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "TJ 18 Beatz",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-05T05:30:12Z"
+                "publishTime": "2025-10-25T12:31:05Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "9JpUtKNV2-PQv9BM-B_DO1d2LN8",
+            "etag": "g5yPOeLTP3Sed9isunbuS9wUE_Y",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "CngWG3pWL9M"
+                "videoId": "m0tI0Yh1LQs"
             },
             "snippet": {
-                "publishedAt": "2025-03-22T16:51:52Z",
-                "channelId": "UCh7aocZezr9gnY0uh0uONVA",
-                "title": "NON STOP INSTAGRAM TRENDING LOVE MASHUP - Part 10 | PLAYLIST BY @lofi2307 | #instatrendingsongs",
-                "description": "Hello! Step into a world where timeless Bollywood melodies meet the soothing vibes of lo-fi magic. In this video, we've curated a ...",
+                "publishedAt": "2025-03-04T04:30:18Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "Non - Stop 90s Hits | Evergreen Romantic Hits | 90s Hits Hindi Songs | 90s Love Songs Jukebox",
+                "description": "Non-Stop 90s Hits – Relive the golden era of romance with these evergreen love songs! From soul-stirring melodies to timeless ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/CngWG3pWL9M/default.jpg",
+                        "url": "https://i.ytimg.com/vi/m0tI0Yh1LQs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/CngWG3pWL9M/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/m0tI0Yh1LQs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/CngWG3pWL9M/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/m0tI0Yh1LQs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Lo-fi 2307",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2025-03-22T16:51:52Z"
+                "publishTime": "2025-03-04T04:30:18Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "ZmYCTK-u8hzq9zhqrkT53-ruE5E",
+            "etag": "Z9E1VXFk0uZbgAoxf3k9Gg9Ac9Q",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "0qjFS1xIB2g"
+                "videoId": "ZYpGHbhexTo"
             },
             "snippet": {
-                "publishedAt": "2024-12-26T07:08:55Z",
-                "channelId": "UCdrnQbhjSv9tEU2uc8iFh7Q",
-                "title": "Top 6 Most Viral South Indian Songs of 2024 #southindiansongs",
-                "description": "songs.",
+                "publishedAt": "2026-07-20T02:45:21Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90&#39;s सदाबहार पुराने गाने | Hindi Gana | Hindi Songs | 90&#39;s Evergreen Songs | Sadabahar Gaane",
+                "description": "Step back into the golden era of Bollywood with this beautiful collection of 90's Sadabahar Purane Gaane. This audio jukebox ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/0qjFS1xIB2g/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ZYpGHbhexTo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/0qjFS1xIB2g/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ZYpGHbhexTo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/0qjFS1xIB2g/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ZYpGHbhexTo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "RRH  Ashraful",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-12-26T07:08:55Z"
+                "publishTime": "2026-07-20T02:45:21Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "kBwDrWE6o0SruYYsXSoQTDH0RSQ",
+            "etag": "Ub0kj-iWCgq8hbF5VMqff4GC0us",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "fYR6T-7EEXs"
+                "videoId": "4Kg42zeIDj0"
             },
             "snippet": {
-                "publishedAt": "2024-09-17T03:39:00Z",
-                "channelId": "UCpFD79VYtcX7_sjPEiXqGTw",
-                "title": "Kamar Up Kamar Down |#bhojpuri #lofi #song #love #status #video #trending #shorts #viralvideo",
-                "description": "Kamar Up Kamar Down | Bhojpuri Lofi Song and Status Video.",
+                "publishedAt": "2026-03-13T06:52:32Z",
+                "channelId": "UC1JYg0PN2orAobA5S0CgEjA",
+                "title": "हिंदी सदाबहार गाने | Old Is Gold | Old Songs | Old is Gold | Sadabahar Gaane | Evergreen Hindi Songs",
+                "description": "हिंदी सदाबहार गाने | Old Is Gold | Old Songs | Old is Gold | Sadabahar Gaane | Evergreen Hindi Songs ये ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/fYR6T-7EEXs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/4Kg42zeIDj0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/fYR6T-7EEXs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/4Kg42zeIDj0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/fYR6T-7EEXs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/4Kg42zeIDj0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Mîñîx_Roy",
+                "channelTitle": "Shruti Bhajan Ras",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-09-17T03:39:00Z"
+                "publishTime": "2026-03-13T06:52:32Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "Bvn1UOFUYMQ2Zo1lVc6TPJbAh0c",
+            "etag": "AmIi0qlrO1-a2aRCjG8Qgd42070",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "jEAkpn_IdOs"
+                "videoId": "rqh2N1g1gDU"
             },
             "snippet": {
-                "publishedAt": "2022-06-27T11:41:14Z",
-                "channelId": "UCf6QeLRYvCQ-dBX8Aq1l4vA",
-                "title": "Hindi Song lyrics Artistic status | lofi song status | WhatsApp status | #shorts #shortvideo #viral",
-                "description": "Hello Guyz : I hope you enjoy this video please Subscribe my Channel Fahim Edits || *Copyright Description Under Section 107 of ...",
+                "publishedAt": "2026-02-18T11:01:27Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90s Love Songs | 90s Evergreen Songs | 90s Hits Hindi Songs | 90s Purane Gane | Old Songs Jukebox",
+                "description": "Relive the golden era of Bollywood with the most beautiful 90s Love Songs & Evergreen Hindi Hits. Stay updated with the latest ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/jEAkpn_IdOs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/rqh2N1g1gDU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/jEAkpn_IdOs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rqh2N1g1gDU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/jEAkpn_IdOs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rqh2N1g1gDU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Fahim Edits",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-06-27T11:41:14Z"
+                "publishTime": "2026-02-18T11:01:27Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "3TcZd-k-lCOETd-DDK_K4HwPd1M",
+            "etag": "xh83Gfl5pMzanI0kgn6gwJm80dw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "-jdQvKhWtFo"
+                "videoId": "sagQfpsnVao"
             },
             "snippet": {
-                "publishedAt": "2023-08-03T08:15:52Z",
-                "channelId": "UCCOR_s3VgYN8t1943K2HP7g",
-                "title": "I love these 4 songs! #mashup #flowers #barbie",
-                "description": "",
+                "publishedAt": "2026-03-27T14:00:06Z",
+                "channelId": "UC0lzMWW_6Dp2iuIXnpNPkow",
+                "title": "90s HIP HOP CLUB THROWBACK MIX | LIVE DJ MIX by DJ Kevanator | #90s",
+                "description": "90s HIP HOP CLUB THROWBACK MIX | LIVE DJ MIX | Best of 90s Hip Hop | Top 40s 90s, 90s Hip Hop, Top 90s Throwback Hits, ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/-jdQvKhWtFo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/sagQfpsnVao/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/-jdQvKhWtFo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sagQfpsnVao/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/-jdQvKhWtFo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sagQfpsnVao/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Mariyam Kisat",
+                "channelTitle": "DJ Kevanator",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-08-03T08:15:52Z"
+                "publishTime": "2026-03-27T14:00:06Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "MLthjzJUcHkKrzWxceDKEc-PuC8",
+            "etag": "fhm_sAb3HBcPM7AKxvVHGMvxfrA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "5QI46m63YFs"
+                "videoId": "IvtDj2XNnOA"
             },
             "snippet": {
-                "publishedAt": "2022-10-31T11:30:01Z",
-                "channelId": "UCVCuHy9eoIGu4eWiPq1u8ig",
-                "title": "Tujhme Khoya Rahu 💞 Arijit Singh Slowed And Reverb | Lofi Song | Lofi Efx WhatsApp Status 🥀💫 #lofi",
-                "description": "4k Full Screen Whats App Status || Aesthetic ✨ || Lo-fi song (Slow & Reverb) || #shorts ...",
+                "publishedAt": "2020-12-10T06:30:02Z",
+                "channelId": "UCWi_65E_L8tQZ34C6wVAlpQ",
+                "title": "90&#39;s Golden Hits | Kumar Sanu, Alka Yagnik &amp; Udit Narayan | Hindi Love Songs | #Bollywood",
+                "description": "90's Golden Hits | Kumar Sanu, Alka Yagnik & Udit Narayan |90's Evergreen Romantic Songs Collections #90sgoldenhits ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/5QI46m63YFs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/IvtDj2XNnOA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/5QI46m63YFs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IvtDj2XNnOA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/5QI46m63YFs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/IvtDj2XNnOA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Bk Mastermind",
+                "channelTitle": "Ishtar Music",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-10-31T11:30:01Z"
+                "publishTime": "2020-12-10T06:30:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "_9e3IeFDaoZMSurv6uA-Ce2W-VA",
+            "etag": "0momDU5A5Fzkv8CATMvZvVuAaiY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "1nYFfUuMQY4"
+                "videoId": "ur0v79EOSKk"
             },
             "snippet": {
-                "publishedAt": "2024-10-02T08:57:07Z",
-                "channelId": "UCJj4PBZxkWWo7P1qBJkbJmw",
-                "title": "Lofi 🥵 #bhojpurisong #dance #lofi #lofimusic #trending #shorts #ytshorts #reels #bhojpuri",
-                "description": "",
+                "publishedAt": "2025-09-06T19:51:07Z",
+                "channelId": "UCv9_d2F_pULb7NZAtW48Bow",
+                "title": "Old Skool Dance Megamix (90s Classics) | 3.5 Hours Non-Stop Club Anthems | Roll On Square Mix",
+                "description": "Relive the golden age of 90s dance with the Old Skool Dance Megamix (Roll On Square) — over 3.5 hours of nonstop club ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/1nYFfUuMQY4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ur0v79EOSKk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/1nYFfUuMQY4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ur0v79EOSKk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/1nYFfUuMQY4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ur0v79EOSKk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "idschintu91",
+                "channelTitle": "Roll on square",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-10-02T08:57:07Z"
+                "publishTime": "2025-09-06T19:51:07Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "2JEYufdBo1Dg2fsKisGS7ncIYVc",
+            "etag": "5McGP_en-FyggnB5CI4M-SYRfxQ",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "oI3bGCXeBw8"
+                "videoId": "JsOaazm1Os4"
             },
             "snippet": {
-                "publishedAt": "2024-10-02T23:48:27Z",
-                "channelId": "UCJj4PBZxkWWo7P1qBJkbJmw",
-                "title": "Lofi 🥵.. #dance #bhojpurisong #lofi #bhojpuri #shoot #shorts #trending #ytshorts #neelkamalsingh",
-                "description": "",
+                "publishedAt": "2023-12-20T12:30:17Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "Govinda 90&#39;s Hits | Video Jukebox | Romantic Love Songs | 90&#39;s Love Songs | Best Of Govinda",
+                "description": "Relive the 90s era of Bollywood with the ultimate Govinda 90's Hits Video Jukebox! Stay updated with the latest videos from Tips ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/oI3bGCXeBw8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/JsOaazm1Os4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/oI3bGCXeBw8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/JsOaazm1Os4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/oI3bGCXeBw8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/JsOaazm1Os4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "idschintu91",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-10-02T23:48:27Z"
+                "publishTime": "2023-12-20T12:30:17Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "Zk4VCi1RV8p22fwv--dP5_BPzt0",
+            "etag": "DVKHChz0vDVWPcb4D3aQYfpFzgs",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "nq_rpWL0rX0"
+                "videoId": "Y66uR-Kfi-M"
             },
             "snippet": {
-                "publishedAt": "2022-07-26T12:01:36Z",
-                "channelId": "UCISYB7cBQIP5I6ilCrDGNaQ",
-                "title": "8 Parche [Lofi Song] Baani Sandhu | Slowed + Reverb | 8D Audio | Bollywood Lofi Song | Punjabi Songs",
-                "description": "8 Parche [Lofi Song] Baani Sandhu | Slowed + Reverb | 8D Audio | Bollywood Lofi Song | Punjabi Songs Presenting you.",
+                "publishedAt": "2025-02-01T03:30:17Z",
+                "channelId": "UCA4ecKiyFW71Br7WU-Bcy_g",
+                "title": "90s Romantic Song | 90s Songs Forever | Best Of Udit Narayan, Alka Yagnik, Kumar Sanu Songs",
+                "description": "90s Romantic Song | 90s Songs Forever | Best Of Udit Narayan, Alka Yagnik, Kumar Sanu Songs Song Listing - Dil Jaane Jigar ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/nq_rpWL0rX0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Y66uR-Kfi-M/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/nq_rpWL0rX0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Y66uR-Kfi-M/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/nq_rpWL0rX0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Y66uR-Kfi-M/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Grooveify",
+                "channelTitle": "Nadeem Shravan Songs",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-07-26T12:01:36Z"
+                "publishTime": "2025-02-01T03:30:17Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "jylsy4fsvr4kHYjNAQrGaZuFtT0",
+            "etag": "ZM6ooKEyMnLNwlQoYb7emqEKYHE",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "ZSZ6CggUz7I"
+                "videoId": "ox2ScaPXDcg"
             },
             "snippet": {
-                "publishedAt": "2022-05-22T07:44:07Z",
-                "channelId": "UCt7Sf4tbLmy5elgYavnUqGw",
-                "title": "Blue eyes lofi remix | #yoyohoneysingh #tmtstudioindia #shorts #trending #tmtians #dance",
-                "description": "",
+                "publishedAt": "2025-10-18T04:30:27Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90&#39;s Ke Superhits Romantic Gaane | Bollywood Hindi Songs | HIndi Sadabahar Bollywood Jukebox",
+                "description": "Take a musical journey back to the golden decade of Bollywood with 90's Ke Superhit Romantic Gaane — a soulful collection of ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ZSZ6CggUz7I/default.jpg",
+                        "url": "https://i.ytimg.com/vi/ox2ScaPXDcg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ZSZ6CggUz7I/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ox2ScaPXDcg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ZSZ6CggUz7I/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/ox2ScaPXDcg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "TMT INDIA",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-05-22T07:44:07Z"
+                "publishTime": "2025-10-18T04:30:27Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "LEm8t3lJZtmCv3Kh6ooVD9vrE40",
+            "etag": "acDuDqXkuPcFBujAyWTszKwOd38",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "J-eVqMsDWxo"
+                "videoId": "-k-aKZH5wmI"
             },
             "snippet": {
-                "publishedAt": "2023-01-22T05:28:18Z",
-                "channelId": "UCUjcYyWupkiTzxKbdwCOpIQ",
-                "title": "Chammak Chalo😘Lofi Mix❤velocityedit😍All in one 😚 #shorts #viralvideo #velocityedit #viralshorts",
-                "description": "Chammak Chalo  Lofi Mix❤velocityedit  All in one #shorts #viralvideo #velocityedit #viralshorts #trendingshorts chammak ...",
+                "publishedAt": "2025-09-16T08:00:01Z",
+                "channelId": "UCJrDMFOdv1I2k8n9oK_V21w",
+                "title": "90s Romantic Songs | Hindi Gane | 90s Hits Hindi Songs | Old Hindi Songs |Sadabahar Song, Love Songs",
+                "description": "Lose yourself in the magic of 90s Romantic Songs – the era of true love and timeless melodies! From Hindi Gane to Old Hindi ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/J-eVqMsDWxo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/-k-aKZH5wmI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/J-eVqMsDWxo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-k-aKZH5wmI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/J-eVqMsDWxo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-k-aKZH5wmI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "ASHISH19",
+                "channelTitle": "Tips Official",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-01-22T05:28:18Z"
-            }
-        },
-
-        {
-            "kind": "youtube#searchResult",
-            "etag": "TB-vkUqMnLwN5cMAIUbVIz9rEXc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "pEaY7tryLXM"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-28T13:18:52Z",
-                "channelId": "UCEpfZ9_eBpl_U3HncmzEzAA",
-                "title": "Raanjhana Ve (Slowed + Reverb) | Soham Naik | Uddipan &amp; Sonu | Lofi Love Song.#TIMES MUSIC INDIA",
-                "description": "All Credit Goes To The Original Song Artist !!! © Copyright disclaimer Copyright ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/pEaY7tryLXM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/pEaY7tryLXM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/pEaY7tryLXM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "SECTOR-AS 2.0",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-28T13:18:52Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "zUoKD4L3vjgXePfNJ1qRQB228ZY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ibdmlv_kItU"
-            },
-            "snippet": {
-                "publishedAt": "2022-10-08T12:03:12Z",
-                "channelId": "UCnoaT7y3rM-zbIn6NdVxJ_A",
-                "title": "Kannada Lofi Songs [Slowed + Reverb] | 60 Mins Of Lofi kannada Music | Lofi Mix Tape",
-                "description": "Support  : Please subscribe and follow us on social media to help us grow. --- Content of this video ---- 00:00 - Preethse Anta ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ibdmlv_kItU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ibdmlv_kItU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ibdmlv_kItU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "lofi Indian",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-10-08T12:03:12Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "LjXUAWXaniB0t1Slpd9kLqOzwl4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "WWz7tW8pbJg"
-            },
-            "snippet": {
-                "publishedAt": "2022-04-28T15:08:03Z",
-                "channelId": "UCKLaPDwCLC1XJnwddqh6N0Q",
-                "title": "Barso re ♥️✨ #shorts",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/WWz7tW8pbJg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/WWz7tW8pbJg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/WWz7tW8pbJg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Noor Afshan",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-04-28T15:08:03Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "aepsWUbP3zrD-IYcLUSPrz5cKb4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "LPeZOE8ZIHI"
-            },
-            "snippet": {
-                "publishedAt": "2019-04-17T13:20:37Z",
-                "channelId": "UCpJ3VZb16uJFSmQyEQQ9Xlg",
-                "title": "Inkem Inkem Full Video Song | Vijay Devarakonda, Rashmika Mandanna | Geetha Govindam | Sid Sriram",
-                "description": "Aditya Music Telugu presents the soulful melody “InkemInkem” from the movie “GeethaGovindam”. Starring the RowdyBoy ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/LPeZOE8ZIHI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/LPeZOE8ZIHI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/LPeZOE8ZIHI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aditya Music PLAYBACK",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-04-17T13:20:37Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "MkE61ubZUM7X9rF_eFPJINP5JPg",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "LSZywPA_UdA"
-            },
-            "snippet": {
-                "publishedAt": "2025-05-08T08:00:30Z",
-                "channelId": "UC8Y3votUz8aBhod7TIuSxLw",
-                "title": "South indian songs to post on your Insta stories 💫🤌✨❤️.          #south #song #shorts #explore",
-                "description": "Songs to add on Instagram story Songs to add on your photo Trending song Best song Traditional story song Girls or boys song ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/LSZywPA_UdA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/LSZywPA_UdA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/LSZywPA_UdA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lix",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-05-08T08:00:30Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "JrgSZJDY3YfSrt511wC_Ms6qVQs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "E7ww8Xowydc"
-            },
-            "snippet": {
-                "publishedAt": "2024-03-25T04:29:59Z",
-                "channelId": "UCNApqoVYJbYSrni4YsbXzyQ",
-                "title": "Anuvanuvuu Lyrical (Telugu) | Om Bheem Bush | Sree Vishnu| Arijit Singh | Harsha Konuganti |Sunny MR",
-                "description": "Get ready to groove to this beautiful soulful track “#Anuvanuvuu” from the movie \"#OmBheemBush\", Starring #SreeVishnu, ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/E7ww8Xowydc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/E7ww8Xowydc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/E7ww8Xowydc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aditya Music",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-03-25T04:29:59Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "nQGsNFD_V-b8GPgqG6f87pfBTOU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "wq-8FU9F3sY"
-            },
-            "snippet": {
-                "publishedAt": "2024-11-04T06:10:27Z",
-                "channelId": "UCNzWdOR3LmXsqxyITPU_KmA",
-                "title": "Miss world for many reasons 👑💗 #bollywood #music #edit #trendingshorts #love #song #aishwaryarai",
-                "description": "Aishwarya Rai Without makeup Miss world For many reasons.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/wq-8FU9F3sY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/wq-8FU9F3sY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/wq-8FU9F3sY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "aayanxbollywood",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-11-04T06:10:27Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "auDyUAXOHhUq2V6NRDZ5NAPydDY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "VHafEKZDY7I"
-            },
-            "snippet": {
-                "publishedAt": "2024-06-30T16:52:57Z",
-                "channelId": "UC-8LRJdrgn0NMaGPTnJp5IA",
-                "title": "South Indian desi edit audios you&#39;ve been craving for🌸✨",
-                "description": "Hello dears :) Welcome to our channel!! Disclaimer : I do not own any audio edits and pictures used in the video. Full credits to the ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/VHafEKZDY7I/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/VHafEKZDY7I/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/VHafEKZDY7I/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aesthetic🎧",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-06-30T16:52:57Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "eWUXlNGJ8UP6DUmYE8kR-xpaRq8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Ct3sPsY6ozU"
-            },
-            "snippet": {
-                "publishedAt": "2024-09-23T14:29:04Z",
-                "channelId": "UCsdb839LVm9ULgsxT2oYYYg",
-                "title": "Manasilayoo❤️ #love #tamil #song #tamilsong #music #anirudh #sathyasabarish",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Ct3sPsY6ozU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Ct3sPsY6ozU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Ct3sPsY6ozU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Sathya Sabarish ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-09-23T14:29:04Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "5VudFtduY1DwEQdBbqvLqWVcH0Y",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "MNcpJr0HhMI"
-            },
-            "snippet": {
-                "publishedAt": "2023-01-08T09:43:36Z",
-                "channelId": "UCemU36X0XMixNKYgl2LnH8g",
-                "title": " Gucci Song ❤️✨ Dance Status Beautiful Girl Status #shorts #short #trending 🔥🔥",
-                "description": "Gucci Song ❤️✨ Dance Status Beautiful Girl Status #shorts #short #trending #gucci #trending #shorts #aesthetic ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/MNcpJr0HhMI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/MNcpJr0HhMI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/MNcpJr0HhMI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Mr Prince 529",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-01-08T09:43:36Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "NacGlIUu7yW9viPZwOu7mXjPPlQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "YlXb4KlzT6k"
-            },
-            "snippet": {
-                "publishedAt": "2025-04-20T15:00:06Z",
-                "channelId": "UCY8biiNl8NXo3lKoTKvH2vg",
-                "title": "Tamil Study Mix | Tamil Covers, BGMs, Instrumentals, Lofi, WFH Mix | Sonix inHouse",
-                "description": "Sonix inHouse – DJ sets shining a spotlight on the best of Tamil music, blending iconic tracks with the latest independent sounds ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/YlXb4KlzT6k/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/YlXb4KlzT6k/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/YlXb4KlzT6k/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Sonix House",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-04-20T15:00:06Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "XFWsLh1n01CRXmPHhNosZaD9cEY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ExRwH5B1OjU"
-            },
-            "snippet": {
-                "publishedAt": "2025-01-28T09:25:53Z",
-                "channelId": "UCdzsTiZ6QX376HOhCyTxEFg",
-                "title": "O&#39; Meri Laila LYRICS ♥️",
-                "description": "O meri Laila lyrics O meri Laila song lyrics #hindisong #music #trending #love.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ExRwH5B1OjU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ExRwH5B1OjU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ExRwH5B1OjU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Melodic Muse 🎶",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-01-28T09:25:53Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "do7r0fZQn2bs9kTQ7UKby5tYi4w",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "aNN--9wrSgY"
-            },
-            "snippet": {
-                "publishedAt": "2024-04-13T02:30:07Z",
-                "channelId": "UCfAI7E7zUUTI1SXrhXy3CMQ",
-                "title": "Best Of KK Jukebox | Best Bollywood Songs Of KK Hits Songs | Tribute To KK | AK Relax Music",
-                "description": "Best Of KK Jukebox | Best Bollywood Songs Of KK Hits Songs | Tribute To KK | AK Relax Music ▻ Better Sound Quality ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/aNN--9wrSgY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/aNN--9wrSgY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/aNN--9wrSgY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "ABT Lofi Music",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-04-13T02:30:07Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "tedl7-1Kx_LKDVw1lcDkNvbvo_o",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "g-sIAkJFP60"
-            },
-            "snippet": {
-                "publishedAt": "2025-02-05T16:48:52Z",
-                "channelId": "UCLXKDGpM9PipNG2n2h4X1Hg",
-                "title": "Top 10 Sad Songs in india #sad #broken #lofi #ringtone",
-                "description": "Top 10 Sad Songs in india #sad #broken #lofi #ringtones ‎@Bestsadsongss Top 10 Sad Songs in india #sad #broken #lofi ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/g-sIAkJFP60/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/g-sIAkJFP60/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/g-sIAkJFP60/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Vaani Drishti ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-02-05T16:48:52Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "h93t4Hq9y5L3m_q2KljYGSWFwx8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "KxvTNbkLWSw"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-14T12:30:09Z",
-                "channelId": "UCpIztNUhTBP42GZeUUAyQKg",
-                "title": "Bollywood x Hollywood LOFI Mashups | Non-Stop JukeBox | MSM",
-                "description": "Hindi x English LOFI Mashups | Non-Stop JukeBox | MSM ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/KxvTNbkLWSw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/KxvTNbkLWSw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/KxvTNbkLWSw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "MSM",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-14T12:30:09Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Ed9CfwPXKxAwCltRZZCs3ilmIfA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "dWeOPMNGI1A"
-            },
-            "snippet": {
-                "publishedAt": "2023-03-26T09:49:57Z",
-                "channelId": "UCj3T7oFD-9GddWyj_9b5qhQ",
-                "title": "who&#39;s your favorite ?? #bts #arijitsingh #shorts",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/dWeOPMNGI1A/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/dWeOPMNGI1A/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/dWeOPMNGI1A/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "🦋BTS funny moments with dipa🦋",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-03-26T09:49:57Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "JnA7SVpavfiviNMHzbeX0hpiOHg",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ynlKkJ7lChc"
-            },
-            "snippet": {
-                "publishedAt": "2024-11-13T15:10:01Z",
-                "channelId": "UCDLXKjBJVkd9FUgihrslmcg",
-                "title": "Chanakya | Atharva x Stereo India",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ynlKkJ7lChc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ynlKkJ7lChc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ynlKkJ7lChc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Stereo India",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-11-13T15:10:01Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "csBnjVZ_25dMEvvX8ZSxAwu0_z4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "lkPI-45gxBw"
-            },
-            "snippet": {
-                "publishedAt": "2018-07-30T12:30:01Z",
-                "channelId": "UCLbdVvreihwZRL6kwuEUYsA",
-                "title": "96 Songs| Kaathalae Kaathalae Song | Vijay Sethupathi, Trisha | Govind Vasantha | C. Prem Kumar",
-                "description": "\"USE HEADPHONES FOR BEST EXPERIENCE\" 96 Movie | #KaathalaeKaathalae Song | #VijaySethupathi, #Trisha ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/lkPI-45gxBw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/lkPI-45gxBw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/lkPI-45gxBw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Think Music India",
-                "liveBroadcastContent": "none",
-                "publishTime": "2018-07-30T12:30:01Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "bII6vBL7vLyB2JKtBXuDjN6Q_v4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "MMeJf7h0QlE"
-            },
-            "snippet": {
-                "publishedAt": "2024-11-30T14:28:05Z",
-                "channelId": "UCnj-ZjmA35-r0TlcA8wVWlg",
-                "title": "Dekhne Walon Ne song [slowed reverb] lofi music Argit sing",
-                "description": "Dekhne Walon Ne song [slowed reverb] lofi music Argit sing #dekhnewalonnesong #dekhnewalonnesongreaction ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/MMeJf7h0QlE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/MMeJf7h0QlE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/MMeJf7h0QlE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Manish Zx",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-11-30T14:28:05Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "x4pEilKSu7Tqrn5AlVTlkoJkRiE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "5LUDzDZypRw"
-            },
-            "snippet": {
-                "publishedAt": "2025-02-07T12:37:19Z",
-                "channelId": "UCYyfGddqMkkGeBQpQxlw1Fg",
-                "title": "Tere Bina - Guru | Dance Cover by KRIS #roseday #ytshorts",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/5LUDzDZypRw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/5LUDzDZypRw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/5LUDzDZypRw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "kristhetic",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-02-07T12:37:19Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "TkBJ4D4n7YMbxod2Uo81dTMJDeI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "0FosZtpwLIo"
-            },
-            "snippet": {
-                "publishedAt": "2023-05-01T11:54:59Z",
-                "channelId": "UCdMET0f17bIuxPLC6ElV6Xw",
-                "title": "Saat Samundar Paar [Slowed + Reverb])| Sadhana Sargam Lo-fi Song |#music#shorts #viral #lofi#1lyrics",
-                "description": "Saat Samundar - Reprise | [Slowed And Reverb] Lyrics Song | Old Feelings.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/0FosZtpwLIo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/0FosZtpwLIo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/0FosZtpwLIo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "S2 Edit TIKTOK",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-05-01T11:54:59Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "-XpbbLUB3F9o4dKfxIpXPg4Dvyc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "CISVK9ee8w0"
-            },
-            "snippet": {
-                "publishedAt": "2025-01-06T10:17:17Z",
-                "channelId": "UCR_6NIzkHoT3W1AXF5YGReQ",
-                "title": "Bardali song edit with Korean cute boy 💜💜💜💜💜💜",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CISVK9ee8w0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CISVK9ee8w0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CISVK9ee8w0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "@afia925💜",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-01-06T10:17:17Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "btN6h6Ou9HWWa2GcO-m_uf8avkU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Zq0TxF9kDaA"
-            },
-            "snippet": {
-                "publishedAt": "2022-09-12T09:29:51Z",
-                "channelId": "UCElUk3tRh3uy5VWVbwu2r0w",
-                "title": "kim taehyung new WhatsApp status video in Hindi song #short #armyeditbts #btsshort #kimtaehyung",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Zq0TxF9kDaA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Zq0TxF9kDaA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Zq0TxF9kDaA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "𒆜ǟʀʍʏ ɛɖɨȶ ɮȶֆ 𒆜",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-09-12T09:29:51Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "TdwPMb62FPDMBx72e7Q1jAVyeDo",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Alaqr0CtAbE"
-            },
-            "snippet": {
-                "publishedAt": "2023-05-10T08:22:48Z",
-                "channelId": "UC9E1YwdBlglxECUACsERa6w",
-                "title": "Sigma Rules [ Slowed + Reverb ] Bad Boys Attitude Song || Lofi Songs || Abhi&#39;s Music video",
-                "description": "Sigma Rules [ Slowed + Reverb ] Bad Boys Attitude Song || Lofi Songs || Abhi's MusicDescription Sigma Rules [ Slowed + Reverb ] ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Alaqr0CtAbE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Alaqr0CtAbE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Alaqr0CtAbE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "N_R_C_SONATAN",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-05-10T08:22:48Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "jBBzc2WnEw8_WOzzzAJajCms2eA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "t66AW9w6Umc"
-            },
-            "snippet": {
-                "publishedAt": "2024-03-01T11:51:33Z",
-                "channelId": "UCvOD_nMFD51DF6L5omoDB-Q",
-                "title": "You and me (shubh) with(sonam bajawa) slowed reverb status lofi songs #trending #shorts #punjabi",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/t66AW9w6Umc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/t66AW9w6Umc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/t66AW9w6Umc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "JASS_X_EDITS",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-03-01T11:51:33Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "h7OwV6SQ2Qa0kXdozSoyugPFxkE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "to3Ufb5qsSM"
-            },
-            "snippet": {
-                "publishedAt": "2025-03-30T11:30:39Z",
-                "channelId": "UCzsVzi1Dhwsqk6QnlY2BRBA",
-                "title": "Aasa kooda × kamatchi | remix | trending | lyrics | Tamil songs | edit | #trendingsong #tamil #viral",
-                "description": "lyrics #tamilsong #shorts #trending #lyricvideos #trendingshorts #lyrics #whatsappstatus #trendingvideo #status #newvideo ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/to3Ufb5qsSM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/to3Ufb5qsSM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/to3Ufb5qsSM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "The Shadow ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-03-30T11:30:39Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "vL7tErQZ6CLSRTKcXZldQrBnl6I",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "hiYTKnNVokY"
-            },
-            "snippet": {
-                "publishedAt": "2025-04-14T14:01:03Z",
-                "channelId": "UCwPBBmX5SiH0wNwCghnp25Q",
-                "title": "Best South Indian songs you can vibe with 😭❤️.    #bktalks",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/hiYTKnNVokY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/hiYTKnNVokY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/hiYTKnNVokY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "BK Talks",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-04-14T14:01:03Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "FsaEBgVkR37hjDWezNWriQcQH9M",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "PEPLKq1EZ9Q"
-            },
-            "snippet": {
-                "publishedAt": "2024-08-23T03:39:00Z",
-                "channelId": "UCpFD79VYtcX7_sjPEiXqGTw",
-                "title": "South Ke Hero Wala Look Rakhela | #bhojpuri #lofi #song #trending #shorts #status #video",
-                "description": "South Ke Hero Wala Look Rakhela || Bhojpuri Lofi Song and Status Video.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/PEPLKq1EZ9Q/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/PEPLKq1EZ9Q/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/PEPLKq1EZ9Q/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Mîñîx_Roy",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-08-23T03:39:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "kRbDOqFm6J4rFzLJgTdYAmyYDX8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "jarG-OAZTSY"
-            },
-            "snippet": {
-                "publishedAt": "2024-09-29T10:57:52Z",
-                "channelId": "UCOia6mfQhhQLMxp2fVNXIhA",
-                "title": "New Korean Mix Hindi Song 2024 💗 Chinese Mix Hindi Song💗 Korean Drama #kpop #kdrama",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/jarG-OAZTSY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/jarG-OAZTSY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/jarG-OAZTSY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lofi Vibes",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-09-29T10:57:52Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "7we2cSLbhWKqeR3r7Qusx1qPGSg",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "7n9OJTNchhQ"
-            },
-            "snippet": {
-                "publishedAt": "2021-09-20T03:37:12Z",
-                "channelId": "UC7gNi5naZRJdOE2390o3ckw",
-                "title": "🤤Lofi song whatsapp status💔||aesthetic video🥺||sad status for couples🌇||#shorts#love#youtube#videos",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/7n9OJTNchhQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/7n9OJTNchhQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/7n9OJTNchhQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "2D CREATIONS",
-                "liveBroadcastContent": "none",
-                "publishTime": "2021-09-20T03:37:12Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "fAewbUwh6T0Dm-yaB3XxlDQKbkg",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "AB2ACJ22fhY"
-            },
-            "snippet": {
-                "publishedAt": "2015-11-17T09:00:32Z",
-                "channelId": "UCjfsSezSDOOzF4B5IFHD2WQ",
-                "title": "Snehithane Cover (Alaipayuthe) - Masala Coffee  -",
-                "description": "Original Composition by A R Rahman Rearranged,Produced & Performed By Masala Coffee ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/AB2ACJ22fhY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/AB2ACJ22fhY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/AB2ACJ22fhY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Masala Coffee",
-                "liveBroadcastContent": "none",
-                "publishTime": "2015-11-17T09:00:32Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "t1OUP4_d7zn_atqozSr3BkFrPo4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "r3fX_u41xGs"
-            },
-            "snippet": {
-                "publishedAt": "2022-02-17T04:30:05Z",
-                "channelId": "UCeDLdGv-fBJyfkcobur8Ttw",
-                "title": "🎧Feel this song❣️✨ trending english lofi songs slowed reverb 4k aesthetic love whatsapp status video",
-                "description": "lofi songs slowed and reverb songs slowed and reverb lofi lofi song aesthetic songs english lofi songs english songs slowed and ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/r3fX_u41xGs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/r3fX_u41xGs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/r3fX_u41xGs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "RyaanEdits",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-02-17T04:30:05Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "mV6-P_UXj-InqbR76elIcDqFpcM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "8spJ7We69PA"
-            },
-            "snippet": {
-                "publishedAt": "2024-08-24T02:04:59Z",
-                "channelId": "UCz7QSlcrK3J4KSkyzOJuxZw",
-                "title": "Sun Saathiya ••..#sunsaathiya #shraddhakapoor",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/8spJ7We69PA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/8spJ7We69PA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/8spJ7We69PA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "TLM20",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-08-24T02:04:59Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "IriAx1j4n2kCj9ZHdstpr5yXfVs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "wpRrUSMQ7hU"
-            },
-            "snippet": {
-                "publishedAt": "2024-10-15T17:37:04Z",
-                "channelId": "UCuh4u1YfVIdz1Ba19nmpGCg",
-                "title": "Self-love Era 🧿 #enjoy #love #song #yt #ytshorts #youtubeshorts #selflove #masti #lovesongs #yt",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/wpRrUSMQ7hU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/wpRrUSMQ7hU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/wpRrUSMQ7hU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Soulful Lofi",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-10-15T17:37:04Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "rBZaxk_oPRH2eXTcT6Un52fyd1k",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "A_uL6zxsXq4"
-            },
-            "snippet": {
-                "publishedAt": "2024-07-17T12:01:59Z",
-                "channelId": "UCsNg5j-JueJtiktNI6ZWGUA",
-                "title": "This song✨#lyrics #lyrical #foryou #feed #vibes #aesthetic #wishes #samjhona #hindilyrics",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/A_uL6zxsXq4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/A_uL6zxsXq4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/A_uL6zxsXq4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lyrics_4u",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-07-17T12:01:59Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "TLIqkqa2G3hv7sbppwPkuUSMY6g",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Vh2IWXMjL6A"
-            },
-            "snippet": {
-                "publishedAt": "2025-02-28T10:20:07Z",
-                "channelId": "UC75wxygTDvNPzHthZwnhtdg",
-                "title": "Desi Boyz || Girls Dance || WhatsApp (Lyrics) Dance || Status",
-                "description": "Desi Boyz || Girls Dance || WhatsApp (Lyrics) Dance || Status Hi welcome to my youtube channel Song name : Bollywood Dance ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Vh2IWXMjL6A/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Vh2IWXMjL6A/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Vh2IWXMjL6A/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lyrics boy",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-02-28T10:20:07Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "GCuTvxCdVVHb6THFBCaaxBJClsc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "4pxen_Fcwmo"
-            },
-            "snippet": {
-                "publishedAt": "2022-07-17T10:30:12Z",
-                "channelId": "UClk6BWFpBHK3aQGUInxHyIw",
-                "title": "Sanam Teri Kasam Lofi Song [Slowed × Reverb] - Akasa - Darshan Raval | Lofi Song | NR Lofi",
-                "description": "___Use Headphones For Better Experience___     Please Make Sure To Like, Share And Subscribe.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/4pxen_Fcwmo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/4pxen_Fcwmo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/4pxen_Fcwmo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Karthik",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-07-17T10:30:12Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "S310JIrjXeR7-pInnMRvh_okZbo",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "f3YMlpi2idM"
-            },
-            "snippet": {
-                "publishedAt": "2025-04-29T02:30:27Z",
-                "channelId": "UCZ10hIHUz2GW5fDo7WQCnfg",
-                "title": "Hua Main X Finding Her Mashup Song  💔 | Slowed Reverb | Status | Aesthetic |#lyrics#apexpulseagency",
-                "description": "Hua Main X Finding Her Mashup Song | Slowed Reverb | Sad Status | Aesthetic |#lyrics#trendingsong #SongLyrics ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/f3YMlpi2idM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/f3YMlpi2idM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/f3YMlpi2idM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Melodies 🎶 ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-04-29T02:30:27Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "GsfftCP1AT0mmHjvLjAZNnjQQHI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "0UdT61MKmxU"
-            },
-            "snippet": {
-                "publishedAt": "2022-02-14T15:27:24Z",
-                "channelId": "UCxLM9f8BeBRRYYxlQpAcd-w",
-                "title": "Arabic Kuthu ( Slow + Reverb ) 💞 | Vijay | Lofi mix | Pooja Hegde | SK | Senorita",
-                "description": "Instagram: https://www.instagram.com/senorita_muzix/ Credits: SUN PICTURES MUSIC: ANIRUDH RAVICHANDRAN ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/0UdT61MKmxU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/0UdT61MKmxU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/0UdT61MKmxU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Señorita ♪",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-02-14T15:27:24Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "4GNMtk1bOtfpwGQndQmz6Nw7lMo",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "9IOc4PS5_Tk"
-            },
-            "snippet": {
-                "publishedAt": "2024-08-23T09:14:53Z",
-                "channelId": "UCwbbMIWGu8pK-B7K-x-gqdg",
-                "title": "kaayi kaayi song | Edited by @DaringMafia #attitude #kpop #music #ytshorts",
-                "description": "kaayi kaayi song | Edited by @archanaeditz #attitude #kpop #music #ytshorts #shortsfeed#viralshorts #fypシ゚viral #fyp #views ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/9IOc4PS5_Tk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/9IOc4PS5_Tk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/9IOc4PS5_Tk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Daring Mafia ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-08-23T09:14:53Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "2kz9vVIShoG-RqBHcjLGgD_FGpk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "zxEAfjGMCh4"
-            },
-            "snippet": {
-                "publishedAt": "2024-06-26T07:49:48Z",
-                "channelId": "UCwfX-kb0rdgE9yI9pEfJO2A",
-                "title": "Tu Hai Kahan 🥺 Sad Song WhatsApp status 💔 Heart Broken Status ✨ True Love 🥀 #shorts #viral #love",
-                "description": "Tu Hai Kahan Sad Song WhatsApp status Heart Broken Status ✨ True Love #shorts #viral #love Keywords:- New Status ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/zxEAfjGMCh4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/zxEAfjGMCh4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/zxEAfjGMCh4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lofi Boy",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-06-26T07:49:48Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "3iCjQ3oSpJg-6nyMTJmrwMBOD_U",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "BLMl7QQ3gpk"
-            },
-            "snippet": {
-                "publishedAt": "2024-11-19T09:53:38Z",
-                "channelId": "UCBR2cEjISn0brrNU8l_FoHA",
-                "title": "Ami Je Tomar 3.0 - Shreya Ghoshal (Lyrics) #songlyrics #hindisong  #amijetomar3.0 #shreyaghoshal",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/BLMl7QQ3gpk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/BLMl7QQ3gpk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/BLMl7QQ3gpk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lyrics Spark",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-11-19T09:53:38Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "nktVvoFmd_K1rctQJ6iqPDQ6jhI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "LS7tsO0_IAc"
-            },
-            "snippet": {
-                "publishedAt": "2025-03-12T13:15:20Z",
-                "channelId": "UCFf_OoqVl12vbotIYH9kHkA",
-                "title": "Broken heart 💔🥺new song 2025 (Lyrics video)#shortsvideo #love #sadsong #shorts #sad #broken #newsong",
-                "description": "Broken heart new song 2025 (Lyrics video)#shortsvideo #love #sadsong #shorts #sad #broken #newsong @hindiultra Heart ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/LS7tsO0_IAc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/LS7tsO0_IAc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/LS7tsO0_IAc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Ꭾɪ፝֟፝֟ʜᴜ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-03-12T13:15:20Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "501vggZNnXV6M-VHIFoQYZ0Dk4o",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "fA-C_FO_h60"
-            },
-            "snippet": {
-                "publishedAt": "2022-06-24T09:30:59Z",
-                "channelId": "UCJyg5R6s6zV-sfwP3DjgRzw",
-                "title": "Most relaxing music in the world.",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/fA-C_FO_h60/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/fA-C_FO_h60/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/fA-C_FO_h60/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Unknown Well Wisher",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-06-24T09:30:59Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "GAQf8i-KSZAt3J0QuYHpOXbbxsE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "D6KwLwUm8Ho"
-            },
-            "snippet": {
-                "publishedAt": "2025-03-09T12:29:00Z",
-                "channelId": "UCrVyG1ZNFEJwWpVpJrxONWw",
-                "title": "Top 5 Best Heart Touching BGM&#39;S | Nenu Local BGM , Hello BGM | #shorts #bgm",
-                "description": "Top 5 Best Heart Touching BGM'S | Nenu Local BGM , Hello BGM | #shorts #bgm #trendingbgm #bgmsongs #bgmstatus ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/D6KwLwUm8Ho/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/D6KwLwUm8Ho/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/D6KwLwUm8Ho/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Fact_Crush",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-03-09T12:29:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "2dVlNOFQnsJLNwOUtwTkZ0z1BeY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "tBgNpc39FJk"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-01T01:36:18Z",
-                "channelId": "UCdsQsaeI8pQZtgrMmbjGUug",
-                "title": "Adharam Madhuram (Slow + Reverb) | Krishna Bhajan | Bhakti Song | Bhajan Song | Madhurashtakam Lofi",
-                "description": "Adharam Madhuram (Slow + Reverb) | Krishna Bhajan | Bhakti Song | Bhajan Song | Madhurashtakam Lofi आप सभी ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/tBgNpc39FJk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/tBgNpc39FJk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/tBgNpc39FJk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Nova Spiritual India",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-01T01:36:18Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "s0Z4KSEQSXpjHvkfr5WhIyTMPlM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "rFPl2XY0uv4"
-            },
-            "snippet": {
-                "publishedAt": "2023-05-22T11:30:28Z",
-                "channelId": "UCn4rEMqKtwBQ6-oEwbd4PcA",
-                "title": "Vellake Music Video - Alekhya Harika | Vinay Shanmukh, Bharatt-Saurabh, Anirudh Ravichander, S Vijay",
-                "description": "The much awaited #Vellake is finally here! Starring the beautiful #AlekhyaHarika & #SugiVijay, Vellakey is soul-stirring ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/rFPl2XY0uv4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/rFPl2XY0uv4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/rFPl2XY0uv4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Sony Music South",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-05-22T11:30:28Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "8j6ISTrhPuqN9VBHmLR0owOJct4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "a1pJJR-fFdA"
-            },
-            "snippet": {
-                "publishedAt": "2025-06-01T10:40:09Z",
-                "channelId": "UCfGc8dDrrBJKRWpvSqAE1nA",
-                "title": "Lal Pari (Hanny Singh) || Girls Dance || WhatsApp (Lyrics) Dance Status || #shorts",
-                "description": "Hi welcome to my youtube channel Song name : Bollywood Dance mashup song download MP3 , Mixup slowed reverb music ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/a1pJJR-fFdA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/a1pJJR-fFdA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/a1pJJR-fFdA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "LOFI LYRICS ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2025-06-01T10:40:09Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "hzNGcDxVeFspYQ62BsMFZ7d71Vk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Kfj_EmZOfCU"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-04T00:32:58Z",
-                "channelId": "UCdMET0f17bIuxPLC6ElV6Xw",
-                "title": "Saat Samundar Paar [Slowed + Reverb])| Sadhana Sargam Lo-fi Song |#music#shorts #viral #lofi",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Kfj_EmZOfCU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Kfj_EmZOfCU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Kfj_EmZOfCU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "S2 Edit TIKTOK",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-04T00:32:58Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "gjKbj3fFFI363A8KFUGhLWpfHjg",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "I8t0VJjEffk"
-            },
-            "snippet": {
-                "publishedAt": "2021-08-28T02:26:29Z",
-                "channelId": "UCpJ3VZb16uJFSmQyEQQ9Xlg",
-                "title": "Vachindamma Video Song With Lyrics | Geetha Govindam Movie | Vijay Devarakonda, Rashmika.",
-                "description": "Watch & Enjoy #Vachindamma Video Song With Lyrics From Telugu Movie #GeethaGovindam. Starring #VijayDevarakonda ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/I8t0VJjEffk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/I8t0VJjEffk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/I8t0VJjEffk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aditya Music PLAYBACK",
-                "liveBroadcastContent": "none",
-                "publishTime": "2021-08-28T02:26:29Z"
+                "publishTime": "2025-09-16T08:00:01Z"
             }
         }
     ]
@@ -11961,10 +8558,10 @@ const LofiStations = [
         description: 'Evergreen Bangla Rock + Lofi'
     },
     {
-        genreType: 'South Fusion',
-        songs: SouthIndianLofiSongsSuggestions, // Using same for now
+        genreType: 'Evergreen 90s',
+        songs: Top90sHitSongsSuggestions, // Using same for now
         icon: '🪔',
-        description: 'Melodic South Indian lofi fusion'
+        description: 'Top classic 90s hit songs to cherish'
     }
 ];
 
