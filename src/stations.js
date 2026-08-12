@@ -6843,6 +6843,1706 @@ const Top90sHitSongsSuggestions = {
     "items": [
         {
             "kind": "youtube#searchResult",
+            "etag": "mqM7Q11BTyJ48mNdnkmM4SrwhvA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aDa_tqgmEAg"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-11T03:30:00Z",
+                "channelId": "UCbrM4gIz9lvtXPUg4fseIEg",
+                "title": "9XM Wali Subah Mashup | Sid Guldekar | Best of 2000&#39;s &amp; 2010&#39;s Bollywood Songs | Nonstop Jukebox",
+                "description": "POV : It's 9XM time before going to school 9XM Wali Subah Mashup | Sid Guldekar | Best of 2000's & 2010's Bollywood Songs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aDa_tqgmEAg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aDa_tqgmEAg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aDa_tqgmEAg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sid Guldekar",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-11T03:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ys9DxpeSnVj3cozK0ohqu835vKE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NuwSE9Qh7rw"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-30T12:30:28Z",
+                "channelId": "UCN_0Rn_q039H-y2i3s7fV6g",
+                "title": "POV: It&#39;s a 9XM Morning || You&#39;re Vibing to 2010s Bollywood Hits",
+                "description": "POV: It's a 9XM Morning and you're Vibing to 2010s Bollywood Hits. Step into the ultimate nostalgia trip with the most iconic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NuwSE9Qh7rw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NuwSE9Qh7rw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NuwSE9Qh7rw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Harmony Highway",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-30T12:30:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ayBEjj83JsPywJXOSe4gn_XIz7c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Mmu-tj-psuk"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T04:00:32Z",
+                "channelId": "UCloW-AFGCV4_Kt2UMZf-htQ",
+                "title": "POV : It&#39;s 9XM Wali Subah | 2010&#39;s Bollywood Playlist",
+                "description": "POV : It's 9XM Wali Subah | It is 2010's and you are vibing to the best Bollywood Playlist ..",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Mmu-tj-psuk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Mmu-tj-psuk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Mmu-tj-psuk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shido Lofi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T04:00:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ew7bkAWZItxRH9E_D-_OjbfODEo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "I0rk-0Mmys8"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-10T13:00:36Z",
+                "channelId": "UCN_0Rn_q039H-y2i3s7fV6g",
+                "title": "POV: It&#39;s a 9XM Morning || You&#39;re Vibing to 2010s Bollywood Hits💿🔥 #9xm",
+                "description": "POV: It's a 9XM Morning and you're Vibing to 2010s Bollywood Hits. Step into the ultimate nostalgia trip with the most iconic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I0rk-0Mmys8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I0rk-0Mmys8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I0rk-0Mmys8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Harmony Highway",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-10T13:00:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eitVce4IioW8jAaaXdRJyIyMTq4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "om1n7Ie_Rg8"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-28T03:30:40Z",
+                "channelId": "UCloW-AFGCV4_Kt2UMZf-htQ",
+                "title": "9XM Nostalgic Playlist | 2010&#39;s 9XM Wali Bollywood Playlist",
+                "description": "POV : It's 9XM Wali Subah | It is 2010's and you are vibing to the best Bollywood Playlist .. 00:00 - Tera Hone Laga Hoon 05:00 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/om1n7Ie_Rg8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/om1n7Ie_Rg8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/om1n7Ie_Rg8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shido Lofi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-28T03:30:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "16IU0kpFVJNN5hbnki12Kue9wpw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wAeuHiJVTz4"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-19T16:27:55Z",
+                "channelId": "UC3wIGNaewPPfK1tY5e1wceQ",
+                "title": "POV: Sunday Morning with 9XM | Non-stop 2010 Bollywood Hits Playlist 🎶🌤️",
+                "description": "Experience pure nostalgia with this 2010s 9XM playlist! Remember those lazy Sunday mornings when 9XM played the best ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wAeuHiJVTz4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wAeuHiJVTz4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wAeuHiJVTz4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WorldyMelo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-19T16:27:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XphYrVcCC6QoisCVtWSqlJ18Vo4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KRA26LhuTP4"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-07T19:27:16Z",
+                "channelId": "UC7100luX6Jc8NySTow4ovog",
+                "title": "Best of Bollywood Hindi lofi / chill mix playlist | 1 hour non-stop to relax, drive, study, sleep 💙🎵",
+                "description": "SUBSCRIBE FOR NEW SONGS EVERY WEEK LET'S STAY CONNECTED Instagram: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KRA26LhuTP4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KRA26LhuTP4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KRA26LhuTP4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "aMeth Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-07T19:27:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UF_oDhAMxxFqtIGaBcKUls1FtcI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EMzBQ6yqsE0"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-02T12:30:19Z",
+                "channelId": "UCN_0Rn_q039H-y2i3s7fV6g",
+                "title": "POV: It&#39;s a 9XM Morning || You&#39;re Vibing to 2010s Bollywood Hits",
+                "description": "POV: It's a 9XM Morning and you're Vibing to 2010s Bollywood Hits. Step into the ultimate nostalgia trip with the most iconic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EMzBQ6yqsE0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EMzBQ6yqsE0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EMzBQ6yqsE0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Harmony Highway",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-02T12:30:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RRuT4mrOCg6J5QD3B28eNFKmO6g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vMfGJXKj6CY"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-14T15:25:20Z",
+                "channelId": "UCfX15w7eaZn5rV8cCGRbTRA",
+                "title": "pov: it&#39;s a 9xm vali subah | 2010&#39;s bollywood playlist",
+                "description": "Did you Experience the nostalgia? Our mesmerizing mashup of timeless Bollywood songs will transport you to a dreamy world of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vMfGJXKj6CY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vMfGJXKj6CY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vMfGJXKj6CY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hopeless",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-14T15:25:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Pw3omMag_4krdbTgq4eXbkY2DjI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "78zRUb3zZtY"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-11T16:37:38Z",
+                "channelId": "UCFO7oRzk5Tna-_65CbwwGpQ",
+                "title": "Bollywood Love Rewind 💫 Evergreen Romantic Songs Collection",
+                "description": "Relive the magic of the golden Bollywood era! This video is a tribute to the unforgettable 9xm era — celebrating the melodies, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/78zRUb3zZtY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/78zRUb3zZtY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/78zRUb3zZtY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "9xmEra",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-11T16:37:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0ZyNKtaWUtMHSm0kzS7oJgZAD_E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jEj88MoCID4"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-26T09:15:36Z",
+                "channelId": "UCfNResC9nNx4KeruYap1Ppg",
+                "title": "POV: It&#39;s 9xm romantic moring ☀️💘",
+                "description": "POV: It's 9XM Romantic Morning ☀️   | Nostalgic 2000s–2015 Hits Step into a romantic morning full of nostalgia ✨ – where ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jEj88MoCID4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jEj88MoCID4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jEj88MoCID4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cineverse",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-26T09:15:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JDqO6tRrY8l6qA94qCA-1sUq9k8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "clo67XCJoRE"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-02T14:18:10Z",
+                "channelId": "UCOrmm6-BQ2FhPYS7uXpvVXg",
+                "title": "POV: It&#39;s a 9XM Morning || You&#39;re Vibing to 2010s Bollywood Hits || 9xm Wali Subha",
+                "description": "POV: It's a 9XM Morning and you're Vibing to 2010s Bollywood Hits || 9xm Wali Subha Step into the ultimate nostalgia trip with the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/clo67XCJoRE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/clo67XCJoRE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/clo67XCJoRE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Khayalon Ki Qashmakash ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-02T14:18:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oKIgPTE-X6_5mvSQKditlaesDTM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "m70d24MiCPA"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-19T12:30:26Z",
+                "channelId": "UCjeD2I8jwXg2l_nvXb_6Hzw",
+                "title": "Late Night Chill | Audio Jukebox | Romantic Songs | Slow Bollywood Songs | Feel Good Hindi Songs",
+                "description": "Some nights are meant for music that speaks louder than words. Press play and let the melodies soothe your soul! ▻ YRF New ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m70d24MiCPA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m70d24MiCPA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m70d24MiCPA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YRF Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-19T12:30:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1t6qpgvEzi3BGckGEYWe_i-tHi8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JMFVV1Q-ZMU"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-09T09:23:25Z",
+                "channelId": "UCkoxP0j3kvd06CaiuRWOxhw",
+                "title": "POV: It’s 9XM  &amp; Bollywood Hits Are Setting the Vibe",
+                "description": "POV: It's 9XM & Bollywood Hits Are Setting the Vibe {Part3}(+Timestamps) POV: It's a 9XM morning and you're vibing to 2010s ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JMFVV1Q-ZMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JMFVV1Q-ZMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JMFVV1Q-ZMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pookie Vibes💗",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-09T09:23:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qMlQWHh84UslpHmJjwTVW_UnN5k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6UxZI8qG2Dg"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-09T05:55:42Z",
+                "channelId": "UCsnjirxCAxP67nheDtZN2Ng",
+                "title": "Nostalgic Love Mashup || Best of Bollywood Hindi Romantic Songs|| Non-Stop Jukebox||",
+                "description": "lofihiphop #music #aesthetic #hiphop #lofibeats #beats #lofiedits #lofiaesthetic #lofimusic #vaporwave #chill #producer #sp ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6UxZI8qG2Dg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6UxZI8qG2Dg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6UxZI8qG2Dg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lo-fi Verse",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-09T05:55:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "G0ypuVvIzs7BCg3TFxYalJ0ebdc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AeMfBXyQLgE"
+            },
+            "snippet": {
+                "publishedAt": "2024-09-29T12:00:23Z",
+                "channelId": "UCSX-M9pOWhiZGaKZFEC2boQ",
+                "title": "Beautiful of Love Jukebox 2024 | Swaraj Komejwar | Non-Stop Romantic Mashup | LoFi Chillout",
+                "description": "Presenting - Beautiful of Love Jukebox 2024 | Swaraj Komejwar | Non-Stop Romantic Mashup | LoFi Chillout Mashup : Swaraj ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AeMfBXyQLgE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AeMfBXyQLgE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AeMfBXyQLgE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Swaraj Komejwar",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-09-29T12:00:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WIClGOEeM3Mg3kGVZiDZyUlFJ2E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S3kMn14_Yrs"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-05T11:15:05Z",
+                "channelId": "UCfjSxU67UK2HYlkvSF2bkQg",
+                "title": "KK Lofi Mix [Slowed+Reverb] - Kk Lofi Songs - KK Jukebox - Lofi Pills - Bollywood Lofi Songs",
+                "description": "KK Tribute Lofi Songs (Slowed+Reverb) Use Headphones for better experience Tags:- KK songs.KK Lofi Songs.KK slowed and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S3kMn14_Yrs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S3kMn14_Yrs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S3kMn14_Yrs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lofi Pills ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-05T11:15:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dRvLjG0wYzU-MvcoqFxocodGN9w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VtQb1X1qHe8"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-01T07:33:49Z",
+                "channelId": "UCkoxP0j3kvd06CaiuRWOxhw",
+                "title": "POV: It&#39;s a 9XM morning and you&#39;re vibing to 2010s Bollywood hits",
+                "description": "POV: It's a 9XM morning and you're vibing to 2010s Bollywood hits {Part1}(+Timestamps) Step into the ultimate nostalgia trip with ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VtQb1X1qHe8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VtQb1X1qHe8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VtQb1X1qHe8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pookie Vibes💗",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-01T07:33:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "40JCfdi6n4NSrOyPqCDiZ-jjpGo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SKwPZoj3eUA"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-31T01:30:20Z",
+                "channelId": "UC5vSQi0qHLjcPkk0JiGs5gA",
+                "title": "9XM Wali Subah Mashup | Sid Guldekar | Best of 2000&#39;s &amp; 2010&#39;s Bollywood Songs |Nonstop Jukebox",
+                "description": "POV: It's 9XM time before going to school 9XM Wali Subah Mashup | Sid Guldekar | Best of 2000's & 2010's Bollywood Songs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SKwPZoj3eUA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SKwPZoj3eUA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SKwPZoj3eUA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T MUSIC SERIES ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-31T01:30:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "APBelPeZRUvqRIyFhoL8ICx4fa4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CerL_obhD9Y"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-01T18:30:05Z",
+                "channelId": "UCh7aocZezr9gnY0uh0uONVA",
+                "title": "30 Minutes of Peace Vol.1 - Best of Bollywood Lofi Mixtape to relax/chill/study/drive",
+                "description": "Presenting You Some of my Lo-fi. Hope You guys will like it. Follow Lo-fi 2307 on: Instagram - https://www.instagram.com/lofi2307/ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CerL_obhD9Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CerL_obhD9Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CerL_obhD9Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lo-fi 2307",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-01T18:30:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ErwTWt7m4m8rdsmv3A5I7rbJGaI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qG8hzNAxrhY"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-08T06:11:11Z",
+                "channelId": "UC-JGDWx9swkPdhjL-_dVyGw",
+                "title": "1 Hour Of Night Hindi Lofi Songs To Study \\Chill \\Relax \\Refreshing",
+                "description": "Use Headphones for best experience ✦ Subscribe for new songs ✦ Enjoy lofi and chill life Our Insta ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qG8hzNAxrhY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qG8hzNAxrhY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qG8hzNAxrhY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "indianmusicalvideos",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-08T06:11:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "X2p8GvZq1jNhaX26B7CPvi1JvMw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5JM6UVEhKKo"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-27T06:11:33Z",
+                "channelId": "UC0QsS_FoRJOOFjVuVld1aEw",
+                "title": "POV: It&#39;s a 9XM Morning || You&#39;re Vibing to 2010s Bollywood Hit",
+                "description": "POV: It's a 9XM Morning and you're Vibing to 2010s Bollywood Hits. Step into the ultimate nostalgia trip with the most iconic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5JM6UVEhKKo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5JM6UVEhKKo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5JM6UVEhKKo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RetroVibes Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-27T06:11:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0NEbWK8Snlgs3RiYBxkIA1d6Tg8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G1991kPYabU"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-24T03:00:19Z",
+                "channelId": "UCloW-AFGCV4_Kt2UMZf-htQ",
+                "title": "POV : It&#39;s 9XM Wali Subah | 9XM Nostalgic Mashup | 2010&#39;s Bollywood Playlist",
+                "description": "POV : It's 9XM Wali Subah | It is 2010's and you are vibing to the best Bollywood Playlist ..",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G1991kPYabU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G1991kPYabU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G1991kPYabU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shido Lofi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-24T03:00:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_VrP411SRGM4j8znx-lq-NhybbU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OikJl3dLlgA"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-04T12:41:36Z",
+                "channelId": "UC2b59LWhWpFq3uTnhemuCeA",
+                "title": "POV: It’s 2010 &amp; You’re Watching 9XM While Getting Ready for School 🎒 || Bollywood Songs",
+                "description": "POV: It's a 9XM morning and you're vibing to the golden era of Bollywood. Get ready to feel the ultimate desi nostalgia with these ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OikJl3dLlgA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OikJl3dLlgA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OikJl3dLlgA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Exploring Miles",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-04T12:41:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zSXi8cIoC_kRlBFLMuFekXnQ9os",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vFAyfTQyZfg"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-26T05:30:21Z",
+                "channelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+                "title": "Soulful Evergreen Melodies | Best of Bollywood Love Songs | Audio Jukebox",
+                "description": "Experience the magic of soulful melodies with this collection of Bollywood's most loved romantic songs. From heart-touching ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vFAyfTQyZfg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vFAyfTQyZfg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vFAyfTQyZfg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sony Music India",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-26T05:30:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ggSNnxuHgLjETO7A9JyGaFocfvo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6ZsW2G7w4f4"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-14T09:38:57Z",
+                "channelId": "UCFO7oRzk5Tna-_65CbwwGpQ",
+                "title": "Relive Your Childhood | Classic Bollywood Songs from 9xm Era",
+                "description": "Relive the golden era of Bollywood! This video brings back the timeless magic of the 9xm Era — full of evergreen romantic, soulful ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6ZsW2G7w4f4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6ZsW2G7w4f4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6ZsW2G7w4f4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "9xmEra",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-14T09:38:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gUKnRzvrPG4Ziddh_tTcsIXJRLw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "l2748B3yBQo"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-02T17:59:54Z",
+                "channelId": "UCaZgIpURwG61GH8cIUyHsvg",
+                "title": "9XM wali subh| Remix| Old songs| Old school| Songs 2025 #oldschool #oldschoolsongs #viral #trending ",
+                "description": "9XM wali subh| Remix| Old songs| Old school| Songs 2025 #oldschool #oldschoolsongs #viral #trending #shorts #video #songs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l2748B3yBQo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l2748B3yBQo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l2748B3yBQo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Anita Bhatt",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-02T17:59:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8hrSR8A7QOvew5tWzErvI_dJKLM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lrHlY9j44os"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-08T17:30:14Z",
+                "channelId": "UCPmPMbl6ULkGjlsglNys1YQ",
+                "title": "9XM Morning Lofi Mashup 2026 | Best Bollywood Songs | Nonstop Jukebox | Morning Vibes | Lofi Nonstop",
+                "description": "9XM Morning Lofi Mashup 2026 | Best Bollywood Songs | Nonstop Jukebox | Morning Vibes | Lofi Nonstop Start your day with the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lrHlY9j44os/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lrHlY9j44os/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lrHlY9j44os/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pc Studio",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-08T17:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0Gto17sQbKRlbNotQhSGdiu7fEw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rrrbQFG8TkE"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-01T05:30:16Z",
+                "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
+                "title": "DARKHAAST Lofi Mix | DJ YOGII | SHIVAAY | Arijit S, Sunidhi C | Ajay Devgn | Lofi Bollywood Songs",
+                "description": "Presenting lofi mix of bollywood song \"DARKHAAST\" by DJ YOGII in the voice of Arijit Singh & Sunidhi Chauhan from the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rrrbQFG8TkE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rrrbQFG8TkE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rrrbQFG8TkE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T-Series",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-01T05:30:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gRgLBMj8MoBtnc2aNt-S4jcdxls",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aEu4neydFfs"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-19T14:53:14Z",
+                "channelId": "UCCxvwd3BdDelahfzF9WkHOA",
+                "title": "NIGHT VIBES Mashup | Night Vibes Songs | Hindi Lofi Songs To \\Chill \\Relax \\Refreshing",
+                "description": "NIGHT VIBES Mashup | Night Vibes Songs | Hindi Lofi Songs To \\Chill \\Relax \\Refreshing Best Of Emraan Hashmi | 2025 Feeling ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aEu4neydFfs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aEu4neydFfs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aEu4neydFfs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sudo music ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-19T14:53:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IxOcY-XzZOShyYp_CDysNcBKAEs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "22xl4ddmNHI"
+            },
+            "snippet": {
+                "publishedAt": "2026-03-07T13:12:01Z",
+                "channelId": "UCTo4cG3tsS54zLxmUWVhUeA",
+                "title": "𝗕𝗔𝗗𝗦𝗛𝗔𝗛 𝗛𝗜𝗧𝗦 𝗧𝗛𝗔𝗧 𝗪𝗜𝗟𝗟 𝗧𝗔𝗞𝗘 𝗬𝗢𝗨 𝗕𝗔𝗖𝗞 𝗧𝗢 9𝗫𝗠 𝗗𝗔𝗬𝗦 ",
+                "description": "BADSHAH HITS THAT WILL TAKE YOU BACK TO 9XM DAYS 0:00 Bad boy 1:19 Gamri 3:15 She ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/22xl4ddmNHI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/22xl4ddmNHI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/22xl4ddmNHI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "k_os.",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-03-07T13:12:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E8hjkp4ps9LPXjpj2e2g2ktJqtg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iQVuONFLwWU"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-31T05:46:44Z",
+                "channelId": "UCe42vwEDO2dk2SaKuDhmv3Q",
+                "title": "Night Lofi Songs | Mashup | Feel Relax &amp; Sleep | Slowed+Reverb | Hindi Lofi Vibes #lofi #bollywood",
+                "description": "Night Lofi Songs | Mashup | Feel Relax & Sleep | Slowed+Reverb | Hindi Lofi Vibes #lofi #bollywood Rk music @rkm86435 #lofl ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iQVuONFLwWU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iQVuONFLwWU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iQVuONFLwWU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RK MUSIC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-31T05:46:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JlGuMVfH1a6teix85QQa4kZehgU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ui4bMcWieII"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-29T19:27:56Z",
+                "channelId": "UCfX15w7eaZn5rV8cCGRbTRA",
+                "title": "9xm, Emraan, heartbreak | the real holy trinity",
+                "description": "Did you Experience the nostalgia? Our mesmerizing mashup of timeless Bollywood songs will transport you to a dreamy world of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ui4bMcWieII/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ui4bMcWieII/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ui4bMcWieII/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hopeless",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-29T19:27:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZdABI98IiHcUlM5Dw3SDr77skCY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tGr6lo3DPN0"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T05:30:12Z",
+                "channelId": "UCG0qIDDt9pspDsEhsqbQIyg",
+                "title": "Marathi X Hindi X English (TRIO MASHUP) LOFI || TJ 18 Beatz",
+                "description": "Prod By - TJ 18 Beatz √For Any Queries Email : tpawar854@gmail.com Instagram ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tGr6lo3DPN0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tGr6lo3DPN0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tGr6lo3DPN0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TJ 18 Beatz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T05:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sVLGJFdqjMz6q0X6f_T5ebJwyRA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gbcFwOZ6uJI"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-17T13:28:59Z",
+                "channelId": "UCKEAaRFGX7XfexoKNHOnL6Q",
+                "title": "Nostalgic Love Mashup | Visual Galaxy | Shah Rukh Khan | Falak Tak | Bollywood Lofi Love Mashup 2023",
+                "description": "Nostalgic Love Mashup | Visual Galaxy | Shah Rukh Khan | Falak Tak | Love Mashup 2023 | Bollywood Lofi Music - Visual Galaxy ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gbcFwOZ6uJI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gbcFwOZ6uJI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gbcFwOZ6uJI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Visual Galaxy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-17T13:28:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zPz_swR-fAaNPlvO48PaTAPGcJo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ADUTUY2Gff0"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-12T13:26:30Z",
+                "channelId": "UCnyqru0TlGYYZAsld1rbetw",
+                "title": "Anxiety(lyrics)✨ #lofi #music #song #lyrics",
+                "description": "gubogloo instagram:https://www.instagram.com/gubogloo?igsh=OTBhb2wyNzI1ZHhy Follow gubogloo #lofi #music #song #lyrics ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ADUTUY2Gff0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ADUTUY2Gff0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ADUTUY2Gff0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "lofi-songs",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-12T13:26:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tgIS1opJZvbARK2MdQRpK_4GjbI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VnN7nR-JHRc"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-12T15:30:06Z",
+                "channelId": "UCv4igYWswVwTuBgsJ-02Vmg",
+                "title": "30 Minutes of Chill Bollywood Mix | Feel-Good Songs &amp; Vibes (2026) | Akarsh On Air",
+                "description": "A feel-good mix of popular Bollywood songs: perfect for relaxing, house parties, driving, late-night sessions, or just creating good ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VnN7nR-JHRc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VnN7nR-JHRc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VnN7nR-JHRc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Akarsh On Air",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-12T15:30:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bJaQL8EM6tTMFeXLJtOfviwJL10",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YwEKIl3qQzA"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-25T12:40:16Z",
+                "channelId": "UCG1LNHAZl7UT8igKJ_Gg_-A",
+                "title": "Non-Stop Road Trip Jukebox | SICKVED | Best Travelling Songs | Bollywood",
+                "description": "Non Glitch Version : https://youtu.be/EVF_AuhJgLg #bollywoodmashup #Lovemashup #SICKVED #ValentineMashup2022 #2022 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YwEKIl3qQzA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YwEKIl3qQzA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YwEKIl3qQzA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SICKVED",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-25T12:40:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DwzpDi1_0o_gi-Gh0ZAQGSp_cHo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d8sWjKvBH9M"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-24T06:18:05Z",
+                "channelId": "UCMqRH9PluFpXoTGWcHq51fw",
+                "title": "Bom Diggy Diggy - Lofi (Slowed + Reverb) | Jasmin Walia | Sudhanshu Editz 2.0",
+                "description": "Use for best experience. For Removal Purpose Mail Me Don't Give Me Strike sudhanshu01@gmail.com Disclaimer This ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d8sWjKvBH9M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d8sWjKvBH9M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d8sWjKvBH9M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sudhanshu Editz 2.0",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-24T06:18:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4Z08qX_fQXdPjNGbLL-K9bcGoaY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vOxZJ0wKaGc"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-11T05:30:08Z",
+                "channelId": "UCsfPht2eCM_IHta3OItPFfQ",
+                "title": "Lofi mashup || non stop + love songs || use headphones And feel Songs || @musicclub_143",
+                "description": "Lofi Mashup || Non Stop + Love Songs || Use Hedphones And feel Songs || ( @musicclub_143 ) FOR BEST EXPERIENCE ,USE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vOxZJ0wKaGc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vOxZJ0wKaGc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vOxZJ0wKaGc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "music club",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-11T05:30:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y8vZ6GOZ6XVb35P0OatjQjZqog0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LVXzrMRcY1I"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-10T07:36:11Z",
+                "channelId": "UCQMgg0enN4dxPCO31TR--rA",
+                "title": "Rejuvenate &amp; Refresh yourself with soothing Lo-fi Music only on 9XM . Sat,Sun &amp; Wed at 2pm &amp; 9pm",
+                "description": "Rejuvenate & Refresh yourself with soothing #lofimusic only on #9XM . Sat,Sun & Wed at 2pm & 9pm #bestsongs.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LVXzrMRcY1I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LVXzrMRcY1I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LVXzrMRcY1I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "9XM",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-10T07:36:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "n-6y9A3X9Hey8OaMIviM6FpqMfg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HZqt1Z0_91s"
+            },
+            "snippet": {
+                "publishedAt": "2026-08-11T16:00:38Z",
+                "channelId": "UCvsTUjvyaFnCWTfqwxU1a5w",
+                "title": "9XM Wali Subah Mashup | NovaTuneOfficial | Best of 2000&#39;s &amp; 2010&#39;s Bollywood Songs | Nonstop Jukebox",
+                "description": "ArijitSinghMashup #lofimusic #bollywoodlofi POV : It's 9XM time before going to school 9XM Wali Subah Mashup | Sid Guldekar ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HZqt1Z0_91s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HZqt1Z0_91s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HZqt1Z0_91s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NovaTuneOfficial-07",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-08-11T16:00:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1AFNGEZja0A1nwGVEAUmsmVUOOg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3vdsTHQ_khk"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-11T13:30:06Z",
+                "channelId": "UCfK6cpi5qcnqUSt9zasr5Kg",
+                "title": "9xm Aur Chai Wali Subhah Mashup | Chill VIbes Music |  Best of 2000&#39;s &amp; 2010&#39;s Bollywood Songs |",
+                "description": "IshqHaiMashup #2024YearEndLoveMashup #lovemashup2023 POV : It's 9XM time before going to school 9XM Wali Subah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3vdsTHQ_khk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3vdsTHQ_khk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3vdsTHQ_khk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Chill Vibes Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-11T13:30:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7-t-NqFKTJSXbOzt9jX0Ux12J_c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fG9qSm8BncY"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-31T10:18:50Z",
+                "channelId": "UChK09qSTns_rsVJLgJuqxdw",
+                "title": "9XM Wali Subah Mashup | Best of 2000&#39;s &amp; 2010&#39;s Bollywood Songs | Nonstop Jukebox",
+                "description": "9XM Wali Subah Mashup | Best of 2000's & 2010's Bollywood Songs | Nonstop Jukebox Songs : 1. Rabba Main To Mar Gaya 2.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fG9qSm8BncY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fG9qSm8BncY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fG9qSm8BncY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lofi Vibe Kicks",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-31T10:18:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a1I_RtKgsSxwDjNJX1Hd1BnThFI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zIEwlTGQvmc"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-19T14:13:46Z",
+                "channelId": "UCbxUNU2Ax39vNc8hT_PiFOQ",
+                "title": "9XM BOLLY POP MASHUP  | Tattvaa | Ed Sheeran | Arijit Singh |",
+                "description": "9XM BOLLY POP MASHUP | Tattvaa | Welcome to Tattva Experience the colors of love through this beautiful mashup featuring ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zIEwlTGQvmc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zIEwlTGQvmc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zIEwlTGQvmc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tattvaa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-19T14:13:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "603NBNdbgvaaHhd4P4wyy17Nzc0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2ZQnb2EOjt8"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-28T14:36:24Z",
+                "channelId": "UCcS-3z7pnr_44hTrEWZz_lQ",
+                "title": "POV: It&#39;s a 9XM Morning || Fell The Lyrics || You&#39;re Vibing || To Era Of 2008 To 2012 || LoFi Mix ❤️",
+                "description": "music #bollywoodnostalgia #editaudiosbadass #9xm POV: it's a 9XM Morning Remember That Day And you're Vibing to The Era ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2ZQnb2EOjt8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2ZQnb2EOjt8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2ZQnb2EOjt8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "G.O.A.T MUSIC WORLD",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-28T14:36:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bu0EnO4oMXcbGCfNRk_-GX3wuEc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NqNXF28rvbw"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-20T12:22:57Z",
+                "channelId": "UCWQl2SHPXjmeTSRxXL6hgcQ",
+                "title": "&quot;9XM Style 2010s Bollywood Morning Playlist | Top Hits Collection&quot;",
+                "description": "Did you Experience the nostalgia? Our mesmerizing mashup of timeless Bollywood songs will transport you to a dreamy world of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NqNXF28rvbw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NqNXF28rvbw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NqNXF28rvbw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kousik Solution",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-20T12:22:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uUiD6H4rLJ2bTGanNWd76mDV77s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "t3NOpF5ieBo"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-01T10:44:02Z",
+                "channelId": "UCKty4J0E9Mn7sCKVqEY8sCg",
+                "title": "Lofi Bollywood Mashup 2023❤️| Classic vs Modern Hindi Songs Mashup Arijit Singh, Atif Aslam #song",
+                "description": "Lofi Bollywood Mashup 2023❤️| Classic vs Modern Hindi Songs Mashup Arijit Singh, Atif Aslam #bollywoodsongs #long ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t3NOpF5ieBo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t3NOpF5ieBo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t3NOpF5ieBo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Relaxing Mood",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-01T10:44:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "87MvRvRIXxv9U2bMXs5KinoEa7k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZJqIRDuhND0"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-26T11:50:17Z",
+                "channelId": "UChhAHI91ecWbAu4UECxCGbw",
+                "title": "Romantic Bollywood Mashup | Timeless Love Songs 2010s | Heart-Touching Vibes | 9XM Style Throwback",
+                "description": "Fall in love all over again with this emotional and heart-melting Bollywood romantic mashup. These timeless classics are blended ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZJqIRDuhND0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZJqIRDuhND0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZJqIRDuhND0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kallakari",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-26T11:50:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Pwe8V5TfwqFkiLq8iSP4r_OmCyY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nHYRMHHU4QE"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-28T12:27:34Z",
+                "channelId": "UCcyogjr-pDIMCUupEcRYpUw",
+                "title": "Tu Kare Blow - Aesthetic Dance ❤️‍🔥😪",
+                "description": "Tu Kare Blow - Aesthetic Dance ❤️‍     This Video Or A Short Is Edited By @SamYt1286 Like Share & Subscribe For More .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nHYRMHHU4QE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nHYRMHHU4QE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nHYRMHHU4QE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sam Yt ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-28T12:27:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "MN8qaPH8_Com-E_8ws7nklMmzEs",
             "id": {
                 "kind": "youtube#video",
@@ -8552,7 +10252,7 @@ const LofiStations = [
         description: 'Relaxing Bollywood lofi remixes'
     },
     {
-        genreType: 'Bengla Rock',
+        genreType: 'Bangla Rock',
         songs: BengaliLofiSongsSuggestions,
         icon: '🎶',
         description: 'Evergreen Bangla Rock + Lofi'
